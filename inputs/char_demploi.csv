@@ -1,0 +1,11 @@
+cha_id,chateristique,typ_id
+cha_1,"A temps partiel, souhaitant travailler davantage, recherchant un emploi et disponible pour travailler davantage",typ_1
+cha_2,"A temps partiel, souhaitant travailler davantage, mais ne recherchant pas un emploi bien que disponible pour travailler davantage",typ_1
+cha_3,"A temps complet, ayant involontairement travaillé moins que d'habitude (chômage partiel, chômage technique)",typ_1
+cha_4,Contrats à durée déterminée et contrats saisonniers (public et privé),typ_2
+cha_5,Intérimaires,typ_2
+cha_6,Apprentis,typ_2
+cha_7,Contrats à durée indéterminée,typ_2
+cha_8,Indépendants,typ_2
+cha_9,Temps complet,typ_3
+cha_10,Temps partiel,typ_3

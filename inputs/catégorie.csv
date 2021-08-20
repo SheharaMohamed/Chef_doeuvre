@@ -1,0 +1,9 @@
+cat_id,catégorie
+cat_1,Agriculteurs exploitants
+cat_2,"Artisans, commerçants et chefs d'entreprises"
+cat_3,Cadres et professions intellectuelles supérieures
+cat_4,Professions intermédiaires
+cat_5,Employés
+cat_6,Ouvriers qualifiés
+cat_7,Ouvriers non qualifiés
+cat_8,"Autres (militaires du contingent, non renseigné)"

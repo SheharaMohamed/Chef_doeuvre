@@ -1,0 +1,19 @@
+code_reg,region,code_pays
+1,Guadeloupe,pay_1
+2,Martinique,pay_1
+3,Guyane,pay_1
+4,La Réunion,pay_1
+6,Mayotte,pay_1
+11,Île-de-France,pay_1
+24,Centre-Val de Loire,pay_1
+27,Bourgogne-Franche-Comté,pay_1
+28,Normandie,pay_1
+32,Hauts-de-France,pay_1
+44,Grand Est,pay_1
+52,Pays de la Loire,pay_1
+53,Bretagne,pay_1
+75,Nouvelle-Aquitaine,pay_1
+76,Occitanie,pay_1
+84,Auvergne-Rhône-Alpes,pay_1
+93,Provence-Alpes-Côte d'Azur,pay_1
+94,Corse,pay_1
