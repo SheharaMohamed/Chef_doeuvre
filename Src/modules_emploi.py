@@ -1,17 +1,20 @@
-from sqlalchemy import create_engine
-import pymysql
+import pandas as pd
 
-import streamlit as st
+def calc_percentage(dataframe, cols):
 
-# Création d'engine pour connecter le serveur MySQL
-engine = create_engine(
-"mysql+pymysql://root:tashe1129@localhost/emploi?charset=utf8mb4&binary_prefix=true")
+    for col in cols:
+        lst = [dataframe[dataframe.année == dataframe['année'].min()][col].iloc[0]]
+        lst.extend(dataframe[col][:-1].tolist())
+        dataframe['temp'] = lst
+        dataframe['perc_'+col.split('_')[1]] = (dataframe[col]*100/dataframe['temp'])-100
+        dataframe.drop(columns = ['temp'], inplace = True)
+    dataframe.drop(columns = cols, inplace = True)
+    return(dataframe)
 
-# Définir la connection pour la base de donnée
-conn = engine.connect()
+def backup(df,filename):
+    import datetime;
+    df = pd.DataFrame(df)
+    ts = datetime.datetime.now()
+    df.to_csv("{}.csv".format(filename))
 
-def exec():
-    q = "SELECT * FROM diplôme;"
-    res = conn.execute(q)
-    for el in res:
-        st.write(el)
+

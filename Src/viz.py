@@ -5,22 +5,20 @@ import diplôme
 import catégorie
 import characteristique
 import géographique
-from modules_emploi import exec
+import globals
 
 from sqlalchemy import create_engine
-# from sqlalchemy.orm import sessionmaker
-# from sqlalchemy import create_engine, MetaData, Table, Column, Integer, String
+
 import pymysql
 
 st.set_page_config(layout="wide")
 
 nav = st.sidebar.radio(
     "Choisissez l'indicateur",
-    ["Diplôme", "Catégorie Socioprofessionnelle", "Characteristique d'emploi", "Position Géographique"]
+    ["Diplôme", "Catégorie Socioprofessionnelle", "Caractéristique d'emploi", "Le secteur géographique"]
 )
 
-engine = create_engine(
-    "mysql+pymysql://root:tashe1129@localhost/emploi?charset=utf8mb4&binary_prefix=true")
+engine = create_engine("mysql+pymysql://user1:mdp1@localhost/emploi?charset=utf8mb4&binary_prefix=true")
 
 s = st.sidebar.selectbox(
     "Sexe",
@@ -38,7 +36,7 @@ if nav == "Diplôme":
             index = 1
             )
     st.title("Comparateur d'emploi par diplôme")
-    diplôme.interface_diplôme(age[g],sexe[s])
+    diplôme.interface_diplôme(age[g],sexe[s],globals.df_dip)
 
 elif nav == "Catégorie Socioprofessionnelle":
     g = st.sidebar.selectbox(
@@ -47,17 +45,17 @@ elif nav == "Catégorie Socioprofessionnelle":
             index = 1
             )
     st.title("Comparateur d'emploi par catégorie socioprofessionnelle")
-    catégorie.interface_catégorie(age[g],sexe[s])
+    catégorie.interface_catégorie(age[g],sexe[s],globals.df_cat)
 
-elif nav == "Characteristique d'emploi":
+elif nav == "Caractéristique d'emploi":
 
     g = st.sidebar.selectbox(
             "Groupe d'age",
             ["15 ans - 24 ans", "25 ans - 50 ans", "50 ans et plus", "Ensemble"],
             index = 1
             )
-    st.title("Comparateur d'emploi par characteristique d'emploi")
-    characteristique.interface_characteristique(age[g],sexe[s])
+    st.title("Comparateur d'emploi par caractéristique d'emploi")
+    characteristique.interface_characteristique(age[g],sexe[s],globals.df_cha)
 
 else:
     g = st.sidebar.selectbox(
@@ -65,10 +63,6 @@ else:
             ["0 ans - 14 ans","15 ans - 24 ans", "25 ans - 50 ans", "50 ans et plus", "Ensemble"],
             index = 1
             )
-    st.title("Comparateur d'emploi par géographie")
-    géographique.interface_géographique(sexe[s], age[g])
+    st.title("Comparateur d'emploi par le secteur géographique",globals.df_geo)
+    géographique.interface_géographique(sexe[s], age[g],globals.df_geo)
 
-b = st.button('add')
-
-if b:
-    st.write(exec())

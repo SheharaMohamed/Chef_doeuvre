@@ -1,0 +1,1405 @@
+,diplôme,pop_id,group_dage,sexe,année,dip_id,nombre_employe,nombre_chomeur
+0,Diplôme supérieur,pop_1,T15,H,1982,dip_1,27.0,3.0
+1,Diplôme supérieur,pop_2,T25,H,1982,dip_1,716.0,28.0
+2,Diplôme supérieur,pop_3,T50,H,1982,dip_1,178.0,5.0
+3,Diplôme supérieur,pop_4,T15,F,1982,dip_1,34.0,7.0
+4,Diplôme supérieur,pop_5,T25,F,1982,dip_1,364.0,19.0
+5,Diplôme supérieur,pop_6,T50,F,1982,dip_1,46.0,2.0
+6,Baccalauréat + 2 ans,pop_1,T15,H,1982,dip_2,77.0,5.0
+7,Baccalauréat + 2 ans,pop_2,T25,H,1982,dip_2,392.0,5.0
+8,Baccalauréat + 2 ans,pop_3,T50,H,1982,dip_2,52.0,0.0
+9,Baccalauréat + 2 ans,pop_4,T15,F,1982,dip_2,112.0,9.0
+10,Baccalauréat + 2 ans,pop_5,T25,F,1982,dip_2,581.0,17.0
+11,Baccalauréat + 2 ans,pop_6,T50,F,1982,dip_2,52.0,4.0
+12,Baccalauréat ou brevet professionnel,pop_1,T15,H,1982,dip_3,219.0,38.0
+13,Baccalauréat ou brevet professionnel,pop_2,T25,H,1982,dip_3,795.0,24.0
+14,Baccalauréat ou brevet professionnel,pop_3,T50,H,1982,dip_3,247.0,12.0
+15,Baccalauréat ou brevet professionnel,pop_4,T15,F,1982,dip_3,252.0,30.0
+16,Baccalauréat ou brevet professionnel,pop_5,T25,F,1982,dip_3,679.0,35.0
+17,Baccalauréat ou brevet professionnel,pop_6,T50,F,1982,dip_3,130.0,2.0
+18,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,1982,dip_4,817.0,80.0
+19,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,1982,dip_4,2499.0,91.0
+20,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,1982,dip_4,326.0,18.0
+21,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,1982,dip_4,551.0,115.0
+22,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,1982,dip_4,1179.0,86.0
+23,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,1982,dip_4,180.0,13.0
+24,Brevet des collèges,pop_1,T15,H,1982,dip_5,238.0,23.0
+25,Brevet des collèges,pop_2,T25,H,1982,dip_5,396.0,14.0
+26,Brevet des collèges,pop_3,T50,H,1982,dip_5,111.0,6.0
+27,Brevet des collèges,pop_4,T15,F,1982,dip_5,187.0,32.0
+28,Brevet des collèges,pop_5,T25,F,1982,dip_5,478.0,25.0
+29,Brevet des collèges,pop_6,T50,F,1982,dip_5,140.0,3.0
+30,Aucun diplôme ou CEP,pop_1,T15,H,1982,dip_6,853.0,164.0
+31,Aucun diplôme ou CEP,pop_2,T25,H,1982,dip_6,3684.0,178.0
+32,Aucun diplôme ou CEP,pop_3,T50,H,1982,dip_6,1975.0,74.0
+33,Aucun diplôme ou CEP,pop_4,T15,F,1982,dip_6,527.0,212.0
+34,Aucun diplôme ou CEP,pop_5,T25,F,1982,dip_6,2442.0,220.0
+35,Aucun diplôme ou CEP,pop_6,T50,F,1982,dip_6,1310.0,74.0
+36,Diplôme supérieur,pop_1,T15,H,1983,dip_1,27.0,2.0
+37,Diplôme supérieur,pop_2,T25,H,1983,dip_1,803.0,26.0
+38,Diplôme supérieur,pop_3,T50,H,1983,dip_1,195.0,3.0
+39,Diplôme supérieur,pop_4,T15,F,1983,dip_1,51.0,7.0
+40,Diplôme supérieur,pop_5,T25,F,1983,dip_1,382.0,19.0
+41,Diplôme supérieur,pop_6,T50,F,1983,dip_1,49.0,2.0
+42,Baccalauréat + 2 ans,pop_1,T15,H,1983,dip_2,82.0,9.0
+43,Baccalauréat + 2 ans,pop_2,T25,H,1983,dip_2,412.0,6.0
+44,Baccalauréat + 2 ans,pop_3,T50,H,1983,dip_2,53.0,0.0
+45,Baccalauréat + 2 ans,pop_4,T15,F,1983,dip_2,115.0,13.0
+46,Baccalauréat + 2 ans,pop_5,T25,F,1983,dip_2,625.0,14.0
+47,Baccalauréat + 2 ans,pop_6,T50,F,1983,dip_2,57.0,8.0
+48,Baccalauréat ou brevet professionnel,pop_1,T15,H,1983,dip_3,224.0,41.0
+49,Baccalauréat ou brevet professionnel,pop_2,T25,H,1983,dip_3,831.0,21.0
+50,Baccalauréat ou brevet professionnel,pop_3,T50,H,1983,dip_3,234.0,9.0
+51,Baccalauréat ou brevet professionnel,pop_4,T15,F,1983,dip_3,260.0,36.0
+52,Baccalauréat ou brevet professionnel,pop_5,T25,F,1983,dip_3,734.0,38.0
+53,Baccalauréat ou brevet professionnel,pop_6,T50,F,1983,dip_3,126.0,2.0
+54,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,1983,dip_4,846.0,87.0
+55,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,1983,dip_4,2481.0,104.0
+56,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,1983,dip_4,331.0,14.0
+57,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,1983,dip_4,552.0,122.0
+58,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,1983,dip_4,1236.0,90.0
+59,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,1983,dip_4,171.0,15.0
+60,Brevet des collèges,pop_1,T15,H,1983,dip_5,238.0,26.0
+61,Brevet des collèges,pop_2,T25,H,1983,dip_5,431.0,15.0
+62,Brevet des collèges,pop_3,T50,H,1983,dip_5,100.0,5.0
+63,Brevet des collèges,pop_4,T15,F,1983,dip_5,175.0,31.0
+64,Brevet des collèges,pop_5,T25,F,1983,dip_5,478.0,31.0
+65,Brevet des collèges,pop_6,T50,F,1983,dip_5,131.0,2.0
+66,Aucun diplôme ou CEP,pop_1,T15,H,1983,dip_6,770.0,181.0
+67,Aucun diplôme ou CEP,pop_2,T25,H,1983,dip_6,3574.0,189.0
+68,Aucun diplôme ou CEP,pop_3,T50,H,1983,dip_6,1871.0,84.0
+69,Aucun diplôme ou CEP,pop_4,T15,F,1983,dip_6,477.0,203.0
+70,Aucun diplôme ou CEP,pop_5,T25,F,1983,dip_6,2436.0,228.0
+71,Aucun diplôme ou CEP,pop_6,T50,F,1983,dip_6,1247.0,69.0
+72,Diplôme supérieur,pop_1,T15,H,1984,dip_1,28.0,2.0
+73,Diplôme supérieur,pop_2,T25,H,1984,dip_1,832.0,29.0
+74,Diplôme supérieur,pop_3,T50,H,1984,dip_1,184.0,3.0
+75,Diplôme supérieur,pop_4,T15,F,1984,dip_1,47.0,3.0
+76,Diplôme supérieur,pop_5,T25,F,1984,dip_1,423.0,23.0
+77,Diplôme supérieur,pop_6,T50,F,1984,dip_1,47.0,1.0
+78,Baccalauréat + 2 ans,pop_1,T15,H,1984,dip_2,92.0,11.0
+79,Baccalauréat + 2 ans,pop_2,T25,H,1984,dip_2,464.0,8.0
+80,Baccalauréat + 2 ans,pop_3,T50,H,1984,dip_2,51.0,0.0
+81,Baccalauréat + 2 ans,pop_4,T15,F,1984,dip_2,121.0,10.0
+82,Baccalauréat + 2 ans,pop_5,T25,F,1984,dip_2,670.0,18.0
+83,Baccalauréat + 2 ans,pop_6,T50,F,1984,dip_2,53.0,5.0
+84,Baccalauréat ou brevet professionnel,pop_1,T15,H,1984,dip_3,219.0,55.0
+85,Baccalauréat ou brevet professionnel,pop_2,T25,H,1984,dip_3,850.0,27.0
+86,Baccalauréat ou brevet professionnel,pop_3,T50,H,1984,dip_3,210.0,12.0
+87,Baccalauréat ou brevet professionnel,pop_4,T15,F,1984,dip_3,265.0,36.0
+88,Baccalauréat ou brevet professionnel,pop_5,T25,F,1984,dip_3,792.0,46.0
+89,Baccalauréat ou brevet professionnel,pop_6,T50,F,1984,dip_3,124.0,2.0
+90,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,1984,dip_4,811.0,114.0
+91,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,1984,dip_4,2525.0,128.0
+92,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,1984,dip_4,341.0,17.0
+93,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,1984,dip_4,541.0,150.0
+94,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,1984,dip_4,1258.0,113.0
+95,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,1984,dip_4,183.0,14.0
+96,Brevet des collèges,pop_1,T15,H,1984,dip_5,224.0,26.0
+97,Brevet des collèges,pop_2,T25,H,1984,dip_5,444.0,20.0
+98,Brevet des collèges,pop_3,T50,H,1984,dip_5,103.0,5.0
+99,Brevet des collèges,pop_4,T15,F,1984,dip_5,163.0,41.0
+100,Brevet des collèges,pop_5,T25,F,1984,dip_5,514.0,42.0
+101,Brevet des collèges,pop_6,T50,F,1984,dip_5,131.0,3.0
+102,Aucun diplôme ou CEP,pop_1,T15,H,1984,dip_6,655.0,219.0
+103,Aucun diplôme ou CEP,pop_2,T25,H,1984,dip_6,3426.0,236.0
+104,Aucun diplôme ou CEP,pop_3,T50,H,1984,dip_6,1811.0,87.0
+105,Aucun diplôme ou CEP,pop_4,T15,F,1984,dip_6,401.0,232.0
+106,Aucun diplôme ou CEP,pop_5,T25,F,1984,dip_6,2375.0,244.0
+107,Aucun diplôme ou CEP,pop_6,T50,F,1984,dip_6,1236.0,78.0
+108,Diplôme supérieur,pop_1,T15,H,1985,dip_1,18.0,3.0
+109,Diplôme supérieur,pop_2,T25,H,1985,dip_1,827.0,37.0
+110,Diplôme supérieur,pop_3,T50,H,1985,dip_1,175.0,3.0
+111,Diplôme supérieur,pop_4,T15,F,1985,dip_1,44.0,2.0
+112,Diplôme supérieur,pop_5,T25,F,1985,dip_1,434.0,29.0
+113,Diplôme supérieur,pop_6,T50,F,1985,dip_1,49.0,1.0
+114,Baccalauréat + 2 ans,pop_1,T15,H,1985,dip_2,103.0,8.0
+115,Baccalauréat + 2 ans,pop_2,T25,H,1985,dip_2,493.0,8.0
+116,Baccalauréat + 2 ans,pop_3,T50,H,1985,dip_2,51.0,0.0
+117,Baccalauréat + 2 ans,pop_4,T15,F,1985,dip_2,118.0,12.0
+118,Baccalauréat + 2 ans,pop_5,T25,F,1985,dip_2,681.0,20.0
+119,Baccalauréat + 2 ans,pop_6,T50,F,1985,dip_2,56.0,6.0
+120,Baccalauréat ou brevet professionnel,pop_1,T15,H,1985,dip_3,220.0,51.0
+121,Baccalauréat ou brevet professionnel,pop_2,T25,H,1985,dip_3,861.0,34.0
+122,Baccalauréat ou brevet professionnel,pop_3,T50,H,1985,dip_3,201.0,8.0
+123,Baccalauréat ou brevet professionnel,pop_4,T15,F,1985,dip_3,262.0,37.0
+124,Baccalauréat ou brevet professionnel,pop_5,T25,F,1985,dip_3,843.0,45.0
+125,Baccalauréat ou brevet professionnel,pop_6,T50,F,1985,dip_3,122.0,2.0
+126,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,1985,dip_4,792.0,128.0
+127,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,1985,dip_4,2595.0,164.0
+128,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,1985,dip_4,365.0,21.0
+129,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,1985,dip_4,582.0,145.0
+130,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,1985,dip_4,1322.0,120.0
+131,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,1985,dip_4,195.0,16.0
+132,Brevet des collèges,pop_1,T15,H,1985,dip_5,204.0,24.0
+133,Brevet des collèges,pop_2,T25,H,1985,dip_5,466.0,19.0
+134,Brevet des collèges,pop_3,T50,H,1985,dip_5,103.0,5.0
+135,Brevet des collèges,pop_4,T15,F,1985,dip_5,162.0,34.0
+136,Brevet des collèges,pop_5,T25,F,1985,dip_5,530.0,44.0
+137,Brevet des collèges,pop_6,T50,F,1985,dip_5,132.0,3.0
+138,Aucun diplôme ou CEP,pop_1,T15,H,1985,dip_6,665.0,230.0
+139,Aucun diplôme ou CEP,pop_2,T25,H,1985,dip_6,3346.0,247.0
+140,Aucun diplôme ou CEP,pop_3,T50,H,1985,dip_6,1756.0,101.0
+141,Aucun diplôme ou CEP,pop_4,T15,F,1985,dip_6,364.0,227.0
+142,Aucun diplôme ou CEP,pop_5,T25,F,1985,dip_6,2316.0,284.0
+143,Aucun diplôme ou CEP,pop_6,T50,F,1985,dip_6,1194.0,80.0
+144,Diplôme supérieur,pop_1,T15,H,1986,dip_1,27.0,2.0
+145,Diplôme supérieur,pop_2,T25,H,1986,dip_1,852.0,33.0
+146,Diplôme supérieur,pop_3,T50,H,1986,dip_1,177.0,2.0
+147,Diplôme supérieur,pop_4,T15,F,1986,dip_1,49.0,13.0
+148,Diplôme supérieur,pop_5,T25,F,1986,dip_1,465.0,36.0
+149,Diplôme supérieur,pop_6,T50,F,1986,dip_1,47.0,3.0
+150,Baccalauréat + 2 ans,pop_1,T15,H,1986,dip_2,98.0,11.0
+151,Baccalauréat + 2 ans,pop_2,T25,H,1986,dip_2,510.0,7.0
+152,Baccalauréat + 2 ans,pop_3,T50,H,1986,dip_2,54.0,1.0
+153,Baccalauréat + 2 ans,pop_4,T15,F,1986,dip_2,132.0,15.0
+154,Baccalauréat + 2 ans,pop_5,T25,F,1986,dip_2,721.0,22.0
+155,Baccalauréat + 2 ans,pop_6,T50,F,1986,dip_2,57.0,5.0
+156,Baccalauréat ou brevet professionnel,pop_1,T15,H,1986,dip_3,226.0,42.0
+157,Baccalauréat ou brevet professionnel,pop_2,T25,H,1986,dip_3,888.0,39.0
+158,Baccalauréat ou brevet professionnel,pop_3,T50,H,1986,dip_3,214.0,13.0
+159,Baccalauréat ou brevet professionnel,pop_4,T15,F,1986,dip_3,288.0,26.0
+160,Baccalauréat ou brevet professionnel,pop_5,T25,F,1986,dip_3,894.0,48.0
+161,Baccalauréat ou brevet professionnel,pop_6,T50,F,1986,dip_3,136.0,2.0
+162,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,1986,dip_4,822.0,113.0
+163,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,1986,dip_4,2694.0,175.0
+164,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,1986,dip_4,382.0,27.0
+165,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,1986,dip_4,570.0,141.0
+166,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,1986,dip_4,1413.0,135.0
+167,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,1986,dip_4,212.0,18.0
+168,Brevet des collèges,pop_1,T15,H,1986,dip_5,204.0,23.0
+169,Brevet des collèges,pop_2,T25,H,1986,dip_5,500.0,27.0
+170,Brevet des collèges,pop_3,T50,H,1986,dip_5,106.0,4.0
+171,Brevet des collèges,pop_4,T15,F,1986,dip_5,155.0,35.0
+172,Brevet des collèges,pop_5,T25,F,1986,dip_5,561.0,46.0
+173,Brevet des collèges,pop_6,T50,F,1986,dip_5,130.0,3.0
+174,Aucun diplôme ou CEP,pop_1,T15,H,1986,dip_6,620.0,213.0
+175,Aucun diplôme ou CEP,pop_2,T25,H,1986,dip_6,3202.0,263.0
+176,Aucun diplôme ou CEP,pop_3,T50,H,1986,dip_6,1684.0,102.0
+177,Aucun diplôme ou CEP,pop_4,T15,F,1986,dip_6,355.0,207.0
+178,Aucun diplôme ou CEP,pop_5,T25,F,1986,dip_6,2248.0,309.0
+179,Aucun diplôme ou CEP,pop_6,T50,F,1986,dip_6,1157.0,74.0
+180,Diplôme supérieur,pop_1,T15,H,1987,dip_1,21.0,2.0
+181,Diplôme supérieur,pop_2,T25,H,1987,dip_1,895.0,31.0
+182,Diplôme supérieur,pop_3,T50,H,1987,dip_1,181.0,3.0
+183,Diplôme supérieur,pop_4,T15,F,1987,dip_1,42.0,11.0
+184,Diplôme supérieur,pop_5,T25,F,1987,dip_1,493.0,36.0
+185,Diplôme supérieur,pop_6,T50,F,1987,dip_1,46.0,4.0
+186,Baccalauréat + 2 ans,pop_1,T15,H,1987,dip_2,104.0,12.0
+187,Baccalauréat + 2 ans,pop_2,T25,H,1987,dip_2,539.0,8.0
+188,Baccalauréat + 2 ans,pop_3,T50,H,1987,dip_2,53.0,0.0
+189,Baccalauréat + 2 ans,pop_4,T15,F,1987,dip_2,141.0,14.0
+190,Baccalauréat + 2 ans,pop_5,T25,F,1987,dip_2,734.0,26.0
+191,Baccalauréat + 2 ans,pop_6,T50,F,1987,dip_2,60.0,3.0
+192,Baccalauréat ou brevet professionnel,pop_1,T15,H,1987,dip_3,205.0,47.0
+193,Baccalauréat ou brevet professionnel,pop_2,T25,H,1987,dip_3,919.0,34.0
+194,Baccalauréat ou brevet professionnel,pop_3,T50,H,1987,dip_3,219.0,14.0
+195,Baccalauréat ou brevet professionnel,pop_4,T15,F,1987,dip_3,268.0,26.0
+196,Baccalauréat ou brevet professionnel,pop_5,T25,F,1987,dip_3,943.0,61.0
+197,Baccalauréat ou brevet professionnel,pop_6,T50,F,1987,dip_3,139.0,2.0
+198,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,1987,dip_4,818.0,103.0
+199,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,1987,dip_4,2791.0,189.0
+200,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,1987,dip_4,410.0,25.0
+201,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,1987,dip_4,590.0,131.0
+202,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,1987,dip_4,1476.0,152.0
+203,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,1987,dip_4,218.0,21.0
+204,Brevet des collèges,pop_1,T15,H,1987,dip_5,187.0,19.0
+205,Brevet des collèges,pop_2,T25,H,1987,dip_5,497.0,23.0
+206,Brevet des collèges,pop_3,T50,H,1987,dip_5,99.0,5.0
+207,Brevet des collèges,pop_4,T15,F,1987,dip_5,140.0,29.0
+208,Brevet des collèges,pop_5,T25,F,1987,dip_5,549.0,58.0
+209,Brevet des collèges,pop_6,T50,F,1987,dip_5,131.0,3.0
+210,Aucun diplôme ou CEP,pop_1,T15,H,1987,dip_6,637.0,183.0
+211,Aucun diplôme ou CEP,pop_2,T25,H,1987,dip_6,3104.0,275.0
+212,Aucun diplôme ou CEP,pop_3,T50,H,1987,dip_6,1567.0,100.0
+213,Aucun diplôme ou CEP,pop_4,T15,F,1987,dip_6,357.0,207.0
+214,Aucun diplôme ou CEP,pop_5,T25,F,1987,dip_6,2139.0,327.0
+215,Aucun diplôme ou CEP,pop_6,T50,F,1987,dip_6,1146.0,88.0
+216,Diplôme supérieur,pop_1,T15,H,1988,dip_1,28.0,4.0
+217,Diplôme supérieur,pop_2,T25,H,1988,dip_1,949.0,34.0
+218,Diplôme supérieur,pop_3,T50,H,1988,dip_1,207.0,4.0
+219,Diplôme supérieur,pop_4,T15,F,1988,dip_1,46.0,13.0
+220,Diplôme supérieur,pop_5,T25,F,1988,dip_1,536.0,34.0
+221,Diplôme supérieur,pop_6,T50,F,1988,dip_1,55.0,2.0
+222,Baccalauréat + 2 ans,pop_1,T15,H,1988,dip_2,108.0,10.0
+223,Baccalauréat + 2 ans,pop_2,T25,H,1988,dip_2,556.0,9.0
+224,Baccalauréat + 2 ans,pop_3,T50,H,1988,dip_2,54.0,1.0
+225,Baccalauréat + 2 ans,pop_4,T15,F,1988,dip_2,138.0,12.0
+226,Baccalauréat + 2 ans,pop_5,T25,F,1988,dip_2,764.0,27.0
+227,Baccalauréat + 2 ans,pop_6,T50,F,1988,dip_2,62.0,5.0
+228,Baccalauréat ou brevet professionnel,pop_1,T15,H,1988,dip_3,205.0,30.0
+229,Baccalauréat ou brevet professionnel,pop_2,T25,H,1988,dip_3,972.0,36.0
+230,Baccalauréat ou brevet professionnel,pop_3,T50,H,1988,dip_3,210.0,13.0
+231,Baccalauréat ou brevet professionnel,pop_4,T15,F,1988,dip_3,242.0,27.0
+232,Baccalauréat ou brevet professionnel,pop_5,T25,F,1988,dip_3,998.0,61.0
+233,Baccalauréat ou brevet professionnel,pop_6,T50,F,1988,dip_3,135.0,2.0
+234,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,1988,dip_4,771.0,92.0
+235,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,1988,dip_4,2882.0,180.0
+236,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,1988,dip_4,405.0,23.0
+237,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,1988,dip_4,577.0,125.0
+238,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,1988,dip_4,1538.0,170.0
+239,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,1988,dip_4,243.0,19.0
+240,Brevet des collèges,pop_1,T15,H,1988,dip_5,161.0,17.0
+241,Brevet des collèges,pop_2,T25,H,1988,dip_5,521.0,22.0
+242,Brevet des collèges,pop_3,T50,H,1988,dip_5,100.0,4.0
+243,Brevet des collèges,pop_4,T15,F,1988,dip_5,135.0,28.0
+244,Brevet des collèges,pop_5,T25,F,1988,dip_5,599.0,51.0
+245,Brevet des collèges,pop_6,T50,F,1988,dip_5,126.0,4.0
+246,Aucun diplôme ou CEP,pop_1,T15,H,1988,dip_6,623.0,172.0
+247,Aucun diplôme ou CEP,pop_2,T25,H,1988,dip_6,2971.0,269.0
+248,Aucun diplôme ou CEP,pop_3,T50,H,1988,dip_6,1539.0,94.0
+249,Aucun diplôme ou CEP,pop_4,T15,F,1988,dip_6,328.0,171.0
+250,Aucun diplôme ou CEP,pop_5,T25,F,1988,dip_6,2049.0,345.0
+251,Aucun diplôme ou CEP,pop_6,T50,F,1988,dip_6,1110.0,90.0
+252,Diplôme supérieur,pop_1,T15,H,1989,dip_1,28.0,2.0
+253,Diplôme supérieur,pop_2,T25,H,1989,dip_1,953.0,22.0
+254,Diplôme supérieur,pop_3,T50,H,1989,dip_1,206.0,4.0
+255,Diplôme supérieur,pop_4,T15,F,1989,dip_1,56.0,10.0
+256,Diplôme supérieur,pop_5,T25,F,1989,dip_1,554.0,34.0
+257,Diplôme supérieur,pop_6,T50,F,1989,dip_1,62.0,2.0
+258,Baccalauréat + 2 ans,pop_1,T15,H,1989,dip_2,108.0,9.0
+259,Baccalauréat + 2 ans,pop_2,T25,H,1989,dip_2,574.0,9.0
+260,Baccalauréat + 2 ans,pop_3,T50,H,1989,dip_2,56.0,0.0
+261,Baccalauréat + 2 ans,pop_4,T15,F,1989,dip_2,135.0,11.0
+262,Baccalauréat + 2 ans,pop_5,T25,F,1989,dip_2,791.0,29.0
+263,Baccalauréat + 2 ans,pop_6,T50,F,1989,dip_2,70.0,2.0
+264,Baccalauréat ou brevet professionnel,pop_1,T15,H,1989,dip_3,196.0,31.0
+265,Baccalauréat ou brevet professionnel,pop_2,T25,H,1989,dip_3,976.0,35.0
+266,Baccalauréat ou brevet professionnel,pop_3,T50,H,1989,dip_3,224.0,9.0
+267,Baccalauréat ou brevet professionnel,pop_4,T15,F,1989,dip_3,234.0,30.0
+268,Baccalauréat ou brevet professionnel,pop_5,T25,F,1989,dip_3,1032.0,68.0
+269,Baccalauréat ou brevet professionnel,pop_6,T50,F,1989,dip_3,134.0,3.0
+270,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,1989,dip_4,773.0,75.0
+271,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,1989,dip_4,3052.0,167.0
+272,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,1989,dip_4,436.0,22.0
+273,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,1989,dip_4,569.0,113.0
+274,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,1989,dip_4,1584.0,165.0
+275,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,1989,dip_4,244.0,20.0
+276,Brevet des collèges,pop_1,T15,H,1989,dip_5,161.0,17.0
+277,Brevet des collèges,pop_2,T25,H,1989,dip_5,531.0,23.0
+278,Brevet des collèges,pop_3,T50,H,1989,dip_5,110.0,5.0
+279,Brevet des collèges,pop_4,T15,F,1989,dip_5,128.0,22.0
+280,Brevet des collèges,pop_5,T25,F,1989,dip_5,651.0,58.0
+281,Brevet des collèges,pop_6,T50,F,1989,dip_5,137.0,4.0
+282,Aucun diplôme ou CEP,pop_1,T15,H,1989,dip_6,618.0,143.0
+283,Aucun diplôme ou CEP,pop_2,T25,H,1989,dip_6,2946.0,259.0
+284,Aucun diplôme ou CEP,pop_3,T50,H,1989,dip_6,1461.0,85.0
+285,Aucun diplôme ou CEP,pop_4,T15,F,1989,dip_6,339.0,153.0
+286,Aucun diplôme ou CEP,pop_5,T25,F,1989,dip_6,2055.0,345.0
+287,Aucun diplôme ou CEP,pop_6,T50,F,1989,dip_6,1094.0,86.0
+288,Diplôme supérieur,pop_1,T15,H,1990,dip_1,36.0,3.0
+289,Diplôme supérieur,pop_2,T25,H,1990,dip_1,987.0,24.0
+290,Diplôme supérieur,pop_3,T50,H,1990,dip_1,226.0,4.0
+291,Diplôme supérieur,pop_4,T15,F,1990,dip_1,61.0,11.0
+292,Diplôme supérieur,pop_5,T25,F,1990,dip_1,599.0,32.0
+293,Diplôme supérieur,pop_6,T50,F,1990,dip_1,70.0,2.0
+294,Baccalauréat + 2 ans,pop_1,T15,H,1990,dip_2,113.0,11.0
+295,Baccalauréat + 2 ans,pop_2,T25,H,1990,dip_2,605.0,11.0
+296,Baccalauréat + 2 ans,pop_3,T50,H,1990,dip_2,58.0,0.0
+297,Baccalauréat + 2 ans,pop_4,T15,F,1990,dip_2,136.0,11.0
+298,Baccalauréat + 2 ans,pop_5,T25,F,1990,dip_2,829.0,28.0
+299,Baccalauréat + 2 ans,pop_6,T50,F,1990,dip_2,73.0,3.0
+300,Baccalauréat ou brevet professionnel,pop_1,T15,H,1990,dip_3,205.0,25.0
+301,Baccalauréat ou brevet professionnel,pop_2,T25,H,1990,dip_3,998.0,36.0
+302,Baccalauréat ou brevet professionnel,pop_3,T50,H,1990,dip_3,223.0,7.0
+303,Baccalauréat ou brevet professionnel,pop_4,T15,F,1990,dip_3,230.0,32.0
+304,Baccalauréat ou brevet professionnel,pop_5,T25,F,1990,dip_3,1075.0,64.0
+305,Baccalauréat ou brevet professionnel,pop_6,T50,F,1990,dip_3,137.0,3.0
+306,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,1990,dip_4,713.0,80.0
+307,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,1990,dip_4,3125.0,162.0
+308,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,1990,dip_4,445.0,19.0
+309,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,1990,dip_4,539.0,105.0
+310,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,1990,dip_4,1655.0,174.0
+311,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,1990,dip_4,259.0,20.0
+312,Brevet des collèges,pop_1,T15,H,1990,dip_5,144.0,16.0
+313,Brevet des collèges,pop_2,T25,H,1990,dip_5,536.0,23.0
+314,Brevet des collèges,pop_3,T50,H,1990,dip_5,109.0,5.0
+315,Brevet des collèges,pop_4,T15,F,1990,dip_5,121.0,22.0
+316,Brevet des collèges,pop_5,T25,F,1990,dip_5,679.0,54.0
+317,Brevet des collèges,pop_6,T50,F,1990,dip_5,131.0,4.0
+318,Aucun diplôme ou CEP,pop_1,T15,H,1990,dip_6,576.0,143.0
+319,Aucun diplôme ou CEP,pop_2,T25,H,1990,dip_6,2872.0,255.0
+320,Aucun diplôme ou CEP,pop_3,T50,H,1990,dip_6,1407.0,77.0
+321,Aucun diplôme ou CEP,pop_4,T15,F,1990,dip_6,313.0,133.0
+322,Aucun diplôme ou CEP,pop_5,T25,F,1990,dip_6,2033.0,337.0
+323,Aucun diplôme ou CEP,pop_6,T50,F,1990,dip_6,1046.0,81.0
+324,Diplôme supérieur,pop_1,T15,H,1991,dip_1,31.0,4.0
+325,Diplôme supérieur,pop_2,T25,H,1991,dip_1,1006.0,33.0
+326,Diplôme supérieur,pop_3,T50,H,1991,dip_1,233.0,3.0
+327,Diplôme supérieur,pop_4,T15,F,1991,dip_1,51.0,10.0
+328,Diplôme supérieur,pop_5,T25,F,1991,dip_1,642.0,39.0
+329,Diplôme supérieur,pop_6,T50,F,1991,dip_1,75.0,4.0
+330,Baccalauréat + 2 ans,pop_1,T15,H,1991,dip_2,111.0,6.0
+331,Baccalauréat + 2 ans,pop_2,T25,H,1991,dip_2,648.0,13.0
+332,Baccalauréat + 2 ans,pop_3,T50,H,1991,dip_2,59.0,1.0
+333,Baccalauréat + 2 ans,pop_4,T15,F,1991,dip_2,137.0,18.0
+334,Baccalauréat + 2 ans,pop_5,T25,F,1991,dip_2,876.0,33.0
+335,Baccalauréat + 2 ans,pop_6,T50,F,1991,dip_2,74.0,2.0
+336,Baccalauréat ou brevet professionnel,pop_1,T15,H,1991,dip_3,193.0,19.0
+337,Baccalauréat ou brevet professionnel,pop_2,T25,H,1991,dip_3,1028.0,34.0
+338,Baccalauréat ou brevet professionnel,pop_3,T50,H,1991,dip_3,212.0,6.0
+339,Baccalauréat ou brevet professionnel,pop_4,T15,F,1991,dip_3,213.0,36.0
+340,Baccalauréat ou brevet professionnel,pop_5,T25,F,1991,dip_3,1088.0,73.0
+341,Baccalauréat ou brevet professionnel,pop_6,T50,F,1991,dip_3,145.0,5.0
+342,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,1991,dip_4,647.0,75.0
+343,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,1991,dip_4,3190.0,181.0
+344,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,1991,dip_4,457.0,30.0
+345,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,1991,dip_4,491.0,97.0
+346,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,1991,dip_4,1776.0,176.0
+347,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,1991,dip_4,250.0,20.0
+348,Brevet des collèges,pop_1,T15,H,1991,dip_5,140.0,16.0
+349,Brevet des collèges,pop_2,T25,H,1991,dip_5,536.0,25.0
+350,Brevet des collèges,pop_3,T50,H,1991,dip_5,98.0,4.0
+351,Brevet des collèges,pop_4,T15,F,1991,dip_5,99.0,22.0
+352,Brevet des collèges,pop_5,T25,F,1991,dip_5,650.0,56.0
+353,Brevet des collèges,pop_6,T50,F,1991,dip_5,121.0,4.0
+354,Aucun diplôme ou CEP,pop_1,T15,H,1991,dip_6,515.0,141.0
+355,Aucun diplôme ou CEP,pop_2,T25,H,1991,dip_6,2840.0,263.0
+356,Aucun diplôme ou CEP,pop_3,T50,H,1991,dip_6,1300.0,73.0
+357,Aucun diplôme ou CEP,pop_4,T15,F,1991,dip_6,280.0,120.0
+358,Aucun diplôme ou CEP,pop_5,T25,F,1991,dip_6,2045.0,338.0
+359,Aucun diplôme ou CEP,pop_6,T50,F,1991,dip_6,1010.0,84.0
+360,Diplôme supérieur,pop_1,T15,H,1992,dip_1,45.0,6.0
+361,Diplôme supérieur,pop_2,T25,H,1992,dip_1,1029.0,43.0
+362,Diplôme supérieur,pop_3,T50,H,1992,dip_1,249.0,4.0
+363,Diplôme supérieur,pop_4,T15,F,1992,dip_1,56.0,13.0
+364,Diplôme supérieur,pop_5,T25,F,1992,dip_1,686.0,42.0
+365,Diplôme supérieur,pop_6,T50,F,1992,dip_1,79.0,3.0
+366,Baccalauréat + 2 ans,pop_1,T15,H,1992,dip_2,123.0,15.0
+367,Baccalauréat + 2 ans,pop_2,T25,H,1992,dip_2,696.0,20.0
+368,Baccalauréat + 2 ans,pop_3,T50,H,1992,dip_2,62.0,1.0
+369,Baccalauréat + 2 ans,pop_4,T15,F,1992,dip_2,138.0,20.0
+370,Baccalauréat + 2 ans,pop_5,T25,F,1992,dip_2,914.0,38.0
+371,Baccalauréat + 2 ans,pop_6,T50,F,1992,dip_2,78.0,3.0
+372,Baccalauréat ou brevet professionnel,pop_1,T15,H,1992,dip_3,223.0,17.0
+373,Baccalauréat ou brevet professionnel,pop_2,T25,H,1992,dip_3,1018.0,41.0
+374,Baccalauréat ou brevet professionnel,pop_3,T50,H,1992,dip_3,213.0,5.0
+375,Baccalauréat ou brevet professionnel,pop_4,T15,F,1992,dip_3,225.0,43.0
+376,Baccalauréat ou brevet professionnel,pop_5,T25,F,1992,dip_3,1110.0,73.0
+377,Baccalauréat ou brevet professionnel,pop_6,T50,F,1992,dip_3,154.0,6.0
+378,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,1992,dip_4,588.0,93.0
+379,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,1992,dip_4,3219.0,205.0
+380,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,1992,dip_4,468.0,31.0
+381,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,1992,dip_4,440.0,97.0
+382,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,1992,dip_4,1831.0,217.0
+383,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,1992,dip_4,263.0,23.0
+384,Brevet des collèges,pop_1,T15,H,1992,dip_5,128.0,12.0
+385,Brevet des collèges,pop_2,T25,H,1992,dip_5,520.0,32.0
+386,Brevet des collèges,pop_3,T50,H,1992,dip_5,92.0,7.0
+387,Brevet des collèges,pop_4,T15,F,1992,dip_5,92.0,25.0
+388,Brevet des collèges,pop_5,T25,F,1992,dip_5,643.0,63.0
+389,Brevet des collèges,pop_6,T50,F,1992,dip_5,113.0,5.0
+390,Aucun diplôme ou CEP,pop_1,T15,H,1992,dip_6,464.0,140.0
+391,Aucun diplôme ou CEP,pop_2,T25,H,1992,dip_6,2806.0,303.0
+392,Aucun diplôme ou CEP,pop_3,T50,H,1992,dip_6,1216.0,84.0
+393,Aucun diplôme ou CEP,pop_4,T15,F,1992,dip_6,248.0,119.0
+394,Aucun diplôme ou CEP,pop_5,T25,F,1992,dip_6,2054.0,370.0
+395,Aucun diplôme ou CEP,pop_6,T50,F,1992,dip_6,951.0,81.0
+396,Diplôme supérieur,pop_1,T15,H,1993,dip_1,46.0,7.0
+397,Diplôme supérieur,pop_2,T25,H,1993,dip_1,1097.0,70.0
+398,Diplôme supérieur,pop_3,T50,H,1993,dip_1,263.0,6.0
+399,Diplôme supérieur,pop_4,T15,F,1993,dip_1,61.0,17.0
+400,Diplôme supérieur,pop_5,T25,F,1993,dip_1,768.0,57.0
+401,Diplôme supérieur,pop_6,T50,F,1993,dip_1,93.0,4.0
+402,Baccalauréat + 2 ans,pop_1,T15,H,1993,dip_2,137.0,23.0
+403,Baccalauréat + 2 ans,pop_2,T25,H,1993,dip_2,738.0,35.0
+404,Baccalauréat + 2 ans,pop_3,T50,H,1993,dip_2,72.0,1.0
+405,Baccalauréat + 2 ans,pop_4,T15,F,1993,dip_2,154.0,27.0
+406,Baccalauréat + 2 ans,pop_5,T25,F,1993,dip_2,992.0,57.0
+407,Baccalauréat + 2 ans,pop_6,T50,F,1993,dip_2,93.0,4.0
+408,Baccalauréat ou brevet professionnel,pop_1,T15,H,1993,dip_3,226.0,37.0
+409,Baccalauréat ou brevet professionnel,pop_2,T25,H,1993,dip_3,976.0,55.0
+410,Baccalauréat ou brevet professionnel,pop_3,T50,H,1993,dip_3,198.0,6.0
+411,Baccalauréat ou brevet professionnel,pop_4,T15,F,1993,dip_3,210.0,52.0
+412,Baccalauréat ou brevet professionnel,pop_5,T25,F,1993,dip_3,1104.0,96.0
+413,Baccalauréat ou brevet professionnel,pop_6,T50,F,1993,dip_3,144.0,5.0
+414,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,1993,dip_4,515.0,105.0
+415,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,1993,dip_4,3269.0,250.0
+416,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,1993,dip_4,502.0,37.0
+417,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,1993,dip_4,380.0,111.0
+418,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,1993,dip_4,1881.0,224.0
+419,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,1993,dip_4,286.0,22.0
+420,Brevet des collèges,pop_1,T15,H,1993,dip_5,130.0,18.0
+421,Brevet des collèges,pop_2,T25,H,1993,dip_5,515.0,43.0
+422,Brevet des collèges,pop_3,T50,H,1993,dip_5,100.0,6.0
+423,Brevet des collèges,pop_4,T15,F,1993,dip_5,103.0,24.0
+424,Brevet des collèges,pop_5,T25,F,1993,dip_5,674.0,64.0
+425,Brevet des collèges,pop_6,T50,F,1993,dip_5,127.0,5.0
+426,Aucun diplôme ou CEP,pop_1,T15,H,1993,dip_6,374.0,143.0
+427,Aucun diplôme ou CEP,pop_2,T25,H,1993,dip_6,2650.0,332.0
+428,Aucun diplôme ou CEP,pop_3,T50,H,1993,dip_6,1127.0,78.0
+429,Aucun diplôme ou CEP,pop_4,T15,F,1993,dip_6,218.0,107.0
+430,Aucun diplôme ou CEP,pop_5,T25,F,1993,dip_6,1973.0,376.0
+431,Aucun diplôme ou CEP,pop_6,T50,F,1993,dip_6,908.0,72.0
+432,Diplôme supérieur,pop_1,T15,H,1994,dip_1,53.0,10.0
+433,Diplôme supérieur,pop_2,T25,H,1994,dip_1,1134.0,75.0
+434,Diplôme supérieur,pop_3,T50,H,1994,dip_1,263.0,9.0
+435,Diplôme supérieur,pop_4,T15,F,1994,dip_1,59.0,19.0
+436,Diplôme supérieur,pop_5,T25,F,1994,dip_1,805.0,54.0
+437,Diplôme supérieur,pop_6,T50,F,1994,dip_1,101.0,2.0
+438,Baccalauréat + 2 ans,pop_1,T15,H,1994,dip_2,122.0,30.0
+439,Baccalauréat + 2 ans,pop_2,T25,H,1994,dip_2,770.0,34.0
+440,Baccalauréat + 2 ans,pop_3,T50,H,1994,dip_2,72.0,1.0
+441,Baccalauréat + 2 ans,pop_4,T15,F,1994,dip_2,144.0,30.0
+442,Baccalauréat + 2 ans,pop_5,T25,F,1994,dip_2,1044.0,64.0
+443,Baccalauréat + 2 ans,pop_6,T50,F,1994,dip_2,101.0,6.0
+444,Baccalauréat ou brevet professionnel,pop_1,T15,H,1994,dip_3,233.0,46.0
+445,Baccalauréat ou brevet professionnel,pop_2,T25,H,1994,dip_3,990.0,70.0
+446,Baccalauréat ou brevet professionnel,pop_3,T50,H,1994,dip_3,211.0,7.0
+447,Baccalauréat ou brevet professionnel,pop_4,T15,F,1994,dip_3,208.0,59.0
+448,Baccalauréat ou brevet professionnel,pop_5,T25,F,1994,dip_3,1124.0,104.0
+449,Baccalauréat ou brevet professionnel,pop_6,T50,F,1994,dip_3,161.0,6.0
+450,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,1994,dip_4,457.0,94.0
+451,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,1994,dip_4,3345.0,280.0
+452,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,1994,dip_4,529.0,34.0
+453,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,1994,dip_4,347.0,104.0
+454,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,1994,dip_4,1889.0,259.0
+455,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,1994,dip_4,306.0,21.0
+456,Brevet des collèges,pop_1,T15,H,1994,dip_5,120.0,19.0
+457,Brevet des collèges,pop_2,T25,H,1994,dip_5,527.0,42.0
+458,Brevet des collèges,pop_3,T50,H,1994,dip_5,106.0,10.0
+459,Brevet des collèges,pop_4,T15,F,1994,dip_5,85.0,25.0
+460,Brevet des collèges,pop_5,T25,F,1994,dip_5,693.0,73.0
+461,Brevet des collèges,pop_6,T50,F,1994,dip_5,129.0,6.0
+462,Aucun diplôme ou CEP,pop_1,T15,H,1994,dip_6,345.0,136.0
+463,Aucun diplôme ou CEP,pop_2,T25,H,1994,dip_6,2527.0,360.0
+464,Aucun diplôme ou CEP,pop_3,T50,H,1994,dip_6,1046.0,78.0
+465,Aucun diplôme ou CEP,pop_4,T15,F,1994,dip_6,182.0,108.0
+466,Aucun diplôme ou CEP,pop_5,T25,F,1994,dip_6,1922.0,395.0
+467,Aucun diplôme ou CEP,pop_6,T50,F,1994,dip_6,883.0,69.0
+468,Diplôme supérieur,pop_1,T15,H,1995,dip_1,54.0,14.0
+469,Diplôme supérieur,pop_2,T25,H,1995,dip_1,1154.0,81.0
+470,Diplôme supérieur,pop_3,T50,H,1995,dip_1,272.0,8.0
+471,Diplôme supérieur,pop_4,T15,F,1995,dip_1,71.0,24.0
+472,Diplôme supérieur,pop_5,T25,F,1995,dip_1,841.0,64.0
+473,Diplôme supérieur,pop_6,T50,F,1995,dip_1,111.0,6.0
+474,Baccalauréat + 2 ans,pop_1,T15,H,1995,dip_2,130.0,30.0
+475,Baccalauréat + 2 ans,pop_2,T25,H,1995,dip_2,807.0,33.0
+476,Baccalauréat + 2 ans,pop_3,T50,H,1995,dip_2,89.0,2.0
+477,Baccalauréat + 2 ans,pop_4,T15,F,1995,dip_2,157.0,30.0
+478,Baccalauréat + 2 ans,pop_5,T25,F,1995,dip_2,1101.0,60.0
+479,Baccalauréat + 2 ans,pop_6,T50,F,1995,dip_2,110.0,6.0
+480,Baccalauréat ou brevet professionnel,pop_1,T15,H,1995,dip_3,261.0,32.0
+481,Baccalauréat ou brevet professionnel,pop_2,T25,H,1995,dip_3,1028.0,65.0
+482,Baccalauréat ou brevet professionnel,pop_3,T50,H,1995,dip_3,206.0,7.0
+483,Baccalauréat ou brevet professionnel,pop_4,T15,F,1995,dip_3,219.0,54.0
+484,Baccalauréat ou brevet professionnel,pop_5,T25,F,1995,dip_3,1149.0,102.0
+485,Baccalauréat ou brevet professionnel,pop_6,T50,F,1995,dip_3,169.0,7.0
+486,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,1995,dip_4,426.0,72.0
+487,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,1995,dip_4,3413.0,255.0
+488,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,1995,dip_4,549.0,38.0
+489,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,1995,dip_4,318.0,87.0
+490,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,1995,dip_4,1918.0,256.0
+491,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,1995,dip_4,334.0,23.0
+492,Brevet des collèges,pop_1,T15,H,1995,dip_5,122.0,19.0
+493,Brevet des collèges,pop_2,T25,H,1995,dip_5,519.0,46.0
+494,Brevet des collèges,pop_3,T50,H,1995,dip_5,109.0,8.0
+495,Brevet des collèges,pop_4,T15,F,1995,dip_5,86.0,22.0
+496,Brevet des collèges,pop_5,T25,F,1995,dip_5,702.0,70.0
+497,Brevet des collèges,pop_6,T50,F,1995,dip_5,149.0,5.0
+498,Aucun diplôme ou CEP,pop_1,T15,H,1995,dip_6,331.0,114.0
+499,Aucun diplôme ou CEP,pop_2,T25,H,1995,dip_6,2483.0,332.0
+500,Aucun diplôme ou CEP,pop_3,T50,H,1995,dip_6,1003.0,75.0
+501,Aucun diplôme ou CEP,pop_4,T15,F,1995,dip_6,167.0,107.0
+502,Aucun diplôme ou CEP,pop_5,T25,F,1995,dip_6,1908.0,373.0
+503,Aucun diplôme ou CEP,pop_6,T50,F,1995,dip_6,851.0,66.0
+504,Diplôme supérieur,pop_1,T15,H,1996,dip_1,53.0,15.0
+505,Diplôme supérieur,pop_2,T25,H,1996,dip_1,1163.0,75.0
+506,Diplôme supérieur,pop_3,T50,H,1996,dip_1,314.0,8.0
+507,Diplôme supérieur,pop_4,T15,F,1996,dip_1,77.0,28.0
+508,Diplôme supérieur,pop_5,T25,F,1996,dip_1,870.0,84.0
+509,Diplôme supérieur,pop_6,T50,F,1996,dip_1,125.0,6.0
+510,Baccalauréat + 2 ans,pop_1,T15,H,1996,dip_2,132.0,24.0
+511,Baccalauréat + 2 ans,pop_2,T25,H,1996,dip_2,839.0,35.0
+512,Baccalauréat + 2 ans,pop_3,T50,H,1996,dip_2,105.0,2.0
+513,Baccalauréat + 2 ans,pop_4,T15,F,1996,dip_2,146.0,41.0
+514,Baccalauréat + 2 ans,pop_5,T25,F,1996,dip_2,1128.0,61.0
+515,Baccalauréat + 2 ans,pop_6,T50,F,1996,dip_2,123.0,5.0
+516,Baccalauréat ou brevet professionnel,pop_1,T15,H,1996,dip_3,292.0,39.0
+517,Baccalauréat ou brevet professionnel,pop_2,T25,H,1996,dip_3,1024.0,73.0
+518,Baccalauréat ou brevet professionnel,pop_3,T50,H,1996,dip_3,220.0,7.0
+519,Baccalauréat ou brevet professionnel,pop_4,T15,F,1996,dip_3,233.0,56.0
+520,Baccalauréat ou brevet professionnel,pop_5,T25,F,1996,dip_3,1219.0,108.0
+521,Baccalauréat ou brevet professionnel,pop_6,T50,F,1996,dip_3,180.0,7.0
+522,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,1996,dip_4,387.0,89.0
+523,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,1996,dip_4,3380.0,288.0
+524,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,1996,dip_4,560.0,51.0
+525,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,1996,dip_4,269.0,84.0
+526,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,1996,dip_4,1958.0,262.0
+527,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,1996,dip_4,363.0,28.0
+528,Brevet des collèges,pop_1,T15,H,1996,dip_5,117.0,21.0
+529,Brevet des collèges,pop_2,T25,H,1996,dip_5,528.0,43.0
+530,Brevet des collèges,pop_3,T50,H,1996,dip_5,112.0,7.0
+531,Brevet des collèges,pop_4,T15,F,1996,dip_5,87.0,20.0
+532,Brevet des collèges,pop_5,T25,F,1996,dip_5,697.0,71.0
+533,Brevet des collèges,pop_6,T50,F,1996,dip_5,147.0,5.0
+534,Aucun diplôme ou CEP,pop_1,T15,H,1996,dip_6,312.0,125.0
+535,Aucun diplôme ou CEP,pop_2,T25,H,1996,dip_6,2465.0,351.0
+536,Aucun diplôme ou CEP,pop_3,T50,H,1996,dip_6,997.0,81.0
+537,Aucun diplôme ou CEP,pop_4,T15,F,1996,dip_6,152.0,88.0
+538,Aucun diplôme ou CEP,pop_5,T25,F,1996,dip_6,1849.0,390.0
+539,Aucun diplôme ou CEP,pop_6,T50,F,1996,dip_6,826.0,75.0
+540,Diplôme supérieur,pop_1,T15,H,1997,dip_1,55.0,14.0
+541,Diplôme supérieur,pop_2,T25,H,1997,dip_1,1192.0,87.0
+542,Diplôme supérieur,pop_3,T50,H,1997,dip_1,335.0,8.0
+543,Diplôme supérieur,pop_4,T15,F,1997,dip_1,94.0,25.0
+544,Diplôme supérieur,pop_5,T25,F,1997,dip_1,910.0,87.0
+545,Diplôme supérieur,pop_6,T50,F,1997,dip_1,144.0,6.0
+546,Baccalauréat + 2 ans,pop_1,T15,H,1997,dip_2,138.0,33.0
+547,Baccalauréat + 2 ans,pop_2,T25,H,1997,dip_2,868.0,43.0
+548,Baccalauréat + 2 ans,pop_3,T50,H,1997,dip_2,105.0,3.0
+549,Baccalauréat + 2 ans,pop_4,T15,F,1997,dip_2,152.0,38.0
+550,Baccalauréat + 2 ans,pop_5,T25,F,1997,dip_2,1140.0,71.0
+551,Baccalauréat + 2 ans,pop_6,T50,F,1997,dip_2,138.0,6.0
+552,Baccalauréat ou brevet professionnel,pop_1,T15,H,1997,dip_3,286.0,44.0
+553,Baccalauréat ou brevet professionnel,pop_2,T25,H,1997,dip_3,1054.0,81.0
+554,Baccalauréat ou brevet professionnel,pop_3,T50,H,1997,dip_3,236.0,10.0
+555,Baccalauréat ou brevet professionnel,pop_4,T15,F,1997,dip_3,224.0,69.0
+556,Baccalauréat ou brevet professionnel,pop_5,T25,F,1997,dip_3,1228.0,117.0
+557,Baccalauréat ou brevet professionnel,pop_6,T50,F,1997,dip_3,205.0,7.0
+558,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,1997,dip_4,354.0,81.0
+559,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,1997,dip_4,3375.0,289.0
+560,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,1997,dip_4,608.0,41.0
+561,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,1997,dip_4,231.0,76.0
+562,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,1997,dip_4,1965.0,258.0
+563,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,1997,dip_4,373.0,29.0
+564,Brevet des collèges,pop_1,T15,H,1997,dip_5,123.0,20.0
+565,Brevet des collèges,pop_2,T25,H,1997,dip_5,491.0,50.0
+566,Brevet des collèges,pop_3,T50,H,1997,dip_5,117.0,12.0
+567,Brevet des collèges,pop_4,T15,F,1997,dip_5,75.0,22.0
+568,Brevet des collèges,pop_5,T25,F,1997,dip_5,648.0,73.0
+569,Brevet des collèges,pop_6,T50,F,1997,dip_5,161.0,9.0
+570,Aucun diplôme ou CEP,pop_1,T15,H,1997,dip_6,264.0,117.0
+571,Aucun diplôme ou CEP,pop_2,T25,H,1997,dip_6,2368.0,349.0
+572,Aucun diplôme ou CEP,pop_3,T50,H,1997,dip_6,976.0,92.0
+573,Aucun diplôme ou CEP,pop_4,T15,F,1997,dip_6,135.0,75.0
+574,Aucun diplôme ou CEP,pop_5,T25,F,1997,dip_6,1786.0,371.0
+575,Aucun diplôme ou CEP,pop_6,T50,F,1997,dip_6,812.0,83.0
+576,Diplôme supérieur,pop_1,T15,H,1998,dip_1,47.0,11.0
+577,Diplôme supérieur,pop_2,T25,H,1998,dip_1,1219.0,72.0
+578,Diplôme supérieur,pop_3,T50,H,1998,dip_1,345.0,11.0
+579,Diplôme supérieur,pop_4,T15,F,1998,dip_1,103.0,28.0
+580,Diplôme supérieur,pop_5,T25,F,1998,dip_1,957.0,84.0
+581,Diplôme supérieur,pop_6,T50,F,1998,dip_1,155.0,4.0
+582,Baccalauréat + 2 ans,pop_1,T15,H,1998,dip_2,142.0,28.0
+583,Baccalauréat + 2 ans,pop_2,T25,H,1998,dip_2,896.0,38.0
+584,Baccalauréat + 2 ans,pop_3,T50,H,1998,dip_2,114.0,3.0
+585,Baccalauréat + 2 ans,pop_4,T15,F,1998,dip_2,147.0,32.0
+586,Baccalauréat + 2 ans,pop_5,T25,F,1998,dip_2,1183.0,73.0
+587,Baccalauréat + 2 ans,pop_6,T50,F,1998,dip_2,159.0,8.0
+588,Baccalauréat ou brevet professionnel,pop_1,T15,H,1998,dip_3,290.0,46.0
+589,Baccalauréat ou brevet professionnel,pop_2,T25,H,1998,dip_3,1089.0,80.0
+590,Baccalauréat ou brevet professionnel,pop_3,T50,H,1998,dip_3,253.0,11.0
+591,Baccalauréat ou brevet professionnel,pop_4,T15,F,1998,dip_3,256.0,61.0
+592,Baccalauréat ou brevet professionnel,pop_5,T25,F,1998,dip_3,1285.0,121.0
+593,Baccalauréat ou brevet professionnel,pop_6,T50,F,1998,dip_3,230.0,12.0
+594,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,1998,dip_4,341.0,75.0
+595,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,1998,dip_4,3381.0,267.0
+596,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,1998,dip_4,654.0,52.0
+597,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,1998,dip_4,230.0,71.0
+598,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,1998,dip_4,1957.0,266.0
+599,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,1998,dip_4,409.0,32.0
+600,Brevet des collèges,pop_1,T15,H,1998,dip_5,124.0,18.0
+601,Brevet des collèges,pop_2,T25,H,1998,dip_5,493.0,47.0
+602,Brevet des collèges,pop_3,T50,H,1998,dip_5,124.0,11.0
+603,Brevet des collèges,pop_4,T15,F,1998,dip_5,79.0,21.0
+604,Brevet des collèges,pop_5,T25,F,1998,dip_5,639.0,68.0
+605,Brevet des collèges,pop_6,T50,F,1998,dip_5,160.0,7.0
+606,Aucun diplôme ou CEP,pop_1,T15,H,1998,dip_6,270.0,114.0
+607,Aucun diplôme ou CEP,pop_2,T25,H,1998,dip_6,2266.0,329.0
+608,Aucun diplôme ou CEP,pop_3,T50,H,1998,dip_6,969.0,90.0
+609,Aucun diplôme ou CEP,pop_4,T15,F,1998,dip_6,123.0,68.0
+610,Aucun diplôme ou CEP,pop_5,T25,F,1998,dip_6,1714.0,362.0
+611,Aucun diplôme ou CEP,pop_6,T50,F,1998,dip_6,812.0,84.0
+612,Diplôme supérieur,pop_1,T15,H,1999,dip_1,52.0,10.0
+613,Diplôme supérieur,pop_2,T25,H,1999,dip_1,1262.0,72.0
+614,Diplôme supérieur,pop_3,T50,H,1999,dip_1,367.0,9.0
+615,Diplôme supérieur,pop_4,T15,F,1999,dip_1,91.0,25.0
+616,Diplôme supérieur,pop_5,T25,F,1999,dip_1,1021.0,79.0
+617,Diplôme supérieur,pop_6,T50,F,1999,dip_1,171.0,7.0
+618,Baccalauréat + 2 ans,pop_1,T15,H,1999,dip_2,144.0,27.0
+619,Baccalauréat + 2 ans,pop_2,T25,H,1999,dip_2,947.0,36.0
+620,Baccalauréat + 2 ans,pop_3,T50,H,1999,dip_2,133.0,2.0
+621,Baccalauréat + 2 ans,pop_4,T15,F,1999,dip_2,160.0,32.0
+622,Baccalauréat + 2 ans,pop_5,T25,F,1999,dip_2,1225.0,71.0
+623,Baccalauréat + 2 ans,pop_6,T50,F,1999,dip_2,173.0,10.0
+624,Baccalauréat ou brevet professionnel,pop_1,T15,H,1999,dip_3,320.0,48.0
+625,Baccalauréat ou brevet professionnel,pop_2,T25,H,1999,dip_3,1121.0,75.0
+626,Baccalauréat ou brevet professionnel,pop_3,T50,H,1999,dip_3,280.0,12.0
+627,Baccalauréat ou brevet professionnel,pop_4,T15,F,1999,dip_3,261.0,57.0
+628,Baccalauréat ou brevet professionnel,pop_5,T25,F,1999,dip_3,1326.0,121.0
+629,Baccalauréat ou brevet professionnel,pop_6,T50,F,1999,dip_3,244.0,12.0
+630,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,1999,dip_4,347.0,87.0
+631,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,1999,dip_4,3343.0,237.0
+632,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,1999,dip_4,694.0,53.0
+633,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,1999,dip_4,219.0,65.0
+634,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,1999,dip_4,1964.0,266.0
+635,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,1999,dip_4,445.0,32.0
+636,Brevet des collèges,pop_1,T15,H,1999,dip_5,118.0,19.0
+637,Brevet des collèges,pop_2,T25,H,1999,dip_5,478.0,47.0
+638,Brevet des collèges,pop_3,T50,H,1999,dip_5,138.0,16.0
+639,Brevet des collèges,pop_4,T15,F,1999,dip_5,74.0,22.0
+640,Brevet des collèges,pop_5,T25,F,1999,dip_5,618.0,66.0
+641,Brevet des collèges,pop_6,T50,F,1999,dip_5,182.0,6.0
+642,Aucun diplôme ou CEP,pop_1,T15,H,1999,dip_6,245.0,110.0
+643,Aucun diplôme ou CEP,pop_2,T25,H,1999,dip_6,2169.0,329.0
+644,Aucun diplôme ou CEP,pop_3,T50,H,1999,dip_6,963.0,89.0
+645,Aucun diplôme ou CEP,pop_4,T15,F,1999,dip_6,125.0,64.0
+646,Aucun diplôme ou CEP,pop_5,T25,F,1999,dip_6,1610.0,348.0
+647,Aucun diplôme ou CEP,pop_6,T50,F,1999,dip_6,862.0,88.0
+648,Diplôme supérieur,pop_1,T15,H,2000,dip_1,49.0,12.0
+649,Diplôme supérieur,pop_2,T25,H,2000,dip_1,1297.0,66.0
+650,Diplôme supérieur,pop_3,T50,H,2000,dip_1,394.0,9.0
+651,Diplôme supérieur,pop_4,T15,F,2000,dip_1,118.0,23.0
+652,Diplôme supérieur,pop_5,T25,F,2000,dip_1,1086.0,74.0
+653,Diplôme supérieur,pop_6,T50,F,2000,dip_1,191.0,6.0
+654,Baccalauréat + 2 ans,pop_1,T15,H,2000,dip_2,154.0,18.0
+655,Baccalauréat + 2 ans,pop_2,T25,H,2000,dip_2,978.0,30.0
+656,Baccalauréat + 2 ans,pop_3,T50,H,2000,dip_2,145.0,2.0
+657,Baccalauréat + 2 ans,pop_4,T15,F,2000,dip_2,184.0,23.0
+658,Baccalauréat + 2 ans,pop_5,T25,F,2000,dip_2,1279.0,56.0
+659,Baccalauréat + 2 ans,pop_6,T50,F,2000,dip_2,199.0,6.0
+660,Baccalauréat ou brevet professionnel,pop_1,T15,H,2000,dip_3,359.0,38.0
+661,Baccalauréat ou brevet professionnel,pop_2,T25,H,2000,dip_3,1187.0,66.0
+662,Baccalauréat ou brevet professionnel,pop_3,T50,H,2000,dip_3,286.0,10.0
+663,Baccalauréat ou brevet professionnel,pop_4,T15,F,2000,dip_3,283.0,45.0
+664,Baccalauréat ou brevet professionnel,pop_5,T25,F,2000,dip_3,1388.0,115.0
+665,Baccalauréat ou brevet professionnel,pop_6,T50,F,2000,dip_3,264.0,11.0
+666,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,2000,dip_4,383.0,62.0
+667,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,2000,dip_4,3338.0,206.0
+668,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,2000,dip_4,742.0,44.0
+669,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,2000,dip_4,244.0,58.0
+670,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,2000,dip_4,1998.0,221.0
+671,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,2000,dip_4,484.0,30.0
+672,Brevet des collèges,pop_1,T15,H,2000,dip_5,137.0,19.0
+673,Brevet des collèges,pop_2,T25,H,2000,dip_5,477.0,43.0
+674,Brevet des collèges,pop_3,T50,H,2000,dip_5,153.0,12.0
+675,Brevet des collèges,pop_4,T15,F,2000,dip_5,84.0,18.0
+676,Brevet des collèges,pop_5,T25,F,2000,dip_5,602.0,63.0
+677,Brevet des collèges,pop_6,T50,F,2000,dip_5,195.0,8.0
+678,Aucun diplôme ou CEP,pop_1,T15,H,2000,dip_6,235.0,95.0
+679,Aucun diplôme ou CEP,pop_2,T25,H,2000,dip_6,2151.0,265.0
+680,Aucun diplôme ou CEP,pop_3,T50,H,2000,dip_6,980.0,76.0
+681,Aucun diplôme ou CEP,pop_4,T15,F,2000,dip_6,118.0,59.0
+682,Aucun diplôme ou CEP,pop_5,T25,F,2000,dip_6,1532.0,327.0
+683,Aucun diplôme ou CEP,pop_6,T50,F,2000,dip_6,852.0,81.0
+684,Diplôme supérieur,pop_1,T15,H,2001,dip_1,53.0,7.0
+685,Diplôme supérieur,pop_2,T25,H,2001,dip_1,1327.0,66.0
+686,Diplôme supérieur,pop_3,T50,H,2001,dip_1,434.0,10.0
+687,Diplôme supérieur,pop_4,T15,F,2001,dip_1,123.0,13.0
+688,Diplôme supérieur,pop_5,T25,F,2001,dip_1,1155.0,71.0
+689,Diplôme supérieur,pop_6,T50,F,2001,dip_1,211.0,6.0
+690,Baccalauréat + 2 ans,pop_1,T15,H,2001,dip_2,151.0,20.0
+691,Baccalauréat + 2 ans,pop_2,T25,H,2001,dip_2,1042.0,29.0
+692,Baccalauréat + 2 ans,pop_3,T50,H,2001,dip_2,162.0,3.0
+693,Baccalauréat + 2 ans,pop_4,T15,F,2001,dip_2,199.0,22.0
+694,Baccalauréat + 2 ans,pop_5,T25,F,2001,dip_2,1320.0,62.0
+695,Baccalauréat + 2 ans,pop_6,T50,F,2001,dip_2,208.0,9.0
+696,Baccalauréat ou brevet professionnel,pop_1,T15,H,2001,dip_3,363.0,41.0
+697,Baccalauréat ou brevet professionnel,pop_2,T25,H,2001,dip_3,1218.0,62.0
+698,Baccalauréat ou brevet professionnel,pop_3,T50,H,2001,dip_3,297.0,8.0
+699,Baccalauréat ou brevet professionnel,pop_4,T15,F,2001,dip_3,279.0,41.0
+700,Baccalauréat ou brevet professionnel,pop_5,T25,F,2001,dip_3,1417.0,105.0
+701,Baccalauréat ou brevet professionnel,pop_6,T50,F,2001,dip_3,284.0,10.0
+702,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,2001,dip_4,396.0,54.0
+703,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,2001,dip_4,3289.0,177.0
+704,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,2001,dip_4,791.0,40.0
+705,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,2001,dip_4,256.0,58.0
+706,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,2001,dip_4,1989.0,205.0
+707,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,2001,dip_4,529.0,31.0
+708,Brevet des collèges,pop_1,T15,H,2001,dip_5,127.0,24.0
+709,Brevet des collèges,pop_2,T25,H,2001,dip_5,500.0,40.0
+710,Brevet des collèges,pop_3,T50,H,2001,dip_5,164.0,8.0
+711,Brevet des collèges,pop_4,T15,F,2001,dip_5,88.0,21.0
+712,Brevet des collèges,pop_5,T25,F,2001,dip_5,602.0,59.0
+713,Brevet des collèges,pop_6,T50,F,2001,dip_5,190.0,9.0
+714,Aucun diplôme ou CEP,pop_1,T15,H,2001,dip_6,240.0,91.0
+715,Aucun diplôme ou CEP,pop_2,T25,H,2001,dip_6,2055.0,227.0
+716,Aucun diplôme ou CEP,pop_3,T50,H,2001,dip_6,987.0,64.0
+717,Aucun diplôme ou CEP,pop_4,T15,F,2001,dip_6,106.0,58.0
+718,Aucun diplôme ou CEP,pop_5,T25,F,2001,dip_6,1485.0,286.0
+719,Aucun diplôme ou CEP,pop_6,T50,F,2001,dip_6,869.0,69.0
+720,Diplôme supérieur,pop_1,T15,H,2002,dip_1,54.0,19.0
+721,Diplôme supérieur,pop_2,T25,H,2002,dip_1,1325.0,82.0
+722,Diplôme supérieur,pop_3,T50,H,2002,dip_1,465.0,12.0
+723,Diplôme supérieur,pop_4,T15,F,2002,dip_1,113.0,17.0
+724,Diplôme supérieur,pop_5,T25,F,2002,dip_1,1237.0,81.0
+725,Diplôme supérieur,pop_6,T50,F,2002,dip_1,237.0,7.0
+726,Baccalauréat + 2 ans,pop_1,T15,H,2002,dip_2,157.0,27.0
+727,Baccalauréat + 2 ans,pop_2,T25,H,2002,dip_2,1048.0,36.0
+728,Baccalauréat + 2 ans,pop_3,T50,H,2002,dip_2,170.0,4.0
+729,Baccalauréat + 2 ans,pop_4,T15,F,2002,dip_2,196.0,26.0
+730,Baccalauréat + 2 ans,pop_5,T25,F,2002,dip_2,1355.0,59.0
+731,Baccalauréat + 2 ans,pop_6,T50,F,2002,dip_2,228.0,10.0
+732,Baccalauréat ou brevet professionnel,pop_1,T15,H,2002,dip_3,357.0,43.0
+733,Baccalauréat ou brevet professionnel,pop_2,T25,H,2002,dip_3,1283.0,70.0
+734,Baccalauréat ou brevet professionnel,pop_3,T50,H,2002,dip_3,297.0,13.0
+735,Baccalauréat ou brevet professionnel,pop_4,T15,F,2002,dip_3,309.0,48.0
+736,Baccalauréat ou brevet professionnel,pop_5,T25,F,2002,dip_3,1471.0,105.0
+737,Baccalauréat ou brevet professionnel,pop_6,T50,F,2002,dip_3,295.0,12.0
+738,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,2002,dip_4,405.0,68.0
+739,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,2002,dip_4,3227.0,169.0
+740,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,2002,dip_4,856.0,48.0
+741,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,2002,dip_4,257.0,55.0
+742,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,2002,dip_4,1933.0,198.0
+743,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,2002,dip_4,560.0,34.0
+744,Brevet des collèges,pop_1,T15,H,2002,dip_5,133.0,22.0
+745,Brevet des collèges,pop_2,T25,H,2002,dip_5,504.0,41.0
+746,Brevet des collèges,pop_3,T50,H,2002,dip_5,173.0,10.0
+747,Brevet des collèges,pop_4,T15,F,2002,dip_5,86.0,20.0
+748,Brevet des collèges,pop_5,T25,F,2002,dip_5,608.0,53.0
+749,Brevet des collèges,pop_6,T50,F,2002,dip_5,211.0,7.0
+750,Aucun diplôme ou CEP,pop_1,T15,H,2002,dip_6,239.0,92.0
+751,Aucun diplôme ou CEP,pop_2,T25,H,2002,dip_6,1953.0,238.0
+752,Aucun diplôme ou CEP,pop_3,T50,H,2002,dip_6,1012.0,67.0
+753,Aucun diplôme ou CEP,pop_4,T15,F,2002,dip_6,110.0,52.0
+754,Aucun diplôme ou CEP,pop_5,T25,F,2002,dip_6,1407.0,253.0
+755,Aucun diplôme ou CEP,pop_6,T50,F,2002,dip_6,897.0,69.0
+756,Diplôme supérieur,pop_1,T15,H,2003,dip_1,60.0,18.0
+757,Diplôme supérieur,pop_2,T25,H,2003,dip_1,1345.0,93.0
+758,Diplôme supérieur,pop_3,T50,H,2003,dip_1,475.0,14.0
+759,Diplôme supérieur,pop_4,T15,F,2003,dip_1,114.0,18.0
+760,Diplôme supérieur,pop_5,T25,F,2003,dip_1,1288.0,91.0
+761,Diplôme supérieur,pop_6,T50,F,2003,dip_1,263.0,9.0
+762,Baccalauréat + 2 ans,pop_1,T15,H,2003,dip_2,152.0,25.0
+763,Baccalauréat + 2 ans,pop_2,T25,H,2003,dip_2,1087.0,44.0
+764,Baccalauréat + 2 ans,pop_3,T50,H,2003,dip_2,189.0,6.0
+765,Baccalauréat + 2 ans,pop_4,T15,F,2003,dip_2,192.0,29.0
+766,Baccalauréat + 2 ans,pop_5,T25,F,2003,dip_2,1367.0,68.0
+767,Baccalauréat + 2 ans,pop_6,T50,F,2003,dip_2,247.0,11.0
+768,Baccalauréat ou brevet professionnel,pop_1,T15,H,2003,dip_3,344.0,49.0
+769,Baccalauréat ou brevet professionnel,pop_2,T25,H,2003,dip_3,1301.0,82.0
+770,Baccalauréat ou brevet professionnel,pop_3,T50,H,2003,dip_3,316.0,15.0
+771,Baccalauréat ou brevet professionnel,pop_4,T15,F,2003,dip_3,313.0,57.0
+772,Baccalauréat ou brevet professionnel,pop_5,T25,F,2003,dip_3,1476.0,113.0
+773,Baccalauréat ou brevet professionnel,pop_6,T50,F,2003,dip_3,333.0,14.0
+774,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,2003,dip_4,392.0,75.0
+775,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,2003,dip_4,3114.0,175.0
+776,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,2003,dip_4,896.0,48.0
+777,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,2003,dip_4,248.0,63.0
+778,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,2003,dip_4,1891.0,208.0
+779,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,2003,dip_4,603.0,34.0
+780,Brevet des collèges,pop_1,T15,H,2003,dip_5,127.0,31.0
+781,Brevet des collèges,pop_2,T25,H,2003,dip_5,520.0,45.0
+782,Brevet des collèges,pop_3,T50,H,2003,dip_5,187.0,10.0
+783,Brevet des collèges,pop_4,T15,F,2003,dip_5,83.0,27.0
+784,Brevet des collèges,pop_5,T25,F,2003,dip_5,590.0,60.0
+785,Brevet des collèges,pop_6,T50,F,2003,dip_5,231.0,8.0
+786,Aucun diplôme ou CEP,pop_1,T15,H,2003,dip_6,234.0,98.0
+787,Aucun diplôme ou CEP,pop_2,T25,H,2003,dip_6,1840.0,251.0
+788,Aucun diplôme ou CEP,pop_3,T50,H,2003,dip_6,1004.0,72.0
+789,Aucun diplôme ou CEP,pop_4,T15,F,2003,dip_6,102.0,59.0
+790,Aucun diplôme ou CEP,pop_5,T25,F,2003,dip_6,1338.0,254.0
+791,Aucun diplôme ou CEP,pop_6,T50,F,2003,dip_6,937.0,76.0
+792,Diplôme supérieur,pop_1,T15,H,2004,dip_1,62.0,16.0
+793,Diplôme supérieur,pop_2,T25,H,2004,dip_1,1341.0,97.0
+794,Diplôme supérieur,pop_3,T50,H,2004,dip_1,468.0,18.0
+795,Diplôme supérieur,pop_4,T15,F,2004,dip_1,121.0,18.0
+796,Diplôme supérieur,pop_5,T25,F,2004,dip_1,1339.0,105.0
+797,Diplôme supérieur,pop_6,T50,F,2004,dip_1,293.0,9.0
+798,Baccalauréat + 2 ans,pop_1,T15,H,2004,dip_2,157.0,28.0
+799,Baccalauréat + 2 ans,pop_2,T25,H,2004,dip_2,1133.0,55.0
+800,Baccalauréat + 2 ans,pop_3,T50,H,2004,dip_2,202.0,8.0
+801,Baccalauréat + 2 ans,pop_4,T15,F,2004,dip_2,186.0,24.0
+802,Baccalauréat + 2 ans,pop_5,T25,F,2004,dip_2,1368.0,69.0
+803,Baccalauréat + 2 ans,pop_6,T50,F,2004,dip_2,263.0,9.0
+804,Baccalauréat ou brevet professionnel,pop_1,T15,H,2004,dip_3,319.0,60.0
+805,Baccalauréat ou brevet professionnel,pop_2,T25,H,2004,dip_3,1358.0,79.0
+806,Baccalauréat ou brevet professionnel,pop_3,T50,H,2004,dip_3,346.0,16.0
+807,Baccalauréat ou brevet professionnel,pop_4,T15,F,2004,dip_3,351.0,79.0
+808,Baccalauréat ou brevet professionnel,pop_5,T25,F,2004,dip_3,1478.0,127.0
+809,Baccalauréat ou brevet professionnel,pop_6,T50,F,2004,dip_3,338.0,23.0
+810,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,2004,dip_4,405.0,84.0
+811,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,2004,dip_4,3031.0,171.0
+812,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,2004,dip_4,941.0,43.0
+813,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,2004,dip_4,213.0,62.0
+814,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,2004,dip_4,1894.0,207.0
+815,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,2004,dip_4,600.0,34.0
+816,Brevet des collèges,pop_1,T15,H,2004,dip_5,133.0,38.0
+817,Brevet des collèges,pop_2,T25,H,2004,dip_5,540.0,45.0
+818,Brevet des collèges,pop_3,T50,H,2004,dip_5,190.0,10.0
+819,Brevet des collèges,pop_4,T15,F,2004,dip_5,75.0,32.0
+820,Brevet des collèges,pop_5,T25,F,2004,dip_5,584.0,68.0
+821,Brevet des collèges,pop_6,T50,F,2004,dip_5,238.0,10.0
+822,Aucun diplôme ou CEP,pop_1,T15,H,2004,dip_6,223.0,96.0
+823,Aucun diplôme ou CEP,pop_2,T25,H,2004,dip_6,1767.0,269.0
+824,Aucun diplôme ou CEP,pop_3,T50,H,2004,dip_6,978.0,73.0
+825,Aucun diplôme ou CEP,pop_4,T15,F,2004,dip_6,96.0,63.0
+826,Aucun diplôme ou CEP,pop_5,T25,F,2004,dip_6,1284.0,236.0
+827,Aucun diplôme ou CEP,pop_6,T50,F,2004,dip_6,989.0,81.0
+828,Diplôme supérieur,pop_1,T15,H,2005,dip_1,75.0,17.0
+829,Diplôme supérieur,pop_2,T25,H,2005,dip_1,1386.0,87.0
+830,Diplôme supérieur,pop_3,T50,H,2005,dip_1,486.0,18.0
+831,Diplôme supérieur,pop_4,T15,F,2005,dip_1,121.0,24.0
+832,Diplôme supérieur,pop_5,T25,F,2005,dip_1,1445.0,93.0
+833,Diplôme supérieur,pop_6,T50,F,2005,dip_1,311.0,11.0
+834,Baccalauréat + 2 ans,pop_1,T15,H,2005,dip_2,147.0,24.0
+835,Baccalauréat + 2 ans,pop_2,T25,H,2005,dip_2,1164.0,54.0
+836,Baccalauréat + 2 ans,pop_3,T50,H,2005,dip_2,223.0,13.0
+837,Baccalauréat + 2 ans,pop_4,T15,F,2005,dip_2,186.0,30.0
+838,Baccalauréat + 2 ans,pop_5,T25,F,2005,dip_2,1413.0,80.0
+839,Baccalauréat + 2 ans,pop_6,T50,F,2005,dip_2,283.0,8.0
+840,Baccalauréat ou brevet professionnel,pop_1,T15,H,2005,dip_3,321.0,56.0
+841,Baccalauréat ou brevet professionnel,pop_2,T25,H,2005,dip_3,1409.0,97.0
+842,Baccalauréat ou brevet professionnel,pop_3,T50,H,2005,dip_3,386.0,16.0
+843,Baccalauréat ou brevet professionnel,pop_4,T15,F,2005,dip_3,351.0,76.0
+844,Baccalauréat ou brevet professionnel,pop_5,T25,F,2005,dip_3,1524.0,128.0
+845,Baccalauréat ou brevet professionnel,pop_6,T50,F,2005,dip_3,366.0,22.0
+846,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,2005,dip_4,393.0,86.0
+847,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,2005,dip_4,2940.0,174.0
+848,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,2005,dip_4,940.0,40.0
+849,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,2005,dip_4,201.0,64.0
+850,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,2005,dip_4,1830.0,193.0
+851,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,2005,dip_4,633.0,25.0
+852,Brevet des collèges,pop_1,T15,H,2005,dip_5,140.0,38.0
+853,Brevet des collèges,pop_2,T25,H,2005,dip_5,577.0,58.0
+854,Brevet des collèges,pop_3,T50,H,2005,dip_5,218.0,9.0
+855,Brevet des collèges,pop_4,T15,F,2005,dip_5,73.0,36.0
+856,Brevet des collèges,pop_5,T25,F,2005,dip_5,554.0,75.0
+857,Brevet des collèges,pop_6,T50,F,2005,dip_5,290.0,15.0
+858,Aucun diplôme ou CEP,pop_1,T15,H,2005,dip_6,226.0,106.0
+859,Aucun diplôme ou CEP,pop_2,T25,H,2005,dip_6,1672.0,254.0
+860,Aucun diplôme ou CEP,pop_3,T50,H,2005,dip_6,929.0,71.0
+861,Aucun diplôme ou CEP,pop_4,T15,F,2005,dip_6,97.0,61.0
+862,Aucun diplôme ou CEP,pop_5,T25,F,2005,dip_6,1213.0,243.0
+863,Aucun diplôme ou CEP,pop_6,T50,F,2005,dip_6,967.0,81.0
+864,Diplôme supérieur,pop_1,T15,H,2006,dip_1,78.0,16.0
+865,Diplôme supérieur,pop_2,T25,H,2006,dip_1,1463.0,80.0
+866,Diplôme supérieur,pop_3,T50,H,2006,dip_1,454.0,22.0
+867,Diplôme supérieur,pop_4,T15,F,2006,dip_1,120.0,22.0
+868,Diplôme supérieur,pop_5,T25,F,2006,dip_1,1517.0,91.0
+869,Diplôme supérieur,pop_6,T50,F,2006,dip_1,309.0,9.0
+870,Baccalauréat + 2 ans,pop_1,T15,H,2006,dip_2,153.0,30.0
+871,Baccalauréat + 2 ans,pop_2,T25,H,2006,dip_2,1229.0,52.0
+872,Baccalauréat + 2 ans,pop_3,T50,H,2006,dip_2,226.0,16.0
+873,Baccalauréat + 2 ans,pop_4,T15,F,2006,dip_2,172.0,25.0
+874,Baccalauréat + 2 ans,pop_5,T25,F,2006,dip_2,1481.0,72.0
+875,Baccalauréat + 2 ans,pop_6,T50,F,2006,dip_2,295.0,12.0
+876,Baccalauréat ou brevet professionnel,pop_1,T15,H,2006,dip_3,332.0,64.0
+877,Baccalauréat ou brevet professionnel,pop_2,T25,H,2006,dip_3,1493.0,95.0
+878,Baccalauréat ou brevet professionnel,pop_3,T50,H,2006,dip_3,390.0,23.0
+879,Baccalauréat ou brevet professionnel,pop_4,T15,F,2006,dip_3,348.0,72.0
+880,Baccalauréat ou brevet professionnel,pop_5,T25,F,2006,dip_3,1532.0,138.0
+881,Baccalauréat ou brevet professionnel,pop_6,T50,F,2006,dip_3,408.0,19.0
+882,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,2006,dip_4,377.0,77.0
+883,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,2006,dip_4,2845.0,182.0
+884,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,2006,dip_4,961.0,34.0
+885,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,2006,dip_4,198.0,77.0
+886,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,2006,dip_4,1797.0,173.0
+887,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,2006,dip_4,664.0,32.0
+888,Brevet des collèges,pop_1,T15,H,2006,dip_5,136.0,48.0
+889,Brevet des collèges,pop_2,T25,H,2006,dip_5,615.0,57.0
+890,Brevet des collèges,pop_3,T50,H,2006,dip_5,251.0,8.0
+891,Brevet des collèges,pop_4,T15,F,2006,dip_5,98.0,49.0
+892,Brevet des collèges,pop_5,T25,F,2006,dip_5,610.0,76.0
+893,Brevet des collèges,pop_6,T50,F,2006,dip_5,300.0,13.0
+894,Aucun diplôme ou CEP,pop_1,T15,H,2006,dip_6,213.0,107.0
+895,Aucun diplôme ou CEP,pop_2,T25,H,2006,dip_6,1539.0,244.0
+896,Aucun diplôme ou CEP,pop_3,T50,H,2006,dip_6,923.0,74.0
+897,Aucun diplôme ou CEP,pop_4,T15,F,2006,dip_6,77.0,63.0
+898,Aucun diplôme ou CEP,pop_5,T25,F,2006,dip_6,1105.0,231.0
+899,Aucun diplôme ou CEP,pop_6,T50,F,2006,dip_6,963.0,81.0
+900,Diplôme supérieur,pop_1,T15,H,2007,dip_1,77.0,15.0
+901,Diplôme supérieur,pop_2,T25,H,2007,dip_1,1531.0,78.0
+902,Diplôme supérieur,pop_3,T50,H,2007,dip_1,495.0,18.0
+903,Diplôme supérieur,pop_4,T15,F,2007,dip_1,128.0,15.0
+904,Diplôme supérieur,pop_5,T25,F,2007,dip_1,1565.0,96.0
+905,Diplôme supérieur,pop_6,T50,F,2007,dip_1,313.0,10.0
+906,Baccalauréat + 2 ans,pop_1,T15,H,2007,dip_2,141.0,19.0
+907,Baccalauréat + 2 ans,pop_2,T25,H,2007,dip_2,1222.0,57.0
+908,Baccalauréat + 2 ans,pop_3,T50,H,2007,dip_2,248.0,16.0
+909,Baccalauréat + 2 ans,pop_4,T15,F,2007,dip_2,191.0,28.0
+910,Baccalauréat + 2 ans,pop_5,T25,F,2007,dip_2,1538.0,65.0
+911,Baccalauréat + 2 ans,pop_6,T50,F,2007,dip_2,319.0,13.0
+912,Baccalauréat ou brevet professionnel,pop_1,T15,H,2007,dip_3,328.0,54.0
+913,Baccalauréat ou brevet professionnel,pop_2,T25,H,2007,dip_3,1599.0,86.0
+914,Baccalauréat ou brevet professionnel,pop_3,T50,H,2007,dip_3,418.0,15.0
+915,Baccalauréat ou brevet professionnel,pop_4,T15,F,2007,dip_3,360.0,64.0
+916,Baccalauréat ou brevet professionnel,pop_5,T25,F,2007,dip_3,1625.0,128.0
+917,Baccalauréat ou brevet professionnel,pop_6,T50,F,2007,dip_3,432.0,18.0
+918,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,2007,dip_4,381.0,67.0
+919,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,2007,dip_4,2815.0,174.0
+920,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,2007,dip_4,967.0,33.0
+921,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,2007,dip_4,220.0,64.0
+922,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,2007,dip_4,1800.0,160.0
+923,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,2007,dip_4,712.0,27.0
+924,Brevet des collèges,pop_1,T15,H,2007,dip_5,166.0,46.0
+925,Brevet des collèges,pop_2,T25,H,2007,dip_5,604.0,52.0
+926,Brevet des collèges,pop_3,T50,H,2007,dip_5,267.0,14.0
+927,Brevet des collèges,pop_4,T15,F,2007,dip_5,104.0,43.0
+928,Brevet des collèges,pop_5,T25,F,2007,dip_5,606.0,63.0
+929,Brevet des collèges,pop_6,T50,F,2007,dip_5,337.0,16.0
+930,Aucun diplôme ou CEP,pop_1,T15,H,2007,dip_6,220.0,103.0
+931,Aucun diplôme ou CEP,pop_2,T25,H,2007,dip_6,1455.0,226.0
+932,Aucun diplôme ou CEP,pop_3,T50,H,2007,dip_6,891.0,66.0
+933,Aucun diplôme ou CEP,pop_4,T15,F,2007,dip_6,67.0,56.0
+934,Aucun diplôme ou CEP,pop_5,T25,F,2007,dip_6,1048.0,194.0
+935,Aucun diplôme ou CEP,pop_6,T50,F,2007,dip_6,924.0,70.0
+936,Diplôme supérieur,pop_1,T15,H,2008,dip_1,86.0,12.0
+937,Diplôme supérieur,pop_2,T25,H,2008,dip_1,1543.0,62.0
+938,Diplôme supérieur,pop_3,T50,H,2008,dip_1,518.0,20.0
+939,Diplôme supérieur,pop_4,T15,F,2008,dip_1,149.0,18.0
+940,Diplôme supérieur,pop_5,T25,F,2008,dip_1,1700.0,85.0
+941,Diplôme supérieur,pop_6,T50,F,2008,dip_1,361.0,7.0
+942,Baccalauréat + 2 ans,pop_1,T15,H,2008,dip_2,136.0,16.0
+943,Baccalauréat + 2 ans,pop_2,T25,H,2008,dip_2,1256.0,39.0
+944,Baccalauréat + 2 ans,pop_3,T50,H,2008,dip_2,251.0,11.0
+945,Baccalauréat + 2 ans,pop_4,T15,F,2008,dip_2,192.0,18.0
+946,Baccalauréat + 2 ans,pop_5,T25,F,2008,dip_2,1531.0,66.0
+947,Baccalauréat + 2 ans,pop_6,T50,F,2008,dip_2,360.0,10.0
+948,Baccalauréat ou brevet professionnel,pop_1,T15,H,2008,dip_3,363.0,62.0
+949,Baccalauréat ou brevet professionnel,pop_2,T25,H,2008,dip_3,1690.0,88.0
+950,Baccalauréat ou brevet professionnel,pop_3,T50,H,2008,dip_3,448.0,14.0
+951,Baccalauréat ou brevet professionnel,pop_4,T15,F,2008,dip_3,339.0,60.0
+952,Baccalauréat ou brevet professionnel,pop_5,T25,F,2008,dip_3,1713.0,125.0
+953,Baccalauréat ou brevet professionnel,pop_6,T50,F,2008,dip_3,476.0,15.0
+954,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,2008,dip_4,387.0,77.0
+955,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,2008,dip_4,2772.0,158.0
+956,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,2008,dip_4,989.0,36.0
+957,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,2008,dip_4,220.0,69.0
+958,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,2008,dip_4,1808.0,145.0
+959,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,2008,dip_4,711.0,31.0
+960,Brevet des collèges,pop_1,T15,H,2008,dip_5,166.0,46.0
+961,Brevet des collèges,pop_2,T25,H,2008,dip_5,612.0,45.0
+962,Brevet des collèges,pop_3,T50,H,2008,dip_5,269.0,13.0
+963,Brevet des collèges,pop_4,T15,F,2008,dip_5,98.0,38.0
+964,Brevet des collèges,pop_5,T25,F,2008,dip_5,592.0,61.0
+965,Brevet des collèges,pop_6,T50,F,2008,dip_5,329.0,16.0
+966,Aucun diplôme ou CEP,pop_1,T15,H,2008,dip_6,177.0,97.0
+967,Aucun diplôme ou CEP,pop_2,T25,H,2008,dip_6,1440.0,205.0
+968,Aucun diplôme ou CEP,pop_3,T50,H,2008,dip_6,871.0,63.0
+969,Aucun diplôme ou CEP,pop_4,T15,F,2008,dip_6,76.0,47.0
+970,Aucun diplôme ou CEP,pop_5,T25,F,2008,dip_6,965.0,181.0
+971,Aucun diplôme ou CEP,pop_6,T50,F,2008,dip_6,872.0,63.0
+972,Diplôme supérieur,pop_1,T15,H,2009,dip_1,80.0,13.0
+973,Diplôme supérieur,pop_2,T25,H,2009,dip_1,1613.0,93.0
+974,Diplôme supérieur,pop_3,T50,H,2009,dip_1,538.0,18.0
+975,Diplôme supérieur,pop_4,T15,F,2009,dip_1,138.0,20.0
+976,Diplôme supérieur,pop_5,T25,F,2009,dip_1,1769.0,102.0
+977,Diplôme supérieur,pop_6,T50,F,2009,dip_1,382.0,13.0
+978,Baccalauréat + 2 ans,pop_1,T15,H,2009,dip_2,138.0,23.0
+979,Baccalauréat + 2 ans,pop_2,T25,H,2009,dip_2,1313.0,61.0
+980,Baccalauréat + 2 ans,pop_3,T50,H,2009,dip_2,260.0,13.0
+981,Baccalauréat + 2 ans,pop_4,T15,F,2009,dip_2,183.0,22.0
+982,Baccalauréat + 2 ans,pop_5,T25,F,2009,dip_2,1591.0,81.0
+983,Baccalauréat + 2 ans,pop_6,T50,F,2009,dip_2,363.0,13.0
+984,Baccalauréat ou brevet professionnel,pop_1,T15,H,2009,dip_3,348.0,77.0
+985,Baccalauréat ou brevet professionnel,pop_2,T25,H,2009,dip_3,1623.0,112.0
+986,Baccalauréat ou brevet professionnel,pop_3,T50,H,2009,dip_3,434.0,21.0
+987,Baccalauréat ou brevet professionnel,pop_4,T15,F,2009,dip_3,372.0,81.0
+988,Baccalauréat ou brevet professionnel,pop_5,T25,F,2009,dip_3,1699.0,139.0
+989,Baccalauréat ou brevet professionnel,pop_6,T50,F,2009,dip_3,470.0,27.0
+990,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,2009,dip_4,369.0,105.0
+991,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,2009,dip_4,2650.0,197.0
+992,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,2009,dip_4,1024.0,48.0
+993,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,2009,dip_4,193.0,80.0
+994,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,2009,dip_4,1715.0,181.0
+995,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,2009,dip_4,732.0,40.0
+996,Brevet des collèges,pop_1,T15,H,2009,dip_5,144.0,68.0
+997,Brevet des collèges,pop_2,T25,H,2009,dip_5,582.0,63.0
+998,Brevet des collèges,pop_3,T50,H,2009,dip_5,269.0,16.0
+999,Brevet des collèges,pop_4,T15,F,2009,dip_5,100.0,51.0
+1000,Brevet des collèges,pop_5,T25,F,2009,dip_5,536.0,70.0
+1001,Brevet des collèges,pop_6,T50,F,2009,dip_5,321.0,15.0
+1002,Aucun diplôme ou CEP,pop_1,T15,H,2009,dip_6,162.0,117.0
+1003,Aucun diplôme ou CEP,pop_2,T25,H,2009,dip_6,1321.0,240.0
+1004,Aucun diplôme ou CEP,pop_3,T50,H,2009,dip_6,896.0,77.0
+1005,Aucun diplôme ou CEP,pop_4,T15,F,2009,dip_6,79.0,55.0
+1006,Aucun diplôme ou CEP,pop_5,T25,F,2009,dip_6,885.0,196.0
+1007,Aucun diplôme ou CEP,pop_6,T50,F,2009,dip_6,913.0,74.0
+1008,Diplôme supérieur,pop_1,T15,H,2010,dip_1,97.0,18.0
+1009,Diplôme supérieur,pop_2,T25,H,2010,dip_1,1705.0,87.0
+1010,Diplôme supérieur,pop_3,T50,H,2010,dip_1,562.0,17.0
+1011,Diplôme supérieur,pop_4,T15,F,2010,dip_1,135.0,20.0
+1012,Diplôme supérieur,pop_5,T25,F,2010,dip_1,1843.0,105.0
+1013,Diplôme supérieur,pop_6,T50,F,2010,dip_1,372.0,15.0
+1014,Baccalauréat + 2 ans,pop_1,T15,H,2010,dip_2,130.0,24.0
+1015,Baccalauréat + 2 ans,pop_2,T25,H,2010,dip_2,1296.0,65.0
+1016,Baccalauréat + 2 ans,pop_3,T50,H,2010,dip_2,290.0,12.0
+1017,Baccalauréat + 2 ans,pop_4,T15,F,2010,dip_2,165.0,22.0
+1018,Baccalauréat + 2 ans,pop_5,T25,F,2010,dip_2,1580.0,72.0
+1019,Baccalauréat + 2 ans,pop_6,T50,F,2010,dip_2,389.0,16.0
+1020,Baccalauréat ou brevet professionnel,pop_1,T15,H,2010,dip_3,352.0,73.0
+1021,Baccalauréat ou brevet professionnel,pop_2,T25,H,2010,dip_3,1660.0,116.0
+1022,Baccalauréat ou brevet professionnel,pop_3,T50,H,2010,dip_3,444.0,22.0
+1023,Baccalauréat ou brevet professionnel,pop_4,T15,F,2010,dip_3,364.0,93.0
+1024,Baccalauréat ou brevet professionnel,pop_5,T25,F,2010,dip_3,1683.0,149.0
+1025,Baccalauréat ou brevet professionnel,pop_6,T50,F,2010,dip_3,489.0,22.0
+1026,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,2010,dip_4,354.0,89.0
+1027,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,2010,dip_4,2555.0,195.0
+1028,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,2010,dip_4,1095.0,61.0
+1029,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,2010,dip_4,194.0,72.0
+1030,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,2010,dip_4,1683.0,173.0
+1031,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,2010,dip_4,782.0,45.0
+1032,Brevet des collèges,pop_1,T15,H,2010,dip_5,141.0,56.0
+1033,Brevet des collèges,pop_2,T25,H,2010,dip_5,525.0,76.0
+1034,Brevet des collèges,pop_3,T50,H,2010,dip_5,285.0,17.0
+1035,Brevet des collèges,pop_4,T15,F,2010,dip_5,84.0,52.0
+1036,Brevet des collèges,pop_5,T25,F,2010,dip_5,525.0,75.0
+1037,Brevet des collèges,pop_6,T50,F,2010,dip_5,340.0,20.0
+1038,Aucun diplôme ou CEP,pop_1,T15,H,2010,dip_6,184.0,112.0
+1039,Aucun diplôme ou CEP,pop_2,T25,H,2010,dip_6,1285.0,256.0
+1040,Aucun diplôme ou CEP,pop_3,T50,H,2010,dip_6,856.0,78.0
+1041,Aucun diplôme ou CEP,pop_4,T15,F,2010,dip_6,70.0,58.0
+1042,Aucun diplôme ou CEP,pop_5,T25,F,2010,dip_6,863.0,214.0
+1043,Aucun diplôme ou CEP,pop_6,T50,F,2010,dip_6,907.0,82.0
+1044,Diplôme supérieur,pop_1,T15,H,2011,dip_1,98.0,14.0
+1045,Diplôme supérieur,pop_2,T25,H,2011,dip_1,1815.0,92.0
+1046,Diplôme supérieur,pop_3,T50,H,2011,dip_1,590.0,24.0
+1047,Diplôme supérieur,pop_4,T15,F,2011,dip_1,134.0,23.0
+1048,Diplôme supérieur,pop_5,T25,F,2011,dip_1,1946.0,116.0
+1049,Diplôme supérieur,pop_6,T50,F,2011,dip_1,396.0,16.0
+1050,Baccalauréat + 2 ans,pop_1,T15,H,2011,dip_2,125.0,21.0
+1051,Baccalauréat + 2 ans,pop_2,T25,H,2011,dip_2,1277.0,59.0
+1052,Baccalauréat + 2 ans,pop_3,T50,H,2011,dip_2,306.0,12.0
+1053,Baccalauréat + 2 ans,pop_4,T15,F,2011,dip_2,138.0,20.0
+1054,Baccalauréat + 2 ans,pop_5,T25,F,2011,dip_2,1561.0,72.0
+1055,Baccalauréat + 2 ans,pop_6,T50,F,2011,dip_2,406.0,15.0
+1056,Baccalauréat ou brevet professionnel,pop_1,T15,H,2011,dip_3,366.0,70.0
+1057,Baccalauréat ou brevet professionnel,pop_2,T25,H,2011,dip_3,1657.0,119.0
+1058,Baccalauréat ou brevet professionnel,pop_3,T50,H,2011,dip_3,472.0,20.0
+1059,Baccalauréat ou brevet professionnel,pop_4,T15,F,2011,dip_3,366.0,89.0
+1060,Baccalauréat ou brevet professionnel,pop_5,T25,F,2011,dip_3,1723.0,159.0
+1061,Baccalauréat ou brevet professionnel,pop_6,T50,F,2011,dip_3,535.0,25.0
+1062,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,2011,dip_4,331.0,84.0
+1063,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,2011,dip_4,2434.0,201.0
+1064,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,2011,dip_4,1151.0,62.0
+1065,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,2011,dip_4,195.0,69.0
+1066,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,2011,dip_4,1565.0,172.0
+1067,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,2011,dip_4,802.0,49.0
+1068,Brevet des collèges,pop_1,T15,H,2011,dip_5,137.0,48.0
+1069,Brevet des collèges,pop_2,T25,H,2011,dip_5,517.0,67.0
+1070,Brevet des collèges,pop_3,T50,H,2011,dip_5,279.0,15.0
+1071,Brevet des collèges,pop_4,T15,F,2011,dip_5,87.0,47.0
+1072,Brevet des collèges,pop_5,T25,F,2011,dip_5,499.0,73.0
+1073,Brevet des collèges,pop_6,T50,F,2011,dip_5,357.0,22.0
+1074,Aucun diplôme ou CEP,pop_1,T15,H,2011,dip_6,166.0,109.0
+1075,Aucun diplôme ou CEP,pop_2,T25,H,2011,dip_6,1264.0,252.0
+1076,Aucun diplôme ou CEP,pop_3,T50,H,2011,dip_6,843.0,84.0
+1077,Aucun diplôme ou CEP,pop_4,T15,F,2011,dip_6,70.0,56.0
+1078,Aucun diplôme ou CEP,pop_5,T25,F,2011,dip_6,816.0,207.0
+1079,Aucun diplôme ou CEP,pop_6,T50,F,2011,dip_6,896.0,82.0
+1080,Diplôme supérieur,pop_1,T15,H,2012,dip_1,104.0,19.0
+1081,Diplôme supérieur,pop_2,T25,H,2012,dip_1,1837.0,101.0
+1082,Diplôme supérieur,pop_3,T50,H,2012,dip_1,652.0,24.0
+1083,Diplôme supérieur,pop_4,T15,F,2012,dip_1,134.0,23.0
+1084,Diplôme supérieur,pop_5,T25,F,2012,dip_1,2036.0,117.0
+1085,Diplôme supérieur,pop_6,T50,F,2012,dip_1,452.0,16.0
+1086,Baccalauréat + 2 ans,pop_1,T15,H,2012,dip_2,134.0,25.0
+1087,Baccalauréat + 2 ans,pop_2,T25,H,2012,dip_2,1313.0,71.0
+1088,Baccalauréat + 2 ans,pop_3,T50,H,2012,dip_2,335.0,12.0
+1089,Baccalauréat + 2 ans,pop_4,T15,F,2012,dip_2,148.0,24.0
+1090,Baccalauréat + 2 ans,pop_5,T25,F,2012,dip_2,1597.0,87.0
+1091,Baccalauréat + 2 ans,pop_6,T50,F,2012,dip_2,427.0,13.0
+1092,Baccalauréat ou brevet professionnel,pop_1,T15,H,2012,dip_3,360.0,89.0
+1093,Baccalauréat ou brevet professionnel,pop_2,T25,H,2012,dip_3,1663.0,143.0
+1094,Baccalauréat ou brevet professionnel,pop_3,T50,H,2012,dip_3,490.0,27.0
+1095,Baccalauréat ou brevet professionnel,pop_4,T15,F,2012,dip_3,354.0,93.0
+1096,Baccalauréat ou brevet professionnel,pop_5,T25,F,2012,dip_3,1705.0,175.0
+1097,Baccalauréat ou brevet professionnel,pop_6,T50,F,2012,dip_3,561.0,36.0
+1098,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,2012,dip_4,289.0,86.0
+1099,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,2012,dip_4,2316.0,222.0
+1100,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,2012,dip_4,1180.0,73.0
+1101,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,2012,dip_4,180.0,64.0
+1102,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,2012,dip_4,1530.0,177.0
+1103,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,2012,dip_4,854.0,49.0
+1104,Brevet des collèges,pop_1,T15,H,2012,dip_5,135.0,54.0
+1105,Brevet des collèges,pop_2,T25,H,2012,dip_5,489.0,71.0
+1106,Brevet des collèges,pop_3,T50,H,2012,dip_5,262.0,16.0
+1107,Brevet des collèges,pop_4,T15,F,2012,dip_5,81.0,43.0
+1108,Brevet des collèges,pop_5,T25,F,2012,dip_5,432.0,69.0
+1109,Brevet des collèges,pop_6,T50,F,2012,dip_5,372.0,23.0
+1110,Aucun diplôme ou CEP,pop_1,T15,H,2012,dip_6,141.0,110.0
+1111,Aucun diplôme ou CEP,pop_2,T25,H,2012,dip_6,1224.0,252.0
+1112,Aucun diplôme ou CEP,pop_3,T50,H,2012,dip_6,875.0,104.0
+1113,Aucun diplôme ou CEP,pop_4,T15,F,2012,dip_6,67.0,56.0
+1114,Aucun diplôme ou CEP,pop_5,T25,F,2012,dip_6,752.0,203.0
+1115,Aucun diplôme ou CEP,pop_6,T50,F,2012,dip_6,892.0,88.0
+1116,Diplôme supérieur,pop_1,T15,H,2013,dip_1,111.0,20.0
+1117,Diplôme supérieur,pop_2,T25,H,2013,dip_1,1908.0,123.0
+1118,Diplôme supérieur,pop_3,T50,H,2013,dip_1,661.0,38.0
+1119,Diplôme supérieur,pop_4,T15,F,2013,dip_1,152.0,26.0
+1120,Diplôme supérieur,pop_5,T25,F,2013,dip_1,2093.0,129.0
+1121,Diplôme supérieur,pop_6,T50,F,2013,dip_1,471.0,23.0
+1122,Baccalauréat + 2 ans,pop_1,T15,H,2013,dip_2,149.0,27.0
+1123,Baccalauréat + 2 ans,pop_2,T25,H,2013,dip_2,1366.0,73.0
+1124,Baccalauréat + 2 ans,pop_3,T50,H,2013,dip_2,364.0,16.0
+1125,Baccalauréat + 2 ans,pop_4,T15,F,2013,dip_2,147.0,30.0
+1126,Baccalauréat + 2 ans,pop_5,T25,F,2013,dip_2,1697.0,96.0
+1127,Baccalauréat + 2 ans,pop_6,T50,F,2013,dip_2,479.0,16.0
+1128,Baccalauréat ou brevet professionnel,pop_1,T15,H,2013,dip_3,386.0,94.0
+1129,Baccalauréat ou brevet professionnel,pop_2,T25,H,2013,dip_3,1692.0,160.0
+1130,Baccalauréat ou brevet professionnel,pop_3,T50,H,2013,dip_3,509.0,29.0
+1131,Baccalauréat ou brevet professionnel,pop_4,T15,F,2013,dip_3,342.0,103.0
+1132,Baccalauréat ou brevet professionnel,pop_5,T25,F,2013,dip_3,1694.0,178.0
+1133,Baccalauréat ou brevet professionnel,pop_6,T50,F,2013,dip_3,576.0,40.0
+1134,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,2013,dip_4,260.0,93.0
+1135,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,2013,dip_4,2289.0,259.0
+1136,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,2013,dip_4,1249.0,82.0
+1137,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,2013,dip_4,176.0,60.0
+1138,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,2013,dip_4,1554.0,196.0
+1139,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,2013,dip_4,918.0,63.0
+1140,Brevet des collèges,pop_1,T15,H,2013,dip_5,133.0,54.0
+1141,Brevet des collèges,pop_2,T25,H,2013,dip_5,391.0,67.0
+1142,Brevet des collèges,pop_3,T50,H,2013,dip_5,270.0,19.0
+1143,Brevet des collèges,pop_4,T15,F,2013,dip_5,70.0,41.0
+1144,Brevet des collèges,pop_5,T25,F,2013,dip_5,336.0,66.0
+1145,Brevet des collèges,pop_6,T50,F,2013,dip_5,333.0,25.0
+1146,Aucun diplôme ou CEP,pop_1,T15,H,2013,dip_6,125.0,89.0
+1147,Aucun diplôme ou CEP,pop_2,T25,H,2013,dip_6,1073.0,246.0
+1148,Aucun diplôme ou CEP,pop_3,T50,H,2013,dip_6,793.0,101.0
+1149,Aucun diplôme ou CEP,pop_4,T15,F,2013,dip_6,56.0,60.0
+1150,Aucun diplôme ou CEP,pop_5,T25,F,2013,dip_6,693.0,193.0
+1151,Aucun diplôme ou CEP,pop_6,T50,F,2013,dip_6,838.0,89.0
+1152,Diplôme supérieur,pop_1,T15,H,2014,dip_1,116.0,19.0
+1153,Diplôme supérieur,pop_2,T25,H,2014,dip_1,1980.0,130.0
+1154,Diplôme supérieur,pop_3,T50,H,2014,dip_1,683.0,39.0
+1155,Diplôme supérieur,pop_4,T15,F,2014,dip_1,172.0,27.0
+1156,Diplôme supérieur,pop_5,T25,F,2014,dip_1,2209.0,154.0
+1157,Diplôme supérieur,pop_6,T50,F,2014,dip_1,522.0,25.0
+1158,Baccalauréat + 2 ans,pop_1,T15,H,2014,dip_2,149.0,27.0
+1159,Baccalauréat + 2 ans,pop_2,T25,H,2014,dip_2,1379.0,79.0
+1160,Baccalauréat + 2 ans,pop_3,T50,H,2014,dip_2,382.0,24.0
+1161,Baccalauréat + 2 ans,pop_4,T15,F,2014,dip_2,141.0,24.0
+1162,Baccalauréat + 2 ans,pop_5,T25,F,2014,dip_2,1740.0,103.0
+1163,Baccalauréat + 2 ans,pop_6,T50,F,2014,dip_2,516.0,22.0
+1164,Baccalauréat ou brevet professionnel,pop_1,T15,H,2014,dip_3,398.0,105.0
+1165,Baccalauréat ou brevet professionnel,pop_2,T25,H,2014,dip_3,1692.0,150.0
+1166,Baccalauréat ou brevet professionnel,pop_3,T50,H,2014,dip_3,534.0,32.0
+1167,Baccalauréat ou brevet professionnel,pop_4,T15,F,2014,dip_3,366.0,101.0
+1168,Baccalauréat ou brevet professionnel,pop_5,T25,F,2014,dip_3,1620.0,182.0
+1169,Baccalauréat ou brevet professionnel,pop_6,T50,F,2014,dip_3,607.0,39.0
+1170,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,2014,dip_4,258.0,90.0
+1171,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,2014,dip_4,2294.0,284.0
+1172,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,2014,dip_4,1355.0,87.0
+1173,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,2014,dip_4,158.0,57.0
+1174,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,2014,dip_4,1548.0,203.0
+1175,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,2014,dip_4,982.0,72.0
+1176,Brevet des collèges,pop_1,T15,H,2014,dip_5,103.0,55.0
+1177,Brevet des collèges,pop_2,T25,H,2014,dip_5,346.0,61.0
+1178,Brevet des collèges,pop_3,T50,H,2014,dip_5,239.0,17.0
+1179,Brevet des collèges,pop_4,T15,F,2014,dip_5,59.0,32.0
+1180,Brevet des collèges,pop_5,T25,F,2014,dip_5,284.0,49.0
+1181,Brevet des collèges,pop_6,T50,F,2014,dip_5,323.0,21.0
+1182,Aucun diplôme ou CEP,pop_1,T15,H,2014,dip_6,100.0,80.0
+1183,Aucun diplôme ou CEP,pop_2,T25,H,2014,dip_6,946.0,231.0
+1184,Aucun diplôme ou CEP,pop_3,T50,H,2014,dip_6,707.0,95.0
+1185,Aucun diplôme ou CEP,pop_4,T15,F,2014,dip_6,52.0,43.0
+1186,Aucun diplôme ou CEP,pop_5,T25,F,2014,dip_6,622.0,165.0
+1187,Aucun diplôme ou CEP,pop_6,T50,F,2014,dip_6,794.0,93.0
+1188,Diplôme supérieur,pop_1,T15,H,2015,dip_1,126.0,26.0
+1189,Diplôme supérieur,pop_2,T25,H,2015,dip_1,2032.0,136.0
+1190,Diplôme supérieur,pop_3,T50,H,2015,dip_1,762.0,37.0
+1191,Diplôme supérieur,pop_4,T15,F,2015,dip_1,168.0,29.0
+1192,Diplôme supérieur,pop_5,T25,F,2015,dip_1,2323.0,148.0
+1193,Diplôme supérieur,pop_6,T50,F,2015,dip_1,557.0,25.0
+1194,Baccalauréat + 2 ans,pop_1,T15,H,2015,dip_2,149.0,32.0
+1195,Baccalauréat + 2 ans,pop_2,T25,H,2015,dip_2,1341.0,83.0
+1196,Baccalauréat + 2 ans,pop_3,T50,H,2015,dip_2,402.0,25.0
+1197,Baccalauréat + 2 ans,pop_4,T15,F,2015,dip_2,145.0,24.0
+1198,Baccalauréat + 2 ans,pop_5,T25,F,2015,dip_2,1721.0,108.0
+1199,Baccalauréat + 2 ans,pop_6,T50,F,2015,dip_2,546.0,22.0
+1200,Baccalauréat ou brevet professionnel,pop_1,T15,H,2015,dip_3,417.0,109.0
+1201,Baccalauréat ou brevet professionnel,pop_2,T25,H,2015,dip_3,1765.0,157.0
+1202,Baccalauréat ou brevet professionnel,pop_3,T50,H,2015,dip_3,510.0,32.0
+1203,Baccalauréat ou brevet professionnel,pop_4,T15,F,2015,dip_3,386.0,106.0
+1204,Baccalauréat ou brevet professionnel,pop_5,T25,F,2015,dip_3,1659.0,178.0
+1205,Baccalauréat ou brevet professionnel,pop_6,T50,F,2015,dip_3,632.0,41.0
+1206,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,2015,dip_4,249.0,98.0
+1207,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,2015,dip_4,2193.0,267.0
+1208,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,2015,dip_4,1378.0,106.0
+1209,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,2015,dip_4,159.0,64.0
+1210,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,2015,dip_4,1452.0,205.0
+1211,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,2015,dip_4,1031.0,69.0
+1212,Brevet des collèges,pop_1,T15,H,2015,dip_5,102.0,48.0
+1213,Brevet des collèges,pop_2,T25,H,2015,dip_5,328.0,54.0
+1214,Brevet des collèges,pop_3,T50,H,2015,dip_5,230.0,22.0
+1215,Brevet des collèges,pop_4,T15,F,2015,dip_5,69.0,31.0
+1216,Brevet des collèges,pop_5,T25,F,2015,dip_5,256.0,50.0
+1217,Brevet des collèges,pop_6,T50,F,2015,dip_5,345.0,21.0
+1218,Aucun diplôme ou CEP,pop_1,T15,H,2015,dip_6,94.0,81.0
+1219,Aucun diplôme ou CEP,pop_2,T25,H,2015,dip_6,883.0,234.0
+1220,Aucun diplôme ou CEP,pop_3,T50,H,2015,dip_6,695.0,100.0
+1221,Aucun diplôme ou CEP,pop_4,T15,F,2015,dip_6,43.0,42.0
+1222,Aucun diplôme ou CEP,pop_5,T25,F,2015,dip_6,556.0,152.0
+1223,Aucun diplôme ou CEP,pop_6,T50,F,2015,dip_6,738.0,90.0
+1224,Diplôme supérieur,pop_1,T15,H,2016,dip_1,115.0,25.0
+1225,Diplôme supérieur,pop_2,T25,H,2016,dip_1,2124.0,113.0
+1226,Diplôme supérieur,pop_3,T50,H,2016,dip_1,763.0,34.0
+1227,Diplôme supérieur,pop_4,T15,F,2016,dip_1,189.0,33.0
+1228,Diplôme supérieur,pop_5,T25,F,2016,dip_1,2470.0,149.0
+1229,Diplôme supérieur,pop_6,T50,F,2016,dip_1,571.0,26.0
+1230,Baccalauréat + 2 ans,pop_1,T15,H,2016,dip_2,157.0,27.0
+1231,Baccalauréat + 2 ans,pop_2,T25,H,2016,dip_2,1380.0,65.0
+1232,Baccalauréat + 2 ans,pop_3,T50,H,2016,dip_2,432.0,29.0
+1233,Baccalauréat + 2 ans,pop_4,T15,F,2016,dip_2,146.0,27.0
+1234,Baccalauréat + 2 ans,pop_5,T25,F,2016,dip_2,1636.0,85.0
+1235,Baccalauréat + 2 ans,pop_6,T50,F,2016,dip_2,571.0,28.0
+1236,Baccalauréat ou brevet professionnel,pop_1,T15,H,2016,dip_3,410.0,108.0
+1237,Baccalauréat ou brevet professionnel,pop_2,T25,H,2016,dip_3,1792.0,153.0
+1238,Baccalauréat ou brevet professionnel,pop_3,T50,H,2016,dip_3,525.0,38.0
+1239,Baccalauréat ou brevet professionnel,pop_4,T15,F,2016,dip_3,377.0,108.0
+1240,Baccalauréat ou brevet professionnel,pop_5,T25,F,2016,dip_3,1618.0,177.0
+1241,Baccalauréat ou brevet professionnel,pop_6,T50,F,2016,dip_3,656.0,43.0
+1242,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,2016,dip_4,252.0,90.0
+1243,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,2016,dip_4,2092.0,267.0
+1244,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,2016,dip_4,1408.0,97.0
+1245,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,2016,dip_4,166.0,64.0
+1246,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,2016,dip_4,1465.0,196.0
+1247,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,2016,dip_4,1104.0,73.0
+1248,Brevet des collèges,pop_1,T15,H,2016,dip_5,106.0,46.0
+1249,Brevet des collèges,pop_2,T25,H,2016,dip_5,319.0,51.0
+1250,Brevet des collèges,pop_3,T50,H,2016,dip_5,234.0,21.0
+1251,Brevet des collèges,pop_4,T15,F,2016,dip_5,53.0,28.0
+1252,Brevet des collèges,pop_5,T25,F,2016,dip_5,238.0,49.0
+1253,Brevet des collèges,pop_6,T50,F,2016,dip_5,324.0,22.0
+1254,Aucun diplôme ou CEP,pop_1,T15,H,2016,dip_6,99.0,82.0
+1255,Aucun diplôme ou CEP,pop_2,T25,H,2016,dip_6,845.0,219.0
+1256,Aucun diplôme ou CEP,pop_3,T50,H,2016,dip_6,679.0,100.0
+1257,Aucun diplôme ou CEP,pop_4,T15,F,2016,dip_6,40.0,45.0
+1258,Aucun diplôme ou CEP,pop_5,T25,F,2016,dip_6,503.0,169.0
+1259,Aucun diplôme ou CEP,pop_6,T50,F,2016,dip_6,721.0,82.0
+1260,Diplôme supérieur,pop_1,T15,H,2017,dip_1,131.0,18.0
+1261,Diplôme supérieur,pop_2,T25,H,2017,dip_1,2221.0,104.0
+1262,Diplôme supérieur,pop_3,T50,H,2017,dip_1,774.0,33.0
+1263,Diplôme supérieur,pop_4,T15,F,2017,dip_1,209.0,25.0
+1264,Diplôme supérieur,pop_5,T25,F,2017,dip_1,2539.0,140.0
+1265,Diplôme supérieur,pop_6,T50,F,2017,dip_1,618.0,24.0
+1266,Baccalauréat + 2 ans,pop_1,T15,H,2017,dip_2,164.0,26.0
+1267,Baccalauréat + 2 ans,pop_2,T25,H,2017,dip_2,1351.0,61.0
+1268,Baccalauréat + 2 ans,pop_3,T50,H,2017,dip_2,434.0,26.0
+1269,Baccalauréat + 2 ans,pop_4,T15,F,2017,dip_2,140.0,23.0
+1270,Baccalauréat + 2 ans,pop_5,T25,F,2017,dip_2,1590.0,88.0
+1271,Baccalauréat + 2 ans,pop_6,T50,F,2017,dip_2,607.0,28.0
+1272,Baccalauréat ou brevet professionnel,pop_1,T15,H,2017,dip_3,441.0,105.0
+1273,Baccalauréat ou brevet professionnel,pop_2,T25,H,2017,dip_3,1801.0,128.0
+1274,Baccalauréat ou brevet professionnel,pop_3,T50,H,2017,dip_3,514.0,36.0
+1275,Baccalauréat ou brevet professionnel,pop_4,T15,F,2017,dip_3,408.0,104.0
+1276,Baccalauréat ou brevet professionnel,pop_5,T25,F,2017,dip_3,1591.0,191.0
+1277,Baccalauréat ou brevet professionnel,pop_6,T50,F,2017,dip_3,656.0,40.0
+1278,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,2017,dip_4,244.0,84.0
+1279,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,2017,dip_4,2042.0,239.0
+1280,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,2017,dip_4,1439.0,95.0
+1281,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,2017,dip_4,137.0,51.0
+1282,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,2017,dip_4,1405.0,172.0
+1283,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,2017,dip_4,1126.0,77.0
+1284,Brevet des collèges,pop_1,T15,H,2017,dip_5,106.0,40.0
+1285,Brevet des collèges,pop_2,T25,H,2017,dip_5,337.0,55.0
+1286,Brevet des collèges,pop_3,T50,H,2017,dip_5,226.0,18.0
+1287,Brevet des collèges,pop_4,T15,F,2017,dip_5,59.0,30.0
+1288,Brevet des collèges,pop_5,T25,F,2017,dip_5,244.0,44.0
+1289,Brevet des collèges,pop_6,T50,F,2017,dip_5,314.0,20.0
+1290,Aucun diplôme ou CEP,pop_1,T15,H,2017,dip_6,98.0,81.0
+1291,Aucun diplôme ou CEP,pop_2,T25,H,2017,dip_6,837.0,204.0
+1292,Aucun diplôme ou CEP,pop_3,T50,H,2017,dip_6,723.0,95.0
+1293,Aucun diplôme ou CEP,pop_4,T15,F,2017,dip_6,37.0,32.0
+1294,Aucun diplôme ou CEP,pop_5,T25,F,2017,dip_6,532.0,163.0
+1295,Aucun diplôme ou CEP,pop_6,T50,F,2017,dip_6,709.0,84.0
+1296,Diplôme supérieur,pop_1,T15,H,2018,dip_1,143.0,18.0
+1297,Diplôme supérieur,pop_2,T25,H,2018,dip_1,2296.0,132.0
+1298,Diplôme supérieur,pop_3,T50,H,2018,dip_1,842.0,40.0
+1299,Diplôme supérieur,pop_4,T15,F,2018,dip_1,232.0,28.0
+1300,Diplôme supérieur,pop_5,T25,F,2018,dip_1,2705.0,140.0
+1301,Diplôme supérieur,pop_6,T50,F,2018,dip_1,690.0,30.0
+1302,Baccalauréat + 2 ans,pop_1,T15,H,2018,dip_2,166.0,23.0
+1303,Baccalauréat + 2 ans,pop_2,T25,H,2018,dip_2,1340.0,66.0
+1304,Baccalauréat + 2 ans,pop_3,T50,H,2018,dip_2,477.0,24.0
+1305,Baccalauréat + 2 ans,pop_4,T15,F,2018,dip_2,133.0,23.0
+1306,Baccalauréat + 2 ans,pop_5,T25,F,2018,dip_2,1590.0,95.0
+1307,Baccalauréat + 2 ans,pop_6,T50,F,2018,dip_2,614.0,27.0
+1308,Baccalauréat ou brevet professionnel,pop_1,T15,H,2018,dip_3,476.0,106.0
+1309,Baccalauréat ou brevet professionnel,pop_2,T25,H,2018,dip_3,1811.0,123.0
+1310,Baccalauréat ou brevet professionnel,pop_3,T50,H,2018,dip_3,544.0,34.0
+1311,Baccalauréat ou brevet professionnel,pop_4,T15,F,2018,dip_3,433.0,99.0
+1312,Baccalauréat ou brevet professionnel,pop_5,T25,F,2018,dip_3,1594.0,181.0
+1313,Baccalauréat ou brevet professionnel,pop_6,T50,F,2018,dip_3,672.0,37.0
+1314,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,2018,dip_4,242.0,72.0
+1315,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,2018,dip_4,1949.0,204.0
+1316,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,2018,dip_4,1411.0,98.0
+1317,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,2018,dip_4,128.0,51.0
+1318,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,2018,dip_4,1349.0,179.0
+1319,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,2018,dip_4,1132.0,72.0
+1320,Brevet des collèges,pop_1,T15,H,2018,dip_5,100.0,47.0
+1321,Brevet des collèges,pop_2,T25,H,2018,dip_5,299.0,52.0
+1322,Brevet des collèges,pop_3,T50,H,2018,dip_5,212.0,13.0
+1323,Brevet des collèges,pop_4,T15,F,2018,dip_5,64.0,26.0
+1324,Brevet des collèges,pop_5,T25,F,2018,dip_5,226.0,43.0
+1325,Brevet des collèges,pop_6,T50,F,2018,dip_5,303.0,21.0
+1326,Aucun diplôme ou CEP,pop_1,T15,H,2018,dip_6,111.0,73.0
+1327,Aucun diplôme ou CEP,pop_2,T25,H,2018,dip_6,825.0,173.0
+1328,Aucun diplôme ou CEP,pop_3,T50,H,2018,dip_6,722.0,81.0
+1329,Aucun diplôme ou CEP,pop_4,T15,F,2018,dip_6,32.0,27.0
+1330,Aucun diplôme ou CEP,pop_5,T25,F,2018,dip_6,505.0,137.0
+1331,Aucun diplôme ou CEP,pop_6,T50,F,2018,dip_6,651.0,84.0
+1332,Diplôme supérieur,pop_1,T15,H,2019,dip_1,151.0,23.0
+1333,Diplôme supérieur,pop_2,T25,H,2019,dip_1,2372.0,131.0
+1334,Diplôme supérieur,pop_3,T50,H,2019,dip_1,862.0,44.0
+1335,Diplôme supérieur,pop_4,T15,F,2019,dip_1,247.0,26.0
+1336,Diplôme supérieur,pop_5,T25,F,2019,dip_1,2835.0,140.0
+1337,Diplôme supérieur,pop_6,T50,F,2019,dip_1,764.0,30.0
+1338,Baccalauréat + 2 ans,pop_1,T15,H,2019,dip_2,168.0,23.0
+1339,Baccalauréat + 2 ans,pop_2,T25,H,2019,dip_2,1357.0,58.0
+1340,Baccalauréat + 2 ans,pop_3,T50,H,2019,dip_2,503.0,26.0
+1341,Baccalauréat + 2 ans,pop_4,T15,F,2019,dip_2,141.0,21.0
+1342,Baccalauréat + 2 ans,pop_5,T25,F,2019,dip_2,1599.0,80.0
+1343,Baccalauréat + 2 ans,pop_6,T50,F,2019,dip_2,640.0,23.0
+1344,Baccalauréat ou brevet professionnel,pop_1,T15,H,2019,dip_3,489.0,106.0
+1345,Baccalauréat ou brevet professionnel,pop_2,T25,H,2019,dip_3,1786.0,124.0
+1346,Baccalauréat ou brevet professionnel,pop_3,T50,H,2019,dip_3,565.0,30.0
+1347,Baccalauréat ou brevet professionnel,pop_4,T15,F,2019,dip_3,441.0,95.0
+1348,Baccalauréat ou brevet professionnel,pop_5,T25,F,2019,dip_3,1585.0,158.0
+1349,Baccalauréat ou brevet professionnel,pop_6,T50,F,2019,dip_3,706.0,47.0
+1350,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,2019,dip_4,207.0,57.0
+1351,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,2019,dip_4,1872.0,177.0
+1352,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,2019,dip_4,1458.0,100.0
+1353,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,2019,dip_4,128.0,34.0
+1354,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,2019,dip_4,1318.0,158.0
+1355,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,2019,dip_4,1126.0,86.0
+1356,Brevet des collèges,pop_1,T15,H,2019,dip_5,100.0,47.0
+1357,Brevet des collèges,pop_2,T25,H,2019,dip_5,287.0,48.0
+1358,Brevet des collèges,pop_3,T50,H,2019,dip_5,203.0,11.0
+1359,Brevet des collèges,pop_4,T15,F,2019,dip_5,65.0,26.0
+1360,Brevet des collèges,pop_5,T25,F,2019,dip_5,194.0,45.0
+1361,Brevet des collèges,pop_6,T50,F,2019,dip_5,282.0,18.0
+1362,Aucun diplôme ou CEP,pop_1,T15,H,2019,dip_6,98.0,62.0
+1363,Aucun diplôme ou CEP,pop_2,T25,H,2019,dip_6,806.0,149.0
+1364,Aucun diplôme ou CEP,pop_3,T50,H,2019,dip_6,686.0,78.0
+1365,Aucun diplôme ou CEP,pop_4,T15,F,2019,dip_6,32.0,31.0
+1366,Aucun diplôme ou CEP,pop_5,T25,F,2019,dip_6,459.0,113.0
+1367,Aucun diplôme ou CEP,pop_6,T50,F,2019,dip_6,599.0,67.0
+1368,Diplôme supérieur,pop_1,T15,H,2020,dip_1,161.0,29.0
+1369,Diplôme supérieur,pop_2,T25,H,2020,dip_1,2472.0,133.0
+1370,Diplôme supérieur,pop_3,T50,H,2020,dip_1,937.0,34.0
+1371,Diplôme supérieur,pop_4,T15,F,2020,dip_1,257.0,37.0
+1372,Diplôme supérieur,pop_5,T25,F,2020,dip_1,2952.0,164.0
+1373,Diplôme supérieur,pop_6,T50,F,2020,dip_1,828.0,31.0
+1374,Baccalauréat + 2 ans,pop_1,T15,H,2020,dip_2,151.0,23.0
+1375,Baccalauréat + 2 ans,pop_2,T25,H,2020,dip_2,1316.0,64.0
+1376,Baccalauréat + 2 ans,pop_3,T50,H,2020,dip_2,534.0,26.0
+1377,Baccalauréat + 2 ans,pop_4,T15,F,2020,dip_2,155.0,21.0
+1378,Baccalauréat + 2 ans,pop_5,T25,F,2020,dip_2,1582.0,73.0
+1379,Baccalauréat + 2 ans,pop_6,T50,F,2020,dip_2,682.0,27.0
+1380,Baccalauréat ou brevet professionnel,pop_1,T15,H,2020,dip_3,486.0,117.0
+1381,Baccalauréat ou brevet professionnel,pop_2,T25,H,2020,dip_3,1768.0,130.0
+1382,Baccalauréat ou brevet professionnel,pop_3,T50,H,2020,dip_3,551.0,27.0
+1383,Baccalauréat ou brevet professionnel,pop_4,T15,F,2020,dip_3,408.0,99.0
+1384,Baccalauréat ou brevet professionnel,pop_5,T25,F,2020,dip_3,1560.0,143.0
+1385,Baccalauréat ou brevet professionnel,pop_6,T50,F,2020,dip_3,710.0,43.0
+1386,"CAP, BEP ou autre diplôme de ce niveau",pop_1,T15,H,2020,dip_4,187.0,42.0
+1387,"CAP, BEP ou autre diplôme de ce niveau",pop_2,T25,H,2020,dip_4,1770.0,168.0
+1388,"CAP, BEP ou autre diplôme de ce niveau",pop_3,T50,H,2020,dip_4,1440.0,88.0
+1389,"CAP, BEP ou autre diplôme de ce niveau",pop_4,T15,F,2020,dip_4,116.0,40.0
+1390,"CAP, BEP ou autre diplôme de ce niveau",pop_5,T25,F,2020,dip_4,1166.0,131.0
+1391,"CAP, BEP ou autre diplôme de ce niveau",pop_6,T50,F,2020,dip_4,1141.0,70.0
+1392,Brevet des collèges,pop_1,T15,H,2020,dip_5,104.0,38.0
+1393,Brevet des collèges,pop_2,T25,H,2020,dip_5,318.0,37.0
+1394,Brevet des collèges,pop_3,T50,H,2020,dip_5,223.0,14.0
+1395,Brevet des collèges,pop_4,T15,F,2020,dip_5,45.0,24.0
+1396,Brevet des collèges,pop_5,T25,F,2020,dip_5,205.0,37.0
+1397,Brevet des collèges,pop_6,T50,F,2020,dip_5,268.0,19.0
+1398,Aucun diplôme ou CEP,pop_1,T15,H,2020,dip_6,99.0,54.0
+1399,Aucun diplôme ou CEP,pop_2,T25,H,2020,dip_6,731.0,134.0
+1400,Aucun diplôme ou CEP,pop_3,T50,H,2020,dip_6,638.0,59.0
+1401,Aucun diplôme ou CEP,pop_4,T15,F,2020,dip_6,31.0,32.0
+1402,Aucun diplôme ou CEP,pop_5,T25,F,2020,dip_6,439.0,94.0
+1403,Aucun diplôme ou CEP,pop_6,T50,F,2020,dip_6,565.0,50.0

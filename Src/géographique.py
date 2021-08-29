@@ -10,29 +10,11 @@ import pandas as pd
 import numpy as np
 import geopandas as gpd
 
-from sqlalchemy import create_engine
+import modules_emploi as me
 
 "# streamlit-folium"
 
-def interface_géographique(sexe, age):
-
-    # Création d'engine pour connecter le serveur MySQL
-    engine = create_engine("mysql+pymysql://root:tashe1129@localhost/emploi?charset=utf8mb4&binary_prefix=true")
-    
-    # Définir la connection pour la base de donnée
-    conn = engine.connect()
-
-    #Définir differentes types de reqûtes SQL
-    q = '''SELECT d.departement, r.code_reg, r.region, p.* FROM année a
-	        INNER JOIN (SELECT * FROM population INNER JOIN indicateur_departement USING (pop_id)) p USING (année)
-            INNER JOIN departement d USING (code_postal)
-            INNER JOIN région r USING (code_reg)
-            ORDER BY p.année;'''
-
-    df_main = pd.read_sql(q,conn)
-
-    #Une copie pour utilisé actuellement
-    df = pd.read_sql(q, conn)
+def interface_géographique(sexe, age,df):
             
     #Selection d'année
     a = st.sidebar.slider(
@@ -84,8 +66,8 @@ def interface_géographique(sexe, age):
         sal_dep =  df.groupby(['année','code_postal','departement']).sum().reset_index()
         sal_reg =  df.groupby(['année','code_reg','region']).sum().reset_index()
 
-    #Concatener le dataframe avec données geographique
 
+    #Concatener le dataframe avec données geographique
     code = ""
     nom = ""
 
@@ -158,7 +140,7 @@ def interface_géographique(sexe, age):
         columns=[code,"salaire_moyen"],
         key_on="feature.properties."+code,
         threshold_scales = "salaire_moyen",
-        fill_color="YlOrRd", 
+        fill_color="YlGn", 
         fill_opacity=0.7,
         line_opacity=.1,
         legend_name=leg,
@@ -166,14 +148,14 @@ def interface_géographique(sexe, age):
         folium.features.GeoJsonTooltip(fields = [nom, 'salaire_moyen'])
     )
     
-    fig_pop = px.bar(display_df.nlargest(10,'population'), 
-                y = nom, x = 'population',orientation = 'h')
+    fig_pop = px.funnel(display_df.nlargest(10,'population'), 
+                y = nom, x = 'population')
 
-    fig_cho = px.bar(display_df.nlargest(10,'nombre_chomeur'), 
-                y = nom, x = 'nombre_chomeur',orientation = 'h')
+    fig_cho = px.funnel(display_df.nlargest(10,'nombre_chomeur'), 
+                y = nom, x = 'nombre_chomeur')
 
-    fig_sal = px.bar(temp_sal.nlargest(10,'salaire_moyen'), 
-                y = nom, x = 'salaire_moyen',orientation = 'h')
+    fig_sal = px.funnel(temp_sal.nlargest(10,'salaire_moyen'), 
+                y = nom, x = 'salaire_moyen')
 
     st.header("La population")
 
@@ -185,6 +167,11 @@ def interface_géographique(sexe, age):
         folium_static(m_pop)
     c2.subheader("Plus peuplé")
     c2.plotly_chart(fig_pop)
+
+    b = st.sidebar.button('Backup')
+
+    if b:
+        me.backup(df,'data/indicateur_departement')
 
     st.header("Les chomeurs par géographie")
 
