@@ -14,7 +14,7 @@ import modules_emploi as me
 
 "# streamlit-folium"
 
-def interface_géographique(sexe, age,df):
+def interface_géographique(age, sexe, df):
             
     #Selection d'année
     a = st.sidebar.slider(
@@ -190,4 +190,5 @@ def interface_géographique(sexe, age,df):
     with c5:
         folium_static(m_sal)
 
+    c6.subheader("Bien payé")
     c6.plotly_chart(fig_sal)
