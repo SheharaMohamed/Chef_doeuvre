@@ -197,14 +197,14 @@ def interface_ensemble(df_dip, df_cat, df_cha, df_geo):
 
     if geo == "Par département":
         with(col_folium):
-            if a < 2013:
+            if (a < 2020) &  (a> 2013):
                 st.subheader("Données indisponible pour l'année {}".format(a))
             else:
                 st.subheader("Les chômeur par département")
                 folium_static(m_cho_dep)
     else:
         with(col_folium):
-            if a < 2013:
+            if (a < 2020) &  (a> 2013):
                 st.subheader("Données indisponible pour l'année {}".format(a))
             else:
                 st.subheader("Les chômeur par région")

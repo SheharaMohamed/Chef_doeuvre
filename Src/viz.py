@@ -5,6 +5,7 @@ import diplôme
 import catégorie
 import characteristique
 import géographique
+import predict
 import ensemble
 import globals
 
@@ -16,7 +17,7 @@ st.set_page_config(layout="wide")
 
 nav = st.sidebar.radio(
     "Choisissez l'indicateur",
-    ["Ensemble", "Diplôme", "Catégorie Socioprofessionnelle", "Caractéristique d'emploi", "Le secteur géographique"]
+    ["Ensemble", "Diplôme", "Catégorie Socioprofessionnelle", "Caractéristique d'emploi", "Le secteur géographique", "Modèle Prédictive"]
 )
 
 engine = create_engine("mysql+pymysql://user1:mdp1@localhost/emploi?charset=utf8mb4&binary_prefix=true")
@@ -80,6 +81,8 @@ elif nav == "Le secteur géographique":
     st.title("Comparateur d'emploi par le secteur géographique")
     géographique.interface_géographique(age[g], sexe[s], globals.df_geo)
 
+elif nav == "Modèle Prédictive":
+    predict.interface_predic(globals.df,globals.reg)
 else:
     st.title("L'évolution d'emplois et de chômeurs en France")
     ensemble.interface_ensemble(globals.df_dip, globals.df_cat, globals.df_cha, globals.df_geo)

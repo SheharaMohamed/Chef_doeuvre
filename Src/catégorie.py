@@ -185,7 +185,7 @@ def interface_catégorie(age, sexe,df):
     if b:
         me.backup(df,'data/indicateur_catégorie')
 
-    st.header("L'evolution annuelle des emplois et des chomeurs")
+    st.header("L'évolution annuelle d'emplois et de chomeurs")
     st.plotly_chart(fig1)
     st.plotly_chart(fig2)
     

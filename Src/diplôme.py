@@ -180,14 +180,28 @@ def interface_diplôme(age, sexe,df):
                             title = 'Sexe'
                         ))
 
+    df_temp_ = df[df.année == a].groupby(['année','diplôme']).sum().reset_index()
+    fig = px.line_polar(df_temp_, r='nombre_employe', theta='diplôme', line_close=True)
+    fig.update_traces(fill='toself')
+
+    fig_ = px.line_polar(df_temp_, r='nombre_chomeur', theta='diplôme', line_close=True)
+    fig_.update_traces(fill='toself')
+
     b = st.sidebar.button('Backup')
 
     if b:
         me.backup(df,'data/indicateur_diplôme')
     
-    st.header("L'evolution annuelle des emplois et des chomeurs")
+    st.header("L'évolution annuelle d'emplois et de chomeurs")
     st.plotly_chart(fig1)
     st.plotly_chart(fig2)
+
+    col_fig, col_fig_ = st.columns((1,1))
+    col_fig.subheader("La distribution des emplois")
+    col_fig.plotly_chart(fig)
+    col_fig_.subheader("La distribution des chômeurs")
+    col_fig_.plotly_chart(fig_)
+
     st.header("Nombre d'emploi de l'année {}".format(a))
     col_fig3, col_fig4 = st.columns((1,1))
     col_fig3.subheader("Par groupe d'age")

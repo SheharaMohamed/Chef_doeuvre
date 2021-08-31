@@ -134,11 +134,7 @@ def interface_characteristique(age, sexe,df):
         df_temp = df_temp[df_temp.année == a]
 
     df_temp['group_dage'] = df_temp['group_dage'].apply(lambda x: dict_age[x])
-
-    df_temp_ = df[df.type_characteristique == t]
-    fig = px.line_polar(df_temp_[df_temp_.année == a].groupby('characteristique').sum().reset_index(), r='nombre_employe', theta='characteristique', line_close=True)
-    fig.update_traces(fill='toself')
-
+    
     fig3 = px.bar(df_temp, x="sexe", y="nombre_employe",
              color='group_dage', barmode='group')
 
@@ -163,12 +159,11 @@ def interface_characteristique(age, sexe,df):
     if b:
         me.backup(df,'data/indicateur_caratéristique')
 
-    st.header("L'evolution annuelle des emplois")
+    st.header("L'évolution annuelle d'emplois")
     st.plotly_chart(fig1)
     st.plotly_chart(fig2)
 
     st.header("Nombre d'emploi de l'année {}".format(a))
-    st.plotly_chart(fig)
     st.subheader("{} - {}".format(t,c))
     col_fig3, col_fig4 = st.columns((1,1))
     col_fig3.subheader("Par groupe d'age")

@@ -1,0 +1,1873 @@
+,catégorie,pop_id,group_dage,sexe,année,cat_id,nombre_employe,nombre_chomeur
+0,Agriculteurs exploitants,pop_1,T15,H,1982,cat_1,102.0,1.0
+1,Agriculteurs exploitants,pop_2,T25,H,1982,cat_1,394.0,0.0
+2,Agriculteurs exploitants,pop_3,T50,H,1982,cat_1,492.0,1.0
+3,Agriculteurs exploitants,pop_4,T15,F,1982,cat_1,15.0,1.0
+4,Agriculteurs exploitants,pop_5,T25,F,1982,cat_1,329.0,1.0
+5,Agriculteurs exploitants,pop_6,T50,F,1982,cat_1,278.0,0.0
+6,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,1982,cat_2,36.0,2.0
+7,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,1982,cat_2,738.0,15.0
+8,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,1982,cat_2,460.0,3.0
+9,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,1982,cat_2,35.0,2.0
+10,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,1982,cat_2,401.0,9.0
+11,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,1982,cat_2,229.0,3.0
+12,Cadres et professions intellectuelles supérieures,pop_1,T15,H,1982,cat_3,8.0,2.0
+13,Cadres et professions intellectuelles supérieures,pop_2,T25,H,1982,cat_3,1035.0,17.0
+14,Cadres et professions intellectuelles supérieures,pop_3,T50,H,1982,cat_3,363.0,10.0
+15,Cadres et professions intellectuelles supérieures,pop_4,T15,F,1982,cat_3,6.0,2.0
+16,Cadres et professions intellectuelles supérieures,pop_5,T25,F,1982,cat_3,265.0,21.0
+17,Cadres et professions intellectuelles supérieures,pop_6,T50,F,1982,cat_3,101.0,2.0
+18,Professions intermédiaires,pop_1,T15,H,1982,cat_4,238.0,18.0
+19,Professions intermédiaires,pop_2,T25,H,1982,cat_4,1941.0,58.0
+20,Professions intermédiaires,pop_3,T50,H,1982,cat_4,436.0,27.0
+21,Professions intermédiaires,pop_4,T15,F,1982,cat_4,247.0,16.0
+22,Professions intermédiaires,pop_5,T25,F,1982,cat_4,1342.0,43.0
+23,Professions intermédiaires,pop_6,T50,F,1982,cat_4,242.0,9.0
+24,Employés,pop_1,T15,H,1982,cat_5,322.0,25.0
+25,Employés,pop_2,T25,H,1982,cat_5,887.0,21.0
+26,Employés,pop_3,T50,H,1982,cat_5,238.0,9.0
+27,Employés,pop_4,T15,F,1982,cat_5,982.0,107.0
+28,Employés,pop_5,T25,F,1982,cat_5,2595.0,186.0
+29,Employés,pop_6,T50,F,1982,cat_5,744.0,45.0
+30,Ouvriers qualifiés,pop_1,T15,H,1982,cat_6,452.0,61.0
+31,Ouvriers qualifiés,pop_2,T25,H,1982,cat_6,2331.0,114.0
+32,Ouvriers qualifiés,pop_3,T50,H,1982,cat_6,553.0,30.0
+33,Ouvriers qualifiés,pop_4,T15,F,1982,cat_6,57.0,12.0
+34,Ouvriers qualifiés,pop_5,T25,F,1982,cat_6,222.0,23.0
+35,Ouvriers qualifiés,pop_6,T50,F,1982,cat_6,73.0,7.0
+36,Ouvriers non qualifiés,pop_1,T15,H,1982,cat_7,718.0,57.0
+37,Ouvriers non qualifiés,pop_2,T25,H,1982,cat_7,1130.0,89.0
+38,Ouvriers non qualifiés,pop_3,T50,H,1982,cat_7,338.0,34.0
+39,Ouvriers non qualifiés,pop_4,T15,F,1982,cat_7,313.0,46.0
+40,Ouvriers non qualifiés,pop_5,T25,F,1982,cat_7,551.0,90.0
+41,Ouvriers non qualifiés,pop_6,T50,F,1982,cat_7,183.0,27.0
+42,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,1982,cat_8,352.0,0.0
+43,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,1982,cat_8,25.0,0.0
+44,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,1982,cat_8,9.0,0.0
+45,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,1982,cat_8,8.0,0.0
+46,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,1982,cat_8,16.0,0.0
+47,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,1982,cat_8,7.0,0.0
+48,Agriculteurs exploitants,pop_1,T15,H,1983,cat_1,107.0,0.0
+49,Agriculteurs exploitants,pop_2,T25,H,1983,cat_1,377.0,2.0
+50,Agriculteurs exploitants,pop_3,T50,H,1983,cat_1,492.0,0.0
+51,Agriculteurs exploitants,pop_4,T15,F,1983,cat_1,15.0,0.0
+52,Agriculteurs exploitants,pop_5,T25,F,1983,cat_1,312.0,1.0
+53,Agriculteurs exploitants,pop_6,T50,F,1983,cat_1,307.0,1.0
+54,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,1983,cat_2,32.0,1.0
+55,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,1983,cat_2,715.0,16.0
+56,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,1983,cat_2,447.0,6.0
+57,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,1983,cat_2,31.0,2.0
+58,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,1983,cat_2,420.0,8.0
+59,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,1983,cat_2,235.0,3.0
+60,Cadres et professions intellectuelles supérieures,pop_1,T15,H,1983,cat_3,6.0,1.0
+61,Cadres et professions intellectuelles supérieures,pop_2,T25,H,1983,cat_3,1097.0,21.0
+62,Cadres et professions intellectuelles supérieures,pop_3,T50,H,1983,cat_3,378.0,7.0
+63,Cadres et professions intellectuelles supérieures,pop_4,T15,F,1983,cat_3,8.0,0.0
+64,Cadres et professions intellectuelles supérieures,pop_5,T25,F,1983,cat_3,298.0,21.0
+65,Cadres et professions intellectuelles supérieures,pop_6,T50,F,1983,cat_3,100.0,4.0
+66,Professions intermédiaires,pop_1,T15,H,1983,cat_4,232.0,20.0
+67,Professions intermédiaires,pop_2,T25,H,1983,cat_4,2026.0,59.0
+68,Professions intermédiaires,pop_3,T50,H,1983,cat_4,427.0,22.0
+69,Professions intermédiaires,pop_4,T15,F,1983,cat_4,251.0,9.0
+70,Professions intermédiaires,pop_5,T25,F,1983,cat_4,1400.0,49.0
+71,Professions intermédiaires,pop_6,T50,F,1983,cat_4,242.0,9.0
+72,Employés,pop_1,T15,H,1983,cat_5,314.0,25.0
+73,Employés,pop_2,T25,H,1983,cat_5,892.0,23.0
+74,Employés,pop_3,T50,H,1983,cat_5,216.0,6.0
+75,Employés,pop_4,T15,F,1983,cat_5,957.0,117.0
+76,Employés,pop_5,T25,F,1983,cat_5,2689.0,198.0
+77,Employés,pop_6,T50,F,1983,cat_5,680.0,43.0
+78,Ouvriers qualifiés,pop_1,T15,H,1983,cat_6,408.0,51.0
+79,Ouvriers qualifiés,pop_2,T25,H,1983,cat_6,2329.0,117.0
+80,Ouvriers qualifiés,pop_3,T50,H,1983,cat_6,490.0,36.0
+81,Ouvriers qualifiés,pop_4,T15,F,1983,cat_6,54.0,13.0
+82,Ouvriers qualifiés,pop_5,T25,F,1983,cat_6,202.0,21.0
+83,Ouvriers qualifiés,pop_6,T50,F,1983,cat_6,56.0,9.0
+84,Ouvriers non qualifiés,pop_1,T15,H,1983,cat_7,738.0,71.0
+85,Ouvriers non qualifiés,pop_2,T25,H,1983,cat_7,1068.0,97.0
+86,Ouvriers non qualifiés,pop_3,T50,H,1983,cat_7,326.0,34.0
+87,Ouvriers non qualifiés,pop_4,T15,F,1983,cat_7,306.0,46.0
+88,Ouvriers non qualifiés,pop_5,T25,F,1983,cat_7,555.0,86.0
+89,Ouvriers non qualifiés,pop_6,T50,F,1983,cat_7,154.0,26.0
+90,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,1983,cat_8,351.0,0.0
+91,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,1983,cat_8,26.0,0.0
+92,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,1983,cat_8,9.0,0.0
+93,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,1983,cat_8,8.0,0.0
+94,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,1983,cat_8,17.0,0.0
+95,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,1983,cat_8,7.0,0.0
+96,Agriculteurs exploitants,pop_1,T15,H,1984,cat_1,115.0,1.0
+97,Agriculteurs exploitants,pop_2,T25,H,1984,cat_1,388.0,1.0
+98,Agriculteurs exploitants,pop_3,T50,H,1984,cat_1,506.0,0.0
+99,Agriculteurs exploitants,pop_4,T15,F,1984,cat_1,13.0,0.0
+100,Agriculteurs exploitants,pop_5,T25,F,1984,cat_1,322.0,1.0
+101,Agriculteurs exploitants,pop_6,T50,F,1984,cat_1,318.0,0.0
+102,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,1984,cat_2,31.0,3.0
+103,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,1984,cat_2,714.0,18.0
+104,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,1984,cat_2,446.0,5.0
+105,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,1984,cat_2,38.0,2.0
+106,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,1984,cat_2,406.0,13.0
+107,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,1984,cat_2,252.0,5.0
+108,Cadres et professions intellectuelles supérieures,pop_1,T15,H,1984,cat_3,3.0,2.0
+109,Cadres et professions intellectuelles supérieures,pop_2,T25,H,1984,cat_3,1137.0,21.0
+110,Cadres et professions intellectuelles supérieures,pop_3,T50,H,1984,cat_3,362.0,5.0
+111,Cadres et professions intellectuelles supérieures,pop_4,T15,F,1984,cat_3,7.0,1.0
+112,Cadres et professions intellectuelles supérieures,pop_5,T25,F,1984,cat_3,320.0,25.0
+113,Cadres et professions intellectuelles supérieures,pop_6,T50,F,1984,cat_3,98.0,3.0
+114,Professions intermédiaires,pop_1,T15,H,1984,cat_4,224.0,22.0
+115,Professions intermédiaires,pop_2,T25,H,1984,cat_4,2059.0,72.0
+116,Professions intermédiaires,pop_3,T50,H,1984,cat_4,412.0,23.0
+117,Professions intermédiaires,pop_4,T15,F,1984,cat_4,242.0,14.0
+118,Professions intermédiaires,pop_5,T25,F,1984,cat_4,1473.0,55.0
+119,Professions intermédiaires,pop_6,T50,F,1984,cat_4,235.0,9.0
+120,Employés,pop_1,T15,H,1984,cat_5,299.0,34.0
+121,Employés,pop_2,T25,H,1984,cat_5,912.0,27.0
+122,Employés,pop_3,T50,H,1984,cat_5,196.0,6.0
+123,Employés,pop_4,T15,F,1984,cat_5,918.0,137.0
+124,Employés,pop_5,T25,F,1984,cat_5,2739.0,229.0
+125,Employés,pop_6,T50,F,1984,cat_5,665.0,49.0
+126,Ouvriers qualifiés,pop_1,T15,H,1984,cat_6,365.0,64.0
+127,Ouvriers qualifiés,pop_2,T25,H,1984,cat_6,2256.0,162.0
+128,Ouvriers qualifiés,pop_3,T50,H,1984,cat_6,465.0,41.0
+129,Ouvriers qualifiés,pop_4,T15,F,1984,cat_6,41.0,11.0
+130,Ouvriers qualifiés,pop_5,T25,F,1984,cat_6,207.0,24.0
+131,Ouvriers qualifiés,pop_6,T50,F,1984,cat_6,53.0,8.0
+132,Ouvriers non qualifiés,pop_1,T15,H,1984,cat_7,661.0,82.0
+133,Ouvriers non qualifiés,pop_2,T25,H,1984,cat_7,1051.0,112.0
+134,Ouvriers non qualifiés,pop_3,T50,H,1984,cat_7,305.0,40.0
+135,Ouvriers non qualifiés,pop_4,T15,F,1984,cat_7,270.0,50.0
+136,Ouvriers non qualifiés,pop_5,T25,F,1984,cat_7,549.0,100.0
+137,Ouvriers non qualifiés,pop_6,T50,F,1984,cat_7,145.0,26.0
+138,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,1984,cat_8,330.0,0.0
+139,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,1984,cat_8,26.0,0.0
+140,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,1984,cat_8,8.0,0.0
+141,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,1984,cat_8,8.0,0.0
+142,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,1984,cat_8,17.0,0.0
+143,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,1984,cat_8,7.0,0.0
+144,Agriculteurs exploitants,pop_1,T15,H,1985,cat_1,104.0,1.0
+145,Agriculteurs exploitants,pop_2,T25,H,1985,cat_1,381.0,2.0
+146,Agriculteurs exploitants,pop_3,T50,H,1985,cat_1,477.0,1.0
+147,Agriculteurs exploitants,pop_4,T15,F,1985,cat_1,13.0,0.0
+148,Agriculteurs exploitants,pop_5,T25,F,1985,cat_1,307.0,2.0
+149,Agriculteurs exploitants,pop_6,T50,F,1985,cat_1,297.0,1.0
+150,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,1985,cat_2,27.0,4.0
+151,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,1985,cat_2,710.0,24.0
+152,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,1985,cat_2,424.0,5.0
+153,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,1985,cat_2,34.0,1.0
+154,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,1985,cat_2,390.0,13.0
+155,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,1985,cat_2,229.0,3.0
+156,Cadres et professions intellectuelles supérieures,pop_1,T15,H,1985,cat_3,2.0,1.0
+157,Cadres et professions intellectuelles supérieures,pop_2,T25,H,1985,cat_3,1128.0,27.0
+158,Cadres et professions intellectuelles supérieures,pop_3,T50,H,1985,cat_3,355.0,7.0
+159,Cadres et professions intellectuelles supérieures,pop_4,T15,F,1985,cat_3,7.0,0.0
+160,Cadres et professions intellectuelles supérieures,pop_5,T25,F,1985,cat_3,331.0,27.0
+161,Cadres et professions intellectuelles supérieures,pop_6,T50,F,1985,cat_3,92.0,5.0
+162,Professions intermédiaires,pop_1,T15,H,1985,cat_4,224.0,21.0
+163,Professions intermédiaires,pop_2,T25,H,1985,cat_4,2095.0,82.0
+164,Professions intermédiaires,pop_3,T50,H,1985,cat_4,428.0,28.0
+165,Professions intermédiaires,pop_4,T15,F,1985,cat_4,235.0,11.0
+166,Professions intermédiaires,pop_5,T25,F,1985,cat_4,1497.0,54.0
+167,Professions intermédiaires,pop_6,T50,F,1985,cat_4,242.0,7.0
+168,Employés,pop_1,T15,H,1985,cat_5,299.0,33.0
+169,Employés,pop_2,T25,H,1985,cat_5,910.0,25.0
+170,Employés,pop_3,T50,H,1985,cat_5,186.0,5.0
+171,Employés,pop_4,T15,F,1985,cat_5,932.0,116.0
+172,Employés,pop_5,T25,F,1985,cat_5,2776.0,240.0
+173,Employés,pop_6,T50,F,1985,cat_5,685.0,55.0
+174,Ouvriers qualifiés,pop_1,T15,H,1985,cat_6,354.0,79.0
+175,Ouvriers qualifiés,pop_2,T25,H,1985,cat_6,2294.0,189.0
+176,Ouvriers qualifiés,pop_3,T50,H,1985,cat_6,489.0,53.0
+177,Ouvriers qualifiés,pop_4,T15,F,1985,cat_6,37.0,12.0
+178,Ouvriers qualifiés,pop_5,T25,F,1985,cat_6,208.0,28.0
+179,Ouvriers qualifiés,pop_6,T50,F,1985,cat_6,54.0,7.0
+180,Ouvriers non qualifiés,pop_1,T15,H,1985,cat_7,657.0,71.0
+181,Ouvriers non qualifiés,pop_2,T25,H,1985,cat_7,1042.0,121.0
+182,Ouvriers non qualifiés,pop_3,T50,H,1985,cat_7,285.0,35.0
+183,Ouvriers non qualifiés,pop_4,T15,F,1985,cat_7,266.0,50.0
+184,Ouvriers non qualifiés,pop_5,T25,F,1985,cat_7,599.0,130.0
+185,Ouvriers non qualifiés,pop_6,T50,F,1985,cat_7,142.0,24.0
+186,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,1985,cat_8,335.0,0.0
+187,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,1985,cat_8,26.0,0.0
+188,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,1985,cat_8,8.0,0.0
+189,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,1985,cat_8,7.0,0.0
+190,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,1985,cat_8,17.0,0.0
+191,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,1985,cat_8,7.0,0.0
+192,Agriculteurs exploitants,pop_1,T15,H,1986,cat_1,95.0,0.0
+193,Agriculteurs exploitants,pop_2,T25,H,1986,cat_1,366.0,4.0
+194,Agriculteurs exploitants,pop_3,T50,H,1986,cat_1,448.0,1.0
+195,Agriculteurs exploitants,pop_4,T15,F,1986,cat_1,13.0,1.0
+196,Agriculteurs exploitants,pop_5,T25,F,1986,cat_1,279.0,2.0
+197,Agriculteurs exploitants,pop_6,T50,F,1986,cat_1,273.0,0.0
+198,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,1986,cat_2,32.0,3.0
+199,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,1986,cat_2,752.0,22.0
+200,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,1986,cat_2,429.0,7.0
+201,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,1986,cat_2,38.0,1.0
+202,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,1986,cat_2,411.0,12.0
+203,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,1986,cat_2,221.0,3.0
+204,Cadres et professions intellectuelles supérieures,pop_1,T15,H,1986,cat_3,12.0,2.0
+205,Cadres et professions intellectuelles supérieures,pop_2,T25,H,1986,cat_3,1172.0,25.0
+206,Cadres et professions intellectuelles supérieures,pop_3,T50,H,1986,cat_3,369.0,10.0
+207,Cadres et professions intellectuelles supérieures,pop_4,T15,F,1986,cat_3,14.0,1.0
+208,Cadres et professions intellectuelles supérieures,pop_5,T25,F,1986,cat_3,391.0,30.0
+209,Cadres et professions intellectuelles supérieures,pop_6,T50,F,1986,cat_3,94.0,4.0
+210,Professions intermédiaires,pop_1,T15,H,1986,cat_4,222.0,22.0
+211,Professions intermédiaires,pop_2,T25,H,1986,cat_4,2124.0,88.0
+212,Professions intermédiaires,pop_3,T50,H,1986,cat_4,417.0,29.0
+213,Professions intermédiaires,pop_4,T15,F,1986,cat_4,248.0,11.0
+214,Professions intermédiaires,pop_5,T25,F,1986,cat_4,1526.0,71.0
+215,Professions intermédiaires,pop_6,T50,F,1986,cat_4,250.0,9.0
+216,Employés,pop_1,T15,H,1986,cat_5,302.0,34.0
+217,Employés,pop_2,T25,H,1986,cat_5,946.0,43.0
+218,Employés,pop_3,T50,H,1986,cat_5,174.0,7.0
+219,Employés,pop_4,T15,F,1986,cat_5,958.0,141.0
+220,Employés,pop_5,T25,F,1986,cat_5,2863.0,267.0
+221,Employés,pop_6,T50,F,1986,cat_5,703.0,51.0
+222,Ouvriers qualifiés,pop_1,T15,H,1986,cat_6,352.0,75.0
+223,Ouvriers qualifiés,pop_2,T25,H,1986,cat_6,2285.0,211.0
+224,Ouvriers qualifiés,pop_3,T50,H,1986,cat_6,492.0,55.0
+225,Ouvriers qualifiés,pop_4,T15,F,1986,cat_6,34.0,14.0
+226,Ouvriers qualifiés,pop_5,T25,F,1986,cat_6,215.0,26.0
+227,Ouvriers qualifiés,pop_6,T50,F,1986,cat_6,47.0,11.0
+228,Ouvriers non qualifiés,pop_1,T15,H,1986,cat_7,639.0,74.0
+229,Ouvriers non qualifiés,pop_2,T25,H,1986,cat_7,974.0,111.0
+230,Ouvriers non qualifiés,pop_3,T50,H,1986,cat_7,281.0,35.0
+231,Ouvriers non qualifiés,pop_4,T15,F,1986,cat_7,235.0,38.0
+232,Ouvriers non qualifiés,pop_5,T25,F,1986,cat_7,600.0,130.0
+233,Ouvriers non qualifiés,pop_6,T50,F,1986,cat_7,143.0,21.0
+234,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,1986,cat_8,344.0,0.0
+235,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,1986,cat_8,26.0,0.0
+236,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,1986,cat_8,8.0,0.0
+237,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,1986,cat_8,8.0,0.0
+238,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,1986,cat_8,18.0,0.0
+239,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,1986,cat_8,7.0,0.0
+240,Agriculteurs exploitants,pop_1,T15,H,1987,cat_1,97.0,1.0
+241,Agriculteurs exploitants,pop_2,T25,H,1987,cat_1,370.0,2.0
+242,Agriculteurs exploitants,pop_3,T50,H,1987,cat_1,443.0,0.0
+243,Agriculteurs exploitants,pop_4,T15,F,1987,cat_1,12.0,0.0
+244,Agriculteurs exploitants,pop_5,T25,F,1987,cat_1,257.0,2.0
+245,Agriculteurs exploitants,pop_6,T50,F,1987,cat_1,278.0,0.0
+246,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,1987,cat_2,33.0,3.0
+247,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,1987,cat_2,752.0,22.0
+248,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,1987,cat_2,411.0,7.0
+249,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,1987,cat_2,33.0,1.0
+250,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,1987,cat_2,393.0,15.0
+251,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,1987,cat_2,213.0,5.0
+252,Cadres et professions intellectuelles supérieures,pop_1,T15,H,1987,cat_3,5.0,4.0
+253,Cadres et professions intellectuelles supérieures,pop_2,T25,H,1987,cat_3,1221.0,23.0
+254,Cadres et professions intellectuelles supérieures,pop_3,T50,H,1987,cat_3,358.0,9.0
+255,Cadres et professions intellectuelles supérieures,pop_4,T15,F,1987,cat_3,13.0,0.0
+256,Cadres et professions intellectuelles supérieures,pop_5,T25,F,1987,cat_3,417.0,34.0
+257,Cadres et professions intellectuelles supérieures,pop_6,T50,F,1987,cat_3,95.0,5.0
+258,Professions intermédiaires,pop_1,T15,H,1987,cat_4,225.0,19.0
+259,Professions intermédiaires,pop_2,T25,H,1987,cat_4,2104.0,93.0
+260,Professions intermédiaires,pop_3,T50,H,1987,cat_4,411.0,27.0
+261,Professions intermédiaires,pop_4,T15,F,1987,cat_4,251.0,9.0
+262,Professions intermédiaires,pop_5,T25,F,1987,cat_4,1569.0,72.0
+263,Professions intermédiaires,pop_6,T50,F,1987,cat_4,261.0,12.0
+264,Employés,pop_1,T15,H,1987,cat_5,298.0,36.0
+265,Employés,pop_2,T25,H,1987,cat_5,977.0,39.0
+266,Employés,pop_3,T50,H,1987,cat_5,172.0,7.0
+267,Employés,pop_4,T15,F,1987,cat_5,963.0,148.0
+268,Employés,pop_5,T25,F,1987,cat_5,2904.0,299.0
+269,Employés,pop_6,T50,F,1987,cat_5,691.0,54.0
+270,Ouvriers qualifiés,pop_1,T15,H,1987,cat_6,341.0,54.0
+271,Ouvriers qualifiés,pop_2,T25,H,1987,cat_6,2309.0,207.0
+272,Ouvriers qualifiés,pop_3,T50,H,1987,cat_6,463.0,58.0
+273,Ouvriers qualifiés,pop_4,T15,F,1987,cat_6,35.0,10.0
+274,Ouvriers qualifiés,pop_5,T25,F,1987,cat_6,200.0,34.0
+275,Ouvriers qualifiés,pop_6,T50,F,1987,cat_6,54.0,11.0
+276,Ouvriers non qualifiés,pop_1,T15,H,1987,cat_7,655.0,79.0
+277,Ouvriers non qualifiés,pop_2,T25,H,1987,cat_7,987.0,133.0
+278,Ouvriers non qualifiés,pop_3,T50,H,1987,cat_7,263.0,34.0
+279,Ouvriers non qualifiés,pop_4,T15,F,1987,cat_7,223.0,41.0
+280,Ouvriers non qualifiés,pop_5,T25,F,1987,cat_7,578.0,149.0
+281,Ouvriers non qualifiés,pop_6,T50,F,1987,cat_7,141.0,31.0
+282,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,1987,cat_8,318.0,0.0
+283,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,1987,cat_8,26.0,0.0
+284,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,1987,cat_8,8.0,0.0
+285,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,1987,cat_8,8.0,0.0
+286,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,1987,cat_8,18.0,0.0
+287,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,1987,cat_8,7.0,0.0
+288,Agriculteurs exploitants,pop_1,T15,H,1988,cat_1,85.0,2.0
+289,Agriculteurs exploitants,pop_2,T25,H,1988,cat_1,364.0,2.0
+290,Agriculteurs exploitants,pop_3,T50,H,1988,cat_1,410.0,1.0
+291,Agriculteurs exploitants,pop_4,T15,F,1988,cat_1,10.0,0.0
+292,Agriculteurs exploitants,pop_5,T25,F,1988,cat_1,245.0,2.0
+293,Agriculteurs exploitants,pop_6,T50,F,1988,cat_1,265.0,1.0
+294,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,1988,cat_2,39.0,2.0
+295,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,1988,cat_2,779.0,25.0
+296,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,1988,cat_2,414.0,3.0
+297,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,1988,cat_2,34.0,1.0
+298,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,1988,cat_2,379.0,13.0
+299,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,1988,cat_2,218.0,4.0
+300,Cadres et professions intellectuelles supérieures,pop_1,T15,H,1988,cat_3,6.0,1.0
+301,Cadres et professions intellectuelles supérieures,pop_2,T25,H,1988,cat_3,1305.0,26.0
+302,Cadres et professions intellectuelles supérieures,pop_3,T50,H,1988,cat_3,378.0,9.0
+303,Cadres et professions intellectuelles supérieures,pop_4,T15,F,1988,cat_3,13.0,2.0
+304,Cadres et professions intellectuelles supérieures,pop_5,T25,F,1988,cat_3,448.0,37.0
+305,Cadres et professions intellectuelles supérieures,pop_6,T50,F,1988,cat_3,107.0,4.0
+306,Professions intermédiaires,pop_1,T15,H,1988,cat_4,216.0,19.0
+307,Professions intermédiaires,pop_2,T25,H,1988,cat_4,2094.0,80.0
+308,Professions intermédiaires,pop_3,T50,H,1988,cat_4,403.0,26.0
+309,Professions intermédiaires,pop_4,T15,F,1988,cat_4,216.0,11.0
+310,Professions intermédiaires,pop_5,T25,F,1988,cat_4,1636.0,66.0
+311,Professions intermédiaires,pop_6,T50,F,1988,cat_4,258.0,11.0
+312,Employés,pop_1,T15,H,1988,cat_5,281.0,34.0
+313,Employés,pop_2,T25,H,1988,cat_5,1004.0,45.0
+314,Employés,pop_3,T50,H,1988,cat_5,172.0,7.0
+315,Employés,pop_4,T15,F,1988,cat_5,936.0,138.0
+316,Employés,pop_5,T25,F,1988,cat_5,3003.0,313.0
+317,Employés,pop_6,T50,F,1988,cat_5,702.0,57.0
+318,Ouvriers qualifiés,pop_1,T15,H,1988,cat_6,315.0,61.0
+319,Ouvriers qualifiés,pop_2,T25,H,1988,cat_6,2314.0,216.0
+320,Ouvriers qualifiés,pop_3,T50,H,1988,cat_6,468.0,55.0
+321,Ouvriers qualifiés,pop_4,T15,F,1988,cat_6,41.0,12.0
+322,Ouvriers qualifiés,pop_5,T25,F,1988,cat_6,212.0,37.0
+323,Ouvriers qualifiés,pop_6,T50,F,1988,cat_6,54.0,11.0
+324,Ouvriers non qualifiés,pop_1,T15,H,1988,cat_7,616.0,66.0
+325,Ouvriers non qualifiés,pop_2,T25,H,1988,cat_7,963.0,121.0
+326,Ouvriers non qualifiés,pop_3,T50,H,1988,cat_7,263.0,35.0
+327,Ouvriers non qualifiés,pop_4,T15,F,1988,cat_7,210.0,36.0
+328,Ouvriers non qualifiés,pop_5,T25,F,1988,cat_7,542.0,152.0
+329,Ouvriers non qualifiés,pop_6,T50,F,1988,cat_7,122.0,30.0
+330,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,1988,cat_8,338.0,0.0
+331,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,1988,cat_8,27.0,0.0
+332,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,1988,cat_8,8.0,0.0
+333,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,1988,cat_8,7.0,0.0
+334,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,1988,cat_8,18.0,0.0
+335,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,1988,cat_8,7.0,0.0
+336,Agriculteurs exploitants,pop_1,T15,H,1989,cat_1,70.0,0.0
+337,Agriculteurs exploitants,pop_2,T25,H,1989,cat_1,372.0,5.0
+338,Agriculteurs exploitants,pop_3,T50,H,1989,cat_1,384.0,0.0
+339,Agriculteurs exploitants,pop_4,T15,F,1989,cat_1,10.0,0.0
+340,Agriculteurs exploitants,pop_5,T25,F,1989,cat_1,246.0,1.0
+341,Agriculteurs exploitants,pop_6,T50,F,1989,cat_1,245.0,1.0
+342,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,1989,cat_2,30.0,2.0
+343,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,1989,cat_2,762.0,23.0
+344,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,1989,cat_2,415.0,4.0
+345,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,1989,cat_2,28.0,1.0
+346,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,1989,cat_2,375.0,16.0
+347,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,1989,cat_2,216.0,6.0
+348,Cadres et professions intellectuelles supérieures,pop_1,T15,H,1989,cat_3,8.0,1.0
+349,Cadres et professions intellectuelles supérieures,pop_2,T25,H,1989,cat_3,1277.0,26.0
+350,Cadres et professions intellectuelles supérieures,pop_3,T50,H,1989,cat_3,382.0,8.0
+351,Cadres et professions intellectuelles supérieures,pop_4,T15,F,1989,cat_3,18.0,3.0
+352,Cadres et professions intellectuelles supérieures,pop_5,T25,F,1989,cat_3,450.0,35.0
+353,Cadres et professions intellectuelles supérieures,pop_6,T50,F,1989,cat_3,116.0,5.0
+354,Professions intermédiaires,pop_1,T15,H,1989,cat_4,221.0,18.0
+355,Professions intermédiaires,pop_2,T25,H,1989,cat_4,2143.0,78.0
+356,Professions intermédiaires,pop_3,T50,H,1989,cat_4,410.0,22.0
+357,Professions intermédiaires,pop_4,T15,F,1989,cat_4,221.0,11.0
+358,Professions intermédiaires,pop_5,T25,F,1989,cat_4,1659.0,67.0
+359,Professions intermédiaires,pop_6,T50,F,1989,cat_4,269.0,7.0
+360,Employés,pop_1,T15,H,1989,cat_5,283.0,34.0
+361,Employés,pop_2,T25,H,1989,cat_5,1070.0,42.0
+362,Employés,pop_3,T50,H,1989,cat_5,170.0,8.0
+363,Employés,pop_4,T15,F,1989,cat_5,936.0,129.0
+364,Employés,pop_5,T25,F,1989,cat_5,3119.0,326.0
+365,Employés,pop_6,T50,F,1989,cat_5,721.0,60.0
+366,Ouvriers qualifiés,pop_1,T15,H,1989,cat_6,330.0,48.0
+367,Ouvriers qualifiés,pop_2,T25,H,1989,cat_6,2370.0,195.0
+368,Ouvriers qualifiés,pop_3,T50,H,1989,cat_6,474.0,49.0
+369,Ouvriers qualifiés,pop_4,T15,F,1989,cat_6,32.0,9.0
+370,Ouvriers qualifiés,pop_5,T25,F,1989,cat_6,235.0,30.0
+371,Ouvriers qualifiés,pop_6,T50,F,1989,cat_6,52.0,10.0
+372,Ouvriers non qualifiés,pop_1,T15,H,1989,cat_7,630.0,60.0
+373,Ouvriers non qualifiés,pop_2,T25,H,1989,cat_7,1009.0,115.0
+374,Ouvriers non qualifiés,pop_3,T50,H,1989,cat_7,251.0,30.0
+375,Ouvriers non qualifiés,pop_4,T15,F,1989,cat_7,209.0,36.0
+376,Ouvriers non qualifiés,pop_5,T25,F,1989,cat_7,565.0,152.0
+377,Ouvriers non qualifiés,pop_6,T50,F,1989,cat_7,115.0,26.0
+378,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,1989,cat_8,312.0,0.0
+379,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,1989,cat_8,27.0,0.0
+380,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,1989,cat_8,8.0,0.0
+381,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,1989,cat_8,7.0,0.0
+382,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,1989,cat_8,19.0,0.0
+383,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,1989,cat_8,7.0,0.0
+384,Agriculteurs exploitants,pop_1,T15,H,1990,cat_1,61.0,0.0
+385,Agriculteurs exploitants,pop_2,T25,H,1990,cat_1,358.0,3.0
+386,Agriculteurs exploitants,pop_3,T50,H,1990,cat_1,337.0,1.0
+387,Agriculteurs exploitants,pop_4,T15,F,1990,cat_1,6.0,0.0
+388,Agriculteurs exploitants,pop_5,T25,F,1990,cat_1,226.0,2.0
+389,Agriculteurs exploitants,pop_6,T50,F,1990,cat_1,226.0,1.0
+390,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,1990,cat_2,33.0,2.0
+391,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,1990,cat_2,849.0,21.0
+392,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,1990,cat_2,417.0,5.0
+393,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,1990,cat_2,30.0,1.0
+394,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,1990,cat_2,412.0,17.0
+395,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,1990,cat_2,208.0,6.0
+396,Cadres et professions intellectuelles supérieures,pop_1,T15,H,1990,cat_3,8.0,1.0
+397,Cadres et professions intellectuelles supérieures,pop_2,T25,H,1990,cat_3,1365.0,26.0
+398,Cadres et professions intellectuelles supérieures,pop_3,T50,H,1990,cat_3,397.0,9.0
+399,Cadres et professions intellectuelles supérieures,pop_4,T15,F,1990,cat_3,21.0,1.0
+400,Cadres et professions intellectuelles supérieures,pop_5,T25,F,1990,cat_3,513.0,38.0
+401,Cadres et professions intellectuelles supérieures,pop_6,T50,F,1990,cat_3,136.0,5.0
+402,Professions intermédiaires,pop_1,T15,H,1990,cat_4,203.0,12.0
+403,Professions intermédiaires,pop_2,T25,H,1990,cat_4,2120.0,75.0
+404,Professions intermédiaires,pop_3,T50,H,1990,cat_4,401.0,19.0
+405,Professions intermédiaires,pop_4,T15,F,1990,cat_4,214.0,10.0
+406,Professions intermédiaires,pop_5,T25,F,1990,cat_4,1637.0,63.0
+407,Professions intermédiaires,pop_6,T50,F,1990,cat_4,258.0,8.0
+408,Employés,pop_1,T15,H,1990,cat_5,266.0,38.0
+409,Employés,pop_2,T25,H,1990,cat_5,1014.0,61.0
+410,Employés,pop_3,T50,H,1990,cat_5,175.0,13.0
+411,Employés,pop_4,T15,F,1990,cat_5,883.0,121.0
+412,Employés,pop_5,T25,F,1990,cat_5,3218.0,318.0
+413,Employés,pop_6,T50,F,1990,cat_5,685.0,57.0
+414,Ouvriers qualifiés,pop_1,T15,H,1990,cat_6,330.0,40.0
+415,Ouvriers qualifiés,pop_2,T25,H,1990,cat_6,2447.0,149.0
+416,Ouvriers qualifiés,pop_3,T50,H,1990,cat_6,488.0,34.0
+417,Ouvriers qualifiés,pop_4,T15,F,1990,cat_6,37.0,8.0
+418,Ouvriers qualifiés,pop_5,T25,F,1990,cat_6,272.0,29.0
+419,Ouvriers qualifiés,pop_6,T50,F,1990,cat_6,60.0,9.0
+420,Ouvriers non qualifiés,pop_1,T15,H,1990,cat_7,589.0,62.0
+421,Ouvriers non qualifiés,pop_2,T25,H,1990,cat_7,941.0,137.0
+422,Ouvriers non qualifiés,pop_3,T50,H,1990,cat_7,244.0,28.0
+423,Ouvriers non qualifiés,pop_4,T15,F,1990,cat_7,199.0,38.0
+424,Ouvriers non qualifiés,pop_5,T25,F,1990,cat_7,572.0,144.0
+425,Ouvriers non qualifiés,pop_6,T50,F,1990,cat_7,136.0,21.0
+426,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,1990,cat_8,296.0,0.0
+427,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,1990,cat_8,27.0,0.0
+428,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,1990,cat_8,8.0,0.0
+429,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,1990,cat_8,7.0,0.0
+430,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,1990,cat_8,19.0,0.0
+431,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,1990,cat_8,7.0,0.0
+432,Agriculteurs exploitants,pop_1,T15,H,1991,cat_1,56.0,1.0
+433,Agriculteurs exploitants,pop_2,T25,H,1991,cat_1,350.0,4.0
+434,Agriculteurs exploitants,pop_3,T50,H,1991,cat_1,297.0,1.0
+435,Agriculteurs exploitants,pop_4,T15,F,1991,cat_1,5.0,0.0
+436,Agriculteurs exploitants,pop_5,T25,F,1991,cat_1,225.0,2.0
+437,Agriculteurs exploitants,pop_6,T50,F,1991,cat_1,216.0,1.0
+438,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,1991,cat_2,23.0,1.0
+439,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,1991,cat_2,844.0,25.0
+440,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,1991,cat_2,385.0,4.0
+441,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,1991,cat_2,31.0,0.0
+442,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,1991,cat_2,404.0,11.0
+443,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,1991,cat_2,193.0,4.0
+444,Cadres et professions intellectuelles supérieures,pop_1,T15,H,1991,cat_3,9.0,3.0
+445,Cadres et professions intellectuelles supérieures,pop_2,T25,H,1991,cat_3,1410.0,29.0
+446,Cadres et professions intellectuelles supérieures,pop_3,T50,H,1991,cat_3,407.0,13.0
+447,Cadres et professions intellectuelles supérieures,pop_4,T15,F,1991,cat_3,18.0,2.0
+448,Cadres et professions intellectuelles supérieures,pop_5,T25,F,1991,cat_3,578.0,45.0
+449,Cadres et professions intellectuelles supérieures,pop_6,T50,F,1991,cat_3,136.0,5.0
+450,Professions intermédiaires,pop_1,T15,H,1991,cat_4,200.0,14.0
+451,Professions intermédiaires,pop_2,T25,H,1991,cat_4,2181.0,78.0
+452,Professions intermédiaires,pop_3,T50,H,1991,cat_4,393.0,20.0
+453,Professions intermédiaires,pop_4,T15,F,1991,cat_4,209.0,8.0
+454,Professions intermédiaires,pop_5,T25,F,1991,cat_4,1722.0,81.0
+455,Professions intermédiaires,pop_6,T50,F,1991,cat_4,267.0,9.0
+456,Employés,pop_1,T15,H,1991,cat_5,227.0,35.0
+457,Employés,pop_2,T25,H,1991,cat_5,971.0,65.0
+458,Employés,pop_3,T50,H,1991,cat_5,159.0,12.0
+459,Employés,pop_4,T15,F,1991,cat_5,794.0,116.0
+460,Employés,pop_5,T25,F,1991,cat_5,3266.0,322.0
+461,Employés,pop_6,T50,F,1991,cat_5,658.0,62.0
+462,Ouvriers qualifiés,pop_1,T15,H,1991,cat_6,347.0,28.0
+463,Ouvriers qualifiés,pop_2,T25,H,1991,cat_6,2557.0,158.0
+464,Ouvriers qualifiés,pop_3,T50,H,1991,cat_6,497.0,36.0
+465,Ouvriers qualifiés,pop_4,T15,F,1991,cat_6,33.0,7.0
+466,Ouvriers qualifiés,pop_5,T25,F,1991,cat_6,298.0,33.0
+467,Ouvriers qualifiés,pop_6,T50,F,1991,cat_6,63.0,10.0
+468,Ouvriers non qualifiés,pop_1,T15,H,1991,cat_7,475.0,71.0
+469,Ouvriers non qualifiés,pop_2,T25,H,1991,cat_7,908.0,141.0
+470,Ouvriers non qualifiés,pop_3,T50,H,1991,cat_7,213.0,26.0
+471,Ouvriers non qualifiés,pop_4,T15,F,1991,cat_7,174.0,33.0
+472,Ouvriers non qualifiés,pop_5,T25,F,1991,cat_7,565.0,131.0
+473,Ouvriers non qualifiés,pop_6,T50,F,1991,cat_7,135.0,22.0
+474,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,1991,cat_8,300.0,0.0
+475,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,1991,cat_8,28.0,0.0
+476,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,1991,cat_8,7.0,0.0
+477,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,1991,cat_8,6.0,0.0
+478,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,1991,cat_8,20.0,0.0
+479,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,1991,cat_8,7.0,0.0
+480,Agriculteurs exploitants,pop_1,T15,H,1992,cat_1,44.0,0.0
+481,Agriculteurs exploitants,pop_2,T25,H,1992,cat_1,340.0,2.0
+482,Agriculteurs exploitants,pop_3,T50,H,1992,cat_1,267.0,0.0
+483,Agriculteurs exploitants,pop_4,T15,F,1992,cat_1,5.0,0.0
+484,Agriculteurs exploitants,pop_5,T25,F,1992,cat_1,215.0,0.0
+485,Agriculteurs exploitants,pop_6,T50,F,1992,cat_1,201.0,1.0
+486,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,1992,cat_2,17.0,1.0
+487,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,1992,cat_2,837.0,28.0
+488,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,1992,cat_2,394.0,6.0
+489,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,1992,cat_2,26.0,1.0
+490,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,1992,cat_2,395.0,17.0
+491,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,1992,cat_2,194.0,5.0
+492,Cadres et professions intellectuelles supérieures,pop_1,T15,H,1992,cat_3,11.0,1.0
+493,Cadres et professions intellectuelles supérieures,pop_2,T25,H,1992,cat_3,1483.0,41.0
+494,Cadres et professions intellectuelles supérieures,pop_3,T50,H,1992,cat_3,419.0,13.0
+495,Cadres et professions intellectuelles supérieures,pop_4,T15,F,1992,cat_3,20.0,2.0
+496,Cadres et professions intellectuelles supérieures,pop_5,T25,F,1992,cat_3,627.0,47.0
+497,Cadres et professions intellectuelles supérieures,pop_6,T50,F,1992,cat_3,145.0,8.0
+498,Professions intermédiaires,pop_1,T15,H,1992,cat_4,202.0,15.0
+499,Professions intermédiaires,pop_2,T25,H,1992,cat_4,2145.0,96.0
+500,Professions intermédiaires,pop_3,T50,H,1992,cat_4,390.0,24.0
+501,Professions intermédiaires,pop_4,T15,F,1992,cat_4,213.0,15.0
+502,Professions intermédiaires,pop_5,T25,F,1992,cat_4,1769.0,87.0
+503,Professions intermédiaires,pop_6,T50,F,1992,cat_4,258.0,11.0
+504,Employés,pop_1,T15,H,1992,cat_5,222.0,39.0
+505,Employés,pop_2,T25,H,1992,cat_5,971.0,77.0
+506,Employés,pop_3,T50,H,1992,cat_5,162.0,10.0
+507,Employés,pop_4,T15,F,1992,cat_5,732.0,126.0
+508,Employés,pop_5,T25,F,1992,cat_5,3364.0,387.0
+509,Employés,pop_6,T50,F,1992,cat_5,652.0,61.0
+510,Ouvriers qualifiés,pop_1,T15,H,1992,cat_6,322.0,36.0
+511,Ouvriers qualifiés,pop_2,T25,H,1992,cat_6,2537.0,177.0
+512,Ouvriers qualifiés,pop_3,T50,H,1992,cat_6,457.0,37.0
+513,Ouvriers qualifiés,pop_4,T15,F,1992,cat_6,42.0,7.0
+514,Ouvriers qualifiés,pop_5,T25,F,1992,cat_6,292.0,37.0
+515,Ouvriers qualifiés,pop_6,T50,F,1992,cat_6,61.0,9.0
+516,Ouvriers non qualifiés,pop_1,T15,H,1992,cat_7,452.0,61.0
+517,Ouvriers non qualifiés,pop_2,T25,H,1992,cat_7,947.0,160.0
+518,Ouvriers non qualifiés,pop_3,T50,H,1992,cat_7,206.0,36.0
+519,Ouvriers non qualifiés,pop_4,T15,F,1992,cat_7,154.0,31.0
+520,Ouvriers non qualifiés,pop_5,T25,F,1992,cat_7,556.0,142.0
+521,Ouvriers non qualifiés,pop_6,T50,F,1992,cat_7,120.0,22.0
+522,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,1992,cat_8,300.0,0.0
+523,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,1992,cat_8,28.0,0.0
+524,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,1992,cat_8,7.0,0.0
+525,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,1992,cat_8,6.0,0.0
+526,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,1992,cat_8,20.0,0.0
+527,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,1992,cat_8,6.0,0.0
+528,Agriculteurs exploitants,pop_1,T15,H,1993,cat_1,36.0,0.0
+529,Agriculteurs exploitants,pop_2,T25,H,1993,cat_1,304.0,3.0
+530,Agriculteurs exploitants,pop_3,T50,H,1993,cat_1,227.0,0.0
+531,Agriculteurs exploitants,pop_4,T15,F,1993,cat_1,7.0,0.0
+532,Agriculteurs exploitants,pop_5,T25,F,1993,cat_1,201.0,2.0
+533,Agriculteurs exploitants,pop_6,T50,F,1993,cat_1,168.0,1.0
+534,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,1993,cat_2,16.0,1.0
+535,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,1993,cat_2,799.0,43.0
+536,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,1993,cat_2,383.0,5.0
+537,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,1993,cat_2,25.0,0.0
+538,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,1993,cat_2,377.0,23.0
+539,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,1993,cat_2,174.0,4.0
+540,Cadres et professions intellectuelles supérieures,pop_1,T15,H,1993,cat_3,17.0,3.0
+541,Cadres et professions intellectuelles supérieures,pop_2,T25,H,1993,cat_3,1481.0,65.0
+542,Cadres et professions intellectuelles supérieures,pop_3,T50,H,1993,cat_3,417.0,15.0
+543,Cadres et professions intellectuelles supérieures,pop_4,T15,F,1993,cat_3,24.0,3.0
+544,Cadres et professions intellectuelles supérieures,pop_5,T25,F,1993,cat_3,637.0,60.0
+545,Cadres et professions intellectuelles supérieures,pop_6,T50,F,1993,cat_3,147.0,8.0
+546,Professions intermédiaires,pop_1,T15,H,1993,cat_4,194.0,18.0
+547,Professions intermédiaires,pop_2,T25,H,1993,cat_4,2190.0,131.0
+548,Professions intermédiaires,pop_3,T50,H,1993,cat_4,422.0,32.0
+549,Professions intermédiaires,pop_4,T15,F,1993,cat_4,212.0,12.0
+550,Professions intermédiaires,pop_5,T25,F,1993,cat_4,1873.0,101.0
+551,Professions intermédiaires,pop_6,T50,F,1993,cat_4,279.0,10.0
+552,Employés,pop_1,T15,H,1993,cat_5,235.0,41.0
+553,Employés,pop_2,T25,H,1993,cat_5,1046.0,88.0
+554,Employés,pop_3,T50,H,1993,cat_5,173.0,8.0
+555,Employés,pop_4,T15,F,1993,cat_5,688.0,135.0
+556,Employés,pop_5,T25,F,1993,cat_5,3488.0,438.0
+557,Employés,pop_6,T50,F,1993,cat_5,716.0,58.0
+558,Ouvriers qualifiés,pop_1,T15,H,1993,cat_6,268.0,46.0
+559,Ouvriers qualifiés,pop_2,T25,H,1993,cat_6,2517.0,226.0
+560,Ouvriers qualifiés,pop_3,T50,H,1993,cat_6,447.0,42.0
+561,Ouvriers qualifiés,pop_4,T15,F,1993,cat_6,29.0,10.0
+562,Ouvriers qualifiés,pop_5,T25,F,1993,cat_6,283.0,40.0
+563,Ouvriers qualifiés,pop_6,T50,F,1993,cat_6,55.0,10.0
+564,Ouvriers non qualifiés,pop_1,T15,H,1993,cat_7,388.0,66.0
+565,Ouvriers non qualifiés,pop_2,T25,H,1993,cat_7,882.0,165.0
+566,Ouvriers non qualifiés,pop_3,T50,H,1993,cat_7,185.0,26.0
+567,Ouvriers non qualifiés,pop_4,T15,F,1993,cat_7,136.0,28.0
+568,Ouvriers non qualifiés,pop_5,T25,F,1993,cat_7,511.0,127.0
+569,Ouvriers non qualifiés,pop_6,T50,F,1993,cat_7,107.0,17.0
+570,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,1993,cat_8,273.0,0.0
+571,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,1993,cat_8,28.0,0.0
+572,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,1993,cat_8,7.0,0.0
+573,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,1993,cat_8,6.0,0.0
+574,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,1993,cat_8,21.0,0.0
+575,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,1993,cat_8,6.0,0.0
+576,Agriculteurs exploitants,pop_1,T15,H,1994,cat_1,38.0,0.0
+577,Agriculteurs exploitants,pop_2,T25,H,1994,cat_1,294.0,1.0
+578,Agriculteurs exploitants,pop_3,T50,H,1994,cat_1,206.0,0.0
+579,Agriculteurs exploitants,pop_4,T15,F,1994,cat_1,3.0,0.0
+580,Agriculteurs exploitants,pop_5,T25,F,1994,cat_1,191.0,1.0
+581,Agriculteurs exploitants,pop_6,T50,F,1994,cat_1,147.0,1.0
+582,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,1994,cat_2,15.0,2.0
+583,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,1994,cat_2,814.0,33.0
+584,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,1994,cat_2,396.0,5.0
+585,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,1994,cat_2,24.0,1.0
+586,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,1994,cat_2,377.0,16.0
+587,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,1994,cat_2,183.0,4.0
+588,Cadres et professions intellectuelles supérieures,pop_1,T15,H,1994,cat_3,13.0,4.0
+589,Cadres et professions intellectuelles supérieures,pop_2,T25,H,1994,cat_3,1528.0,74.0
+590,Cadres et professions intellectuelles supérieures,pop_3,T50,H,1994,cat_3,435.0,17.0
+591,Cadres et professions intellectuelles supérieures,pop_4,T15,F,1994,cat_3,16.0,4.0
+592,Cadres et professions intellectuelles supérieures,pop_5,T25,F,1994,cat_3,666.0,63.0
+593,Cadres et professions intellectuelles supérieures,pop_6,T50,F,1994,cat_3,161.0,7.0
+594,Professions intermédiaires,pop_1,T15,H,1994,cat_4,156.0,23.0
+595,Professions intermédiaires,pop_2,T25,H,1994,cat_4,2195.0,154.0
+596,Professions intermédiaires,pop_3,T50,H,1994,cat_4,409.0,30.0
+597,Professions intermédiaires,pop_4,T15,F,1994,cat_4,180.0,17.0
+598,Professions intermédiaires,pop_5,T25,F,1994,cat_4,1855.0,122.0
+599,Professions intermédiaires,pop_6,T50,F,1994,cat_4,300.0,13.0
+600,Employés,pop_1,T15,H,1994,cat_5,227.0,46.0
+601,Employés,pop_2,T25,H,1994,cat_5,1077.0,92.0
+602,Employés,pop_3,T50,H,1994,cat_5,165.0,14.0
+603,Employés,pop_4,T15,F,1994,cat_5,648.0,129.0
+604,Employés,pop_5,T25,F,1994,cat_5,3559.0,481.0
+605,Employés,pop_6,T50,F,1994,cat_5,710.0,57.0
+606,Ouvriers qualifiés,pop_1,T15,H,1994,cat_6,244.0,42.0
+607,Ouvriers qualifiés,pop_2,T25,H,1994,cat_6,2533.0,273.0
+608,Ouvriers qualifiés,pop_3,T50,H,1994,cat_6,451.0,44.0
+609,Ouvriers qualifiés,pop_4,T15,F,1994,cat_6,28.0,10.0
+610,Ouvriers qualifiés,pop_5,T25,F,1994,cat_6,312.0,50.0
+611,Ouvriers qualifiés,pop_6,T50,F,1994,cat_6,62.0,9.0
+612,Ouvriers non qualifiés,pop_1,T15,H,1994,cat_7,370.0,56.0
+613,Ouvriers non qualifiés,pop_2,T25,H,1994,cat_7,823.0,172.0
+614,Ouvriers non qualifiés,pop_3,T50,H,1994,cat_7,158.0,24.0
+615,Ouvriers non qualifiés,pop_4,T15,F,1994,cat_7,120.0,19.0
+616,Ouvriers non qualifiés,pop_5,T25,F,1994,cat_7,497.0,131.0
+617,Ouvriers non qualifiés,pop_6,T50,F,1994,cat_7,111.0,16.0
+618,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,1994,cat_8,266.0,0.0
+619,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,1994,cat_8,28.0,0.0
+620,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,1994,cat_8,7.0,0.0
+621,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,1994,cat_8,5.0,0.0
+622,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,1994,cat_8,21.0,0.0
+623,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,1994,cat_8,7.0,0.0
+624,Agriculteurs exploitants,pop_1,T15,H,1995,cat_1,34.0,0.0
+625,Agriculteurs exploitants,pop_2,T25,H,1995,cat_1,290.0,2.0
+626,Agriculteurs exploitants,pop_3,T50,H,1995,cat_1,176.0,0.0
+627,Agriculteurs exploitants,pop_4,T15,F,1995,cat_1,3.0,0.0
+628,Agriculteurs exploitants,pop_5,T25,F,1995,cat_1,186.0,1.0
+629,Agriculteurs exploitants,pop_6,T50,F,1995,cat_1,132.0,1.0
+630,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,1995,cat_2,18.0,1.0
+631,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,1995,cat_2,791.0,36.0
+632,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,1995,cat_2,374.0,7.0
+633,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,1995,cat_2,18.0,1.0
+634,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,1995,cat_2,393.0,17.0
+635,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,1995,cat_2,177.0,4.0
+636,Cadres et professions intellectuelles supérieures,pop_1,T15,H,1995,cat_3,18.0,1.0
+637,Cadres et professions intellectuelles supérieures,pop_2,T25,H,1995,cat_3,1518.0,65.0
+638,Cadres et professions intellectuelles supérieures,pop_3,T50,H,1995,cat_3,460.0,22.0
+639,Cadres et professions intellectuelles supérieures,pop_4,T15,F,1995,cat_3,21.0,3.0
+640,Cadres et professions intellectuelles supérieures,pop_5,T25,F,1995,cat_3,702.0,59.0
+641,Cadres et professions intellectuelles supérieures,pop_6,T50,F,1995,cat_3,170.0,10.0
+642,Professions intermédiaires,pop_1,T15,H,1995,cat_4,150.0,18.0
+643,Professions intermédiaires,pop_2,T25,H,1995,cat_4,2227.0,150.0
+644,Professions intermédiaires,pop_3,T50,H,1995,cat_4,421.0,26.0
+645,Professions intermédiaires,pop_4,T15,F,1995,cat_4,177.0,17.0
+646,Professions intermédiaires,pop_5,T25,F,1995,cat_4,1890.0,110.0
+647,Professions intermédiaires,pop_6,T50,F,1995,cat_4,304.0,13.0
+648,Employés,pop_1,T15,H,1995,cat_5,228.0,37.0
+649,Employés,pop_2,T25,H,1995,cat_5,1100.0,103.0
+650,Employés,pop_3,T50,H,1995,cat_5,173.0,11.0
+651,Employés,pop_4,T15,F,1995,cat_5,627.0,118.0
+652,Employés,pop_5,T25,F,1995,cat_5,3632.0,481.0
+653,Employés,pop_6,T50,F,1995,cat_5,762.0,61.0
+654,Ouvriers qualifiés,pop_1,T15,H,1995,cat_6,203.0,28.0
+655,Ouvriers qualifiés,pop_2,T25,H,1995,cat_6,2597.0,230.0
+656,Ouvriers qualifiés,pop_3,T50,H,1995,cat_6,464.0,39.0
+657,Ouvriers qualifiés,pop_4,T15,F,1995,cat_6,32.0,11.0
+658,Ouvriers qualifiés,pop_5,T25,F,1995,cat_6,323.0,43.0
+659,Ouvriers qualifiés,pop_6,T50,F,1995,cat_6,67.0,9.0
+660,Ouvriers non qualifiés,pop_1,T15,H,1995,cat_7,408.0,50.0
+661,Ouvriers non qualifiés,pop_2,T25,H,1995,cat_7,852.0,157.0
+662,Ouvriers non qualifiés,pop_3,T50,H,1995,cat_7,155.0,27.0
+663,Ouvriers non qualifiés,pop_4,T15,F,1995,cat_7,134.0,19.0
+664,Ouvriers non qualifiés,pop_5,T25,F,1995,cat_7,472.0,128.0
+665,Ouvriers non qualifiés,pop_6,T50,F,1995,cat_7,107.0,13.0
+666,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,1995,cat_8,265.0,0.0
+667,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,1995,cat_8,28.0,0.0
+668,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,1995,cat_8,7.0,0.0
+669,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,1995,cat_8,5.0,0.0
+670,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,1995,cat_8,21.0,0.0
+671,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,1995,cat_8,7.0,0.0
+672,Agriculteurs exploitants,pop_1,T15,H,1996,cat_1,31.0,0.0
+673,Agriculteurs exploitants,pop_2,T25,H,1996,cat_1,279.0,1.0
+674,Agriculteurs exploitants,pop_3,T50,H,1996,cat_1,175.0,0.0
+675,Agriculteurs exploitants,pop_4,T15,F,1996,cat_1,3.0,0.0
+676,Agriculteurs exploitants,pop_5,T25,F,1996,cat_1,181.0,1.0
+677,Agriculteurs exploitants,pop_6,T50,F,1996,cat_1,117.0,1.0
+678,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,1996,cat_2,14.0,3.0
+679,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,1996,cat_2,794.0,33.0
+680,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,1996,cat_2,384.0,9.0
+681,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,1996,cat_2,17.0,1.0
+682,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,1996,cat_2,351.0,19.0
+683,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,1996,cat_2,165.0,3.0
+684,Cadres et professions intellectuelles supérieures,pop_1,T15,H,1996,cat_3,6.0,3.0
+685,Cadres et professions intellectuelles supérieures,pop_2,T25,H,1996,cat_3,1487.0,55.0
+686,Cadres et professions intellectuelles supérieures,pop_3,T50,H,1996,cat_3,506.0,21.0
+687,Cadres et professions intellectuelles supérieures,pop_4,T15,F,1996,cat_3,17.0,1.0
+688,Cadres et professions intellectuelles supérieures,pop_5,T25,F,1996,cat_3,719.0,64.0
+689,Cadres et professions intellectuelles supérieures,pop_6,T50,F,1996,cat_3,198.0,9.0
+690,Professions intermédiaires,pop_1,T15,H,1996,cat_4,150.0,19.0
+691,Professions intermédiaires,pop_2,T25,H,1996,cat_4,2210.0,143.0
+692,Professions intermédiaires,pop_3,T50,H,1996,cat_4,425.0,33.0
+693,Professions intermédiaires,pop_4,T15,F,1996,cat_4,171.0,12.0
+694,Professions intermédiaires,pop_5,T25,F,1996,cat_4,1896.0,125.0
+695,Professions intermédiaires,pop_6,T50,F,1996,cat_4,320.0,16.0
+696,Employés,pop_1,T15,H,1996,cat_5,212.0,40.0
+697,Employés,pop_2,T25,H,1996,cat_5,1096.0,108.0
+698,Employés,pop_3,T50,H,1996,cat_5,174.0,12.0
+699,Employés,pop_4,T15,F,1996,cat_5,603.0,104.0
+700,Employés,pop_5,T25,F,1996,cat_5,3764.0,500.0
+701,Employés,pop_6,T50,F,1996,cat_5,780.0,69.0
+702,Ouvriers qualifiés,pop_1,T15,H,1996,cat_6,208.0,40.0
+703,Ouvriers qualifiés,pop_2,T25,H,1996,cat_6,2656.0,269.0
+704,Ouvriers qualifiés,pop_3,T50,H,1996,cat_6,477.0,45.0
+705,Ouvriers qualifiés,pop_4,T15,F,1996,cat_6,30.0,9.0
+706,Ouvriers qualifiés,pop_5,T25,F,1996,cat_6,327.0,51.0
+707,Ouvriers qualifiés,pop_6,T50,F,1996,cat_6,82.0,8.0
+708,Ouvriers non qualifiés,pop_1,T15,H,1996,cat_7,404.0,51.0
+709,Ouvriers non qualifiés,pop_2,T25,H,1996,cat_7,849.0,179.0
+710,Ouvriers non qualifiés,pop_3,T50,H,1996,cat_7,161.0,32.0
+711,Ouvriers non qualifiés,pop_4,T15,F,1996,cat_7,119.0,26.0
+712,Ouvriers non qualifiés,pop_5,T25,F,1996,cat_7,461.0,117.0
+713,Ouvriers non qualifiés,pop_6,T50,F,1996,cat_7,95.0,16.0
+714,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,1996,cat_8,267.0,0.0
+715,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,1996,cat_8,28.0,0.0
+716,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,1996,cat_8,7.0,0.0
+717,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,1996,cat_8,5.0,0.0
+718,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,1996,cat_8,22.0,0.0
+719,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,1996,cat_8,7.0,0.0
+720,Agriculteurs exploitants,pop_1,T15,H,1997,cat_1,31.0,0.0
+721,Agriculteurs exploitants,pop_2,T25,H,1997,cat_1,277.0,2.0
+722,Agriculteurs exploitants,pop_3,T50,H,1997,cat_1,155.0,1.0
+723,Agriculteurs exploitants,pop_4,T15,F,1997,cat_1,2.0,0.0
+724,Agriculteurs exploitants,pop_5,T25,F,1997,cat_1,177.0,0.0
+725,Agriculteurs exploitants,pop_6,T50,F,1997,cat_1,100.0,0.0
+726,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,1997,cat_2,15.0,1.0
+727,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,1997,cat_2,780.0,41.0
+728,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,1997,cat_2,396.0,10.0
+729,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,1997,cat_2,16.0,1.0
+730,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,1997,cat_2,343.0,15.0
+731,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,1997,cat_2,168.0,5.0
+732,Cadres et professions intellectuelles supérieures,pop_1,T15,H,1997,cat_3,15.0,2.0
+733,Cadres et professions intellectuelles supérieures,pop_2,T25,H,1997,cat_3,1488.0,61.0
+734,Cadres et professions intellectuelles supérieures,pop_3,T50,H,1997,cat_3,531.0,22.0
+735,Cadres et professions intellectuelles supérieures,pop_4,T15,F,1997,cat_3,22.0,2.0
+736,Cadres et professions intellectuelles supérieures,pop_5,T25,F,1997,cat_3,692.0,71.0
+737,Cadres et professions intellectuelles supérieures,pop_6,T50,F,1997,cat_3,208.0,10.0
+738,Professions intermédiaires,pop_1,T15,H,1997,cat_4,136.0,17.0
+739,Professions intermédiaires,pop_2,T25,H,1997,cat_4,2182.0,152.0
+740,Professions intermédiaires,pop_3,T50,H,1997,cat_4,455.0,31.0
+741,Professions intermédiaires,pop_4,T15,F,1997,cat_4,164.0,15.0
+742,Professions intermédiaires,pop_5,T25,F,1997,cat_4,1908.0,129.0
+743,Professions intermédiaires,pop_6,T50,F,1997,cat_4,355.0,12.0
+744,Employés,pop_1,T15,H,1997,cat_5,210.0,36.0
+745,Employés,pop_2,T25,H,1997,cat_5,1123.0,104.0
+746,Employés,pop_3,T50,H,1997,cat_5,179.0,15.0
+747,Employés,pop_4,T15,F,1997,cat_5,557.0,92.0
+748,Employés,pop_5,T25,F,1997,cat_5,3738.0,489.0
+749,Employés,pop_6,T50,F,1997,cat_5,832.0,75.0
+750,Ouvriers qualifiés,pop_1,T15,H,1997,cat_6,183.0,34.0
+751,Ouvriers qualifiés,pop_2,T25,H,1997,cat_6,2647.0,270.0
+752,Ouvriers qualifiés,pop_3,T50,H,1997,cat_6,482.0,43.0
+753,Ouvriers qualifiés,pop_4,T15,F,1997,cat_6,28.0,7.0
+754,Ouvriers qualifiés,pop_5,T25,F,1997,cat_6,326.0,57.0
+755,Ouvriers qualifiés,pop_6,T50,F,1997,cat_6,62.0,11.0
+756,Ouvriers non qualifiés,pop_1,T15,H,1997,cat_7,393.0,59.0
+757,Ouvriers non qualifiés,pop_2,T25,H,1997,cat_7,822.0,185.0
+758,Ouvriers non qualifiés,pop_3,T50,H,1997,cat_7,172.0,38.0
+759,Ouvriers non qualifiés,pop_4,T15,F,1997,cat_7,117.0,18.0
+760,Ouvriers non qualifiés,pop_5,T25,F,1997,cat_7,471.0,116.0
+761,Ouvriers non qualifiés,pop_6,T50,F,1997,cat_7,100.0,20.0
+762,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,1997,cat_8,236.0,0.0
+763,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,1997,cat_8,28.0,0.0
+764,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,1997,cat_8,7.0,0.0
+765,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,1997,cat_8,4.0,0.0
+766,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,1997,cat_8,22.0,0.0
+767,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,1997,cat_8,7.0,0.0
+768,Agriculteurs exploitants,pop_1,T15,H,1998,cat_1,21.0,0.0
+769,Agriculteurs exploitants,pop_2,T25,H,1998,cat_1,267.0,2.0
+770,Agriculteurs exploitants,pop_3,T50,H,1998,cat_1,150.0,1.0
+771,Agriculteurs exploitants,pop_4,T15,F,1998,cat_1,2.0,0.0
+772,Agriculteurs exploitants,pop_5,T25,F,1998,cat_1,159.0,0.0
+773,Agriculteurs exploitants,pop_6,T50,F,1998,cat_1,91.0,0.0
+774,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,1998,cat_2,14.0,2.0
+775,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,1998,cat_2,766.0,35.0
+776,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,1998,cat_2,398.0,10.0
+777,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,1998,cat_2,17.0,1.0
+778,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,1998,cat_2,329.0,16.0
+779,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,1998,cat_2,172.0,4.0
+780,Cadres et professions intellectuelles supérieures,pop_1,T15,H,1998,cat_3,17.0,2.0
+781,Cadres et professions intellectuelles supérieures,pop_2,T25,H,1998,cat_3,1479.0,51.0
+782,Cadres et professions intellectuelles supérieures,pop_3,T50,H,1998,cat_3,549.0,25.0
+783,Cadres et professions intellectuelles supérieures,pop_4,T15,F,1998,cat_3,23.0,2.0
+784,Cadres et professions intellectuelles supérieures,pop_5,T25,F,1998,cat_3,710.0,62.0
+785,Cadres et professions intellectuelles supérieures,pop_6,T50,F,1998,cat_3,243.0,11.0
+786,Professions intermédiaires,pop_1,T15,H,1998,cat_4,137.0,18.0
+787,Professions intermédiaires,pop_2,T25,H,1998,cat_4,2171.0,152.0
+788,Professions intermédiaires,pop_3,T50,H,1998,cat_4,472.0,32.0
+789,Professions intermédiaires,pop_4,T15,F,1998,cat_4,186.0,12.0
+790,Professions intermédiaires,pop_5,T25,F,1998,cat_4,1911.0,119.0
+791,Professions intermédiaires,pop_6,T50,F,1998,cat_4,386.0,15.0
+792,Employés,pop_1,T15,H,1998,cat_5,208.0,33.0
+793,Employés,pop_2,T25,H,1998,cat_5,1156.0,115.0
+794,Employés,pop_3,T50,H,1998,cat_5,189.0,14.0
+795,Employés,pop_4,T15,F,1998,cat_5,542.0,81.0
+796,Employés,pop_5,T25,F,1998,cat_5,3791.0,510.0
+797,Employés,pop_6,T50,F,1998,cat_5,849.0,80.0
+798,Ouvriers qualifiés,pop_1,T15,H,1998,cat_6,196.0,29.0
+799,Ouvriers qualifiés,pop_2,T25,H,1998,cat_6,2624.0,226.0
+800,Ouvriers qualifiés,pop_3,T50,H,1998,cat_6,519.0,47.0
+801,Ouvriers qualifiés,pop_4,T15,F,1998,cat_6,32.0,10.0
+802,Ouvriers qualifiés,pop_5,T25,F,1998,cat_6,335.0,54.0
+803,Ouvriers qualifiés,pop_6,T50,F,1998,cat_6,65.0,12.0
+804,Ouvriers non qualifiés,pop_1,T15,H,1998,cat_7,408.0,50.0
+805,Ouvriers non qualifiés,pop_2,T25,H,1998,cat_7,852.0,172.0
+806,Ouvriers non qualifiés,pop_3,T50,H,1998,cat_7,175.0,41.0
+807,Ouvriers non qualifiés,pop_4,T15,F,1998,cat_7,132.0,22.0
+808,Ouvriers non qualifiés,pop_5,T25,F,1998,cat_7,478.0,120.0
+809,Ouvriers non qualifiés,pop_6,T50,F,1998,cat_7,110.0,19.0
+810,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,1998,cat_8,212.0,0.0
+811,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,1998,cat_8,28.0,0.0
+812,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,1998,cat_8,8.0,0.0
+813,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,1998,cat_8,5.0,0.0
+814,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,1998,cat_8,22.0,0.0
+815,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,1998,cat_8,8.0,0.0
+816,Agriculteurs exploitants,pop_1,T15,H,1999,cat_1,23.0,0.0
+817,Agriculteurs exploitants,pop_2,T25,H,1999,cat_1,261.0,1.0
+818,Agriculteurs exploitants,pop_3,T50,H,1999,cat_1,146.0,1.0
+819,Agriculteurs exploitants,pop_4,T15,F,1999,cat_1,2.0,0.0
+820,Agriculteurs exploitants,pop_5,T25,F,1999,cat_1,153.0,1.0
+821,Agriculteurs exploitants,pop_6,T50,F,1999,cat_1,93.0,0.0
+822,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,1999,cat_2,13.0,2.0
+823,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,1999,cat_2,752.0,27.0
+824,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,1999,cat_2,418.0,10.0
+825,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,1999,cat_2,15.0,1.0
+826,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,1999,cat_2,302.0,20.0
+827,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,1999,cat_2,185.0,3.0
+828,Cadres et professions intellectuelles supérieures,pop_1,T15,H,1999,cat_3,15.0,1.0
+829,Cadres et professions intellectuelles supérieures,pop_2,T25,H,1999,cat_3,1503.0,51.0
+830,Cadres et professions intellectuelles supérieures,pop_3,T50,H,1999,cat_3,582.0,22.0
+831,Cadres et professions intellectuelles supérieures,pop_4,T15,F,1999,cat_3,22.0,2.0
+832,Cadres et professions intellectuelles supérieures,pop_5,T25,F,1999,cat_3,725.0,64.0
+833,Cadres et professions intellectuelles supérieures,pop_6,T50,F,1999,cat_3,270.0,13.0
+834,Professions intermédiaires,pop_1,T15,H,1999,cat_4,172.0,12.0
+835,Professions intermédiaires,pop_2,T25,H,1999,cat_4,2164.0,125.0
+836,Professions intermédiaires,pop_3,T50,H,1999,cat_4,476.0,33.0
+837,Professions intermédiaires,pop_4,T15,F,1999,cat_4,185.0,10.0
+838,Professions intermédiaires,pop_5,T25,F,1999,cat_4,1945.0,120.0
+839,Professions intermédiaires,pop_6,T50,F,1999,cat_4,401.0,19.0
+840,Employés,pop_1,T15,H,1999,cat_5,228.0,36.0
+841,Employés,pop_2,T25,H,1999,cat_5,1131.0,116.0
+842,Employés,pop_3,T50,H,1999,cat_5,223.0,21.0
+843,Employés,pop_4,T15,F,1999,cat_5,553.0,70.0
+844,Employés,pop_5,T25,F,1999,cat_5,3797.0,485.0
+845,Employés,pop_6,T50,F,1999,cat_5,929.0,82.0
+846,Ouvriers qualifiés,pop_1,T15,H,1999,cat_6,214.0,27.0
+847,Ouvriers qualifiés,pop_2,T25,H,1999,cat_6,2607.0,224.0
+848,Ouvriers qualifiés,pop_3,T50,H,1999,cat_6,553.0,48.0
+849,Ouvriers qualifiés,pop_4,T15,F,1999,cat_6,32.0,9.0
+850,Ouvriers qualifiés,pop_5,T25,F,1999,cat_6,331.0,53.0
+851,Ouvriers qualifiés,pop_6,T50,F,1999,cat_6,76.0,10.0
+852,Ouvriers non qualifiés,pop_1,T15,H,1999,cat_7,413.0,63.0
+853,Ouvriers non qualifiés,pop_2,T25,H,1999,cat_7,876.0,180.0
+854,Ouvriers non qualifiés,pop_3,T50,H,1999,cat_7,170.0,40.0
+855,Ouvriers non qualifiés,pop_4,T15,F,1999,cat_7,115.0,25.0
+856,Ouvriers non qualifiés,pop_5,T25,F,1999,cat_7,490.0,122.0
+857,Ouvriers non qualifiés,pop_6,T50,F,1999,cat_7,116.0,22.0
+858,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,1999,cat_8,148.0,0.0
+859,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,1999,cat_8,28.0,0.0
+860,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,1999,cat_8,8.0,0.0
+861,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,1999,cat_8,5.0,0.0
+862,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,1999,cat_8,22.0,0.0
+863,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,1999,cat_8,8.0,0.0
+864,Agriculteurs exploitants,pop_1,T15,H,2000,cat_1,21.0,0.0
+865,Agriculteurs exploitants,pop_2,T25,H,2000,cat_1,244.0,1.0
+866,Agriculteurs exploitants,pop_3,T50,H,2000,cat_1,147.0,0.0
+867,Agriculteurs exploitants,pop_4,T15,F,2000,cat_1,2.0,0.0
+868,Agriculteurs exploitants,pop_5,T25,F,2000,cat_1,132.0,0.0
+869,Agriculteurs exploitants,pop_6,T50,F,2000,cat_1,91.0,1.0
+870,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,2000,cat_2,16.0,0.0
+871,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,2000,cat_2,708.0,30.0
+872,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,2000,cat_2,417.0,10.0
+873,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,2000,cat_2,14.0,0.0
+874,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,2000,cat_2,298.0,16.0
+875,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,2000,cat_2,163.0,3.0
+876,Cadres et professions intellectuelles supérieures,pop_1,T15,H,2000,cat_3,23.0,1.0
+877,Cadres et professions intellectuelles supérieures,pop_2,T25,H,2000,cat_3,1520.0,44.0
+878,Cadres et professions intellectuelles supérieures,pop_3,T50,H,2000,cat_3,640.0,21.0
+879,Cadres et professions intellectuelles supérieures,pop_4,T15,F,2000,cat_3,23.0,1.0
+880,Cadres et professions intellectuelles supérieures,pop_5,T25,F,2000,cat_3,758.0,54.0
+881,Cadres et professions intellectuelles supérieures,pop_6,T50,F,2000,cat_3,295.0,11.0
+882,Professions intermédiaires,pop_1,T15,H,2000,cat_4,194.0,14.0
+883,Professions intermédiaires,pop_2,T25,H,2000,cat_4,2157.0,120.0
+884,Professions intermédiaires,pop_3,T50,H,2000,cat_4,484.0,29.0
+885,Professions intermédiaires,pop_4,T15,F,2000,cat_4,226.0,6.0
+886,Professions intermédiaires,pop_5,T25,F,2000,cat_4,1982.0,97.0
+887,Professions intermédiaires,pop_6,T50,F,2000,cat_4,433.0,16.0
+888,Employés,pop_1,T15,H,2000,cat_5,250.0,34.0
+889,Employés,pop_2,T25,H,2000,cat_5,1146.0,84.0
+890,Employés,pop_3,T50,H,2000,cat_5,227.0,20.0
+891,Employés,pop_4,T15,F,2000,cat_5,599.0,63.0
+892,Employés,pop_5,T25,F,2000,cat_5,3829.0,452.0
+893,Employés,pop_6,T50,F,2000,cat_5,1001.0,74.0
+894,Ouvriers qualifiés,pop_1,T15,H,2000,cat_6,245.0,21.0
+895,Ouvriers qualifiés,pop_2,T25,H,2000,cat_6,2683.0,179.0
+896,Ouvriers qualifiés,pop_3,T50,H,2000,cat_6,589.0,38.0
+897,Ouvriers qualifiés,pop_4,T15,F,2000,cat_6,32.0,10.0
+898,Ouvriers qualifiés,pop_5,T25,F,2000,cat_6,331.0,46.0
+899,Ouvriers qualifiés,pop_6,T50,F,2000,cat_6,74.0,12.0
+900,Ouvriers non qualifiés,pop_1,T15,H,2000,cat_7,444.0,50.0
+901,Ouvriers non qualifiés,pop_2,T25,H,2000,cat_7,942.0,154.0
+902,Ouvriers non qualifiés,pop_3,T50,H,2000,cat_7,188.0,31.0
+903,Ouvriers non qualifiés,pop_4,T15,F,2000,cat_7,131.0,23.0
+904,Ouvriers non qualifiés,pop_5,T25,F,2000,cat_7,534.0,109.0
+905,Ouvriers non qualifiés,pop_6,T50,F,2000,cat_7,120.0,21.0
+906,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,2000,cat_8,124.0,0.0
+907,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,2000,cat_8,28.0,0.0
+908,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,2000,cat_8,8.0,0.0
+909,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,2000,cat_8,5.0,0.0
+910,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,2000,cat_8,22.0,0.0
+911,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,2000,cat_8,9.0,0.0
+912,Agriculteurs exploitants,pop_1,T15,H,2001,cat_1,18.0,0.0
+913,Agriculteurs exploitants,pop_2,T25,H,2001,cat_1,231.0,1.0
+914,Agriculteurs exploitants,pop_3,T50,H,2001,cat_1,153.0,0.0
+915,Agriculteurs exploitants,pop_4,T15,F,2001,cat_1,2.0,0.0
+916,Agriculteurs exploitants,pop_5,T25,F,2001,cat_1,129.0,2.0
+917,Agriculteurs exploitants,pop_6,T50,F,2001,cat_1,91.0,1.0
+918,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,2001,cat_2,13.0,1.0
+919,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,2001,cat_2,677.0,22.0
+920,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,2001,cat_2,411.0,10.0
+921,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,2001,cat_2,15.0,1.0
+922,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,2001,cat_2,272.0,14.0
+923,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,2001,cat_2,167.0,3.0
+924,Cadres et professions intellectuelles supérieures,pop_1,T15,H,2001,cat_3,28.0,2.0
+925,Cadres et professions intellectuelles supérieures,pop_2,T25,H,2001,cat_3,1590.0,42.0
+926,Cadres et professions intellectuelles supérieures,pop_3,T50,H,2001,cat_3,664.0,19.0
+927,Cadres et professions intellectuelles supérieures,pop_4,T15,F,2001,cat_3,30.0,1.0
+928,Cadres et professions intellectuelles supérieures,pop_5,T25,F,2001,cat_3,804.0,49.0
+929,Cadres et professions intellectuelles supérieures,pop_6,T50,F,2001,cat_3,306.0,9.0
+930,Professions intermédiaires,pop_1,T15,H,2001,cat_4,202.0,14.0
+931,Professions intermédiaires,pop_2,T25,H,2001,cat_4,2151.0,97.0
+932,Professions intermédiaires,pop_3,T50,H,2001,cat_4,537.0,22.0
+933,Professions intermédiaires,pop_4,T15,F,2001,cat_4,231.0,7.0
+934,Professions intermédiaires,pop_5,T25,F,2001,cat_4,2034.0,102.0
+935,Professions intermédiaires,pop_6,T50,F,2001,cat_4,451.0,14.0
+936,Employés,pop_1,T15,H,2001,cat_5,255.0,29.0
+937,Employés,pop_2,T25,H,2001,cat_5,1206.0,88.0
+938,Employés,pop_3,T50,H,2001,cat_5,239.0,13.0
+939,Employés,pop_4,T15,F,2001,cat_5,610.0,69.0
+940,Employés,pop_5,T25,F,2001,cat_5,3814.0,396.0
+941,Employés,pop_6,T50,F,2001,cat_5,1054.0,74.0
+942,Ouvriers qualifiés,pop_1,T15,H,2001,cat_6,276.0,17.0
+943,Ouvriers qualifiés,pop_2,T25,H,2001,cat_6,2630.0,166.0
+944,Ouvriers qualifiés,pop_3,T50,H,2001,cat_6,614.0,36.0
+945,Ouvriers qualifiés,pop_4,T15,F,2001,cat_6,39.0,7.0
+946,Ouvriers qualifiés,pop_5,T25,F,2001,cat_6,359.0,44.0
+947,Ouvriers qualifiés,pop_6,T50,F,2001,cat_6,84.0,12.0
+948,Ouvriers non qualifiés,pop_1,T15,H,2001,cat_7,469.0,61.0
+949,Ouvriers non qualifiés,pop_2,T25,H,2001,cat_7,918.0,130.0
+950,Ouvriers non qualifiés,pop_3,T50,H,2001,cat_7,208.0,30.0
+951,Ouvriers non qualifiés,pop_4,T15,F,2001,cat_7,119.0,20.0
+952,Ouvriers non qualifiés,pop_5,T25,F,2001,cat_7,534.0,105.0
+953,Ouvriers non qualifiés,pop_6,T50,F,2001,cat_7,130.0,16.0
+954,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,2001,cat_8,68.0,0.0
+955,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,2001,cat_8,28.0,0.0
+956,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,2001,cat_8,9.0,0.0
+957,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,2001,cat_8,5.0,0.0
+958,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,2001,cat_8,22.0,0.0
+959,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,2001,cat_8,9.0,0.0
+960,Agriculteurs exploitants,pop_1,T15,H,2002,cat_1,16.0,0.0
+961,Agriculteurs exploitants,pop_2,T25,H,2002,cat_1,233.0,0.0
+962,Agriculteurs exploitants,pop_3,T50,H,2002,cat_1,174.0,0.0
+963,Agriculteurs exploitants,pop_4,T15,F,2002,cat_1,1.0,0.0
+964,Agriculteurs exploitants,pop_5,T25,F,2002,cat_1,128.0,0.0
+965,Agriculteurs exploitants,pop_6,T50,F,2002,cat_1,99.0,0.0
+966,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,2002,cat_2,13.0,0.0
+967,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,2002,cat_2,662.0,18.0
+968,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,2002,cat_2,419.0,9.0
+969,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,2002,cat_2,12.0,1.0
+970,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,2002,cat_2,266.0,13.0
+971,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,2002,cat_2,164.0,5.0
+972,Cadres et professions intellectuelles supérieures,pop_1,T15,H,2002,cat_3,35.0,3.0
+973,Cadres et professions intellectuelles supérieures,pop_2,T25,H,2002,cat_3,1582.0,59.0
+974,Cadres et professions intellectuelles supérieures,pop_3,T50,H,2002,cat_3,709.0,22.0
+975,Cadres et professions intellectuelles supérieures,pop_4,T15,F,2002,cat_3,29.0,2.0
+976,Cadres et professions intellectuelles supérieures,pop_5,T25,F,2002,cat_3,886.0,54.0
+977,Cadres et professions intellectuelles supérieures,pop_6,T50,F,2002,cat_3,330.0,8.0
+978,Professions intermédiaires,pop_1,T15,H,2002,cat_4,216.0,17.0
+979,Professions intermédiaires,pop_2,T25,H,2002,cat_4,2193.0,116.0
+980,Professions intermédiaires,pop_3,T50,H,2002,cat_4,563.0,30.0
+981,Professions intermédiaires,pop_4,T15,F,2002,cat_4,225.0,12.0
+982,Professions intermédiaires,pop_5,T25,F,2002,cat_4,2037.0,106.0
+983,Professions intermédiaires,pop_6,T50,F,2002,cat_4,493.0,18.0
+984,Employés,pop_1,T15,H,2002,cat_5,279.0,32.0
+985,Employés,pop_2,T25,H,2002,cat_5,1201.0,92.0
+986,Employés,pop_3,T50,H,2002,cat_5,249.0,15.0
+987,Employés,pop_4,T15,F,2002,cat_5,654.0,68.0
+988,Employés,pop_5,T25,F,2002,cat_5,3828.0,369.0
+989,Employés,pop_6,T50,F,2002,cat_5,1113.0,71.0
+990,Ouvriers qualifiés,pop_1,T15,H,2002,cat_6,285.0,31.0
+991,Ouvriers qualifiés,pop_2,T25,H,2002,cat_6,2565.0,157.0
+992,Ouvriers qualifiés,pop_3,T50,H,2002,cat_6,655.0,45.0
+993,Ouvriers qualifiés,pop_4,T15,F,2002,cat_6,36.0,8.0
+994,Ouvriers qualifiés,pop_5,T25,F,2002,cat_6,320.0,37.0
+995,Ouvriers qualifiés,pop_6,T50,F,2002,cat_6,89.0,11.0
+996,Ouvriers non qualifiés,pop_1,T15,H,2002,cat_7,451.0,59.0
+997,Ouvriers non qualifiés,pop_2,T25,H,2002,cat_7,875.0,137.0
+998,Ouvriers non qualifiés,pop_3,T50,H,2002,cat_7,196.0,27.0
+999,Ouvriers non qualifiés,pop_4,T15,F,2002,cat_7,109.0,19.0
+1000,Ouvriers non qualifiés,pop_5,T25,F,2002,cat_7,522.0,100.0
+1001,Ouvriers non qualifiés,pop_6,T50,F,2002,cat_7,129.0,18.0
+1002,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,2002,cat_8,50.0,0.0
+1003,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,2002,cat_8,28.0,0.0
+1004,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,2002,cat_8,9.0,0.0
+1005,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,2002,cat_8,5.0,0.0
+1006,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,2002,cat_8,22.0,0.0
+1007,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,2002,cat_8,9.0,0.0
+1008,Agriculteurs exploitants,pop_1,T15,H,2003,cat_1,20.0,0.0
+1009,Agriculteurs exploitants,pop_2,T25,H,2003,cat_1,288.0,0.0
+1010,Agriculteurs exploitants,pop_3,T50,H,2003,cat_1,198.0,0.0
+1011,Agriculteurs exploitants,pop_4,T15,F,2003,cat_1,0.0,0.0
+1012,Agriculteurs exploitants,pop_5,T25,F,2003,cat_1,118.0,0.0
+1013,Agriculteurs exploitants,pop_6,T50,F,2003,cat_1,114.0,0.0
+1014,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,2003,cat_2,13.0,2.0
+1015,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,2003,cat_2,677.0,29.0
+1016,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,2003,cat_2,419.0,9.0
+1017,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,2003,cat_2,11.0,0.0
+1018,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,2003,cat_2,270.0,19.0
+1019,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,2003,cat_2,197.0,4.0
+1020,Cadres et professions intellectuelles supérieures,pop_1,T15,H,2003,cat_3,40.0,3.0
+1021,Cadres et professions intellectuelles supérieures,pop_2,T25,H,2003,cat_3,1618.0,64.0
+1022,Cadres et professions intellectuelles supérieures,pop_3,T50,H,2003,cat_3,732.0,20.0
+1023,Cadres et professions intellectuelles supérieures,pop_4,T15,F,2003,cat_3,39.0,1.0
+1024,Cadres et professions intellectuelles supérieures,pop_5,T25,F,2003,cat_3,936.0,51.0
+1025,Cadres et professions intellectuelles supérieures,pop_6,T50,F,2003,cat_3,327.0,11.0
+1026,Professions intermédiaires,pop_1,T15,H,2003,cat_4,213.0,15.0
+1027,Professions intermédiaires,pop_2,T25,H,2003,cat_4,2136.0,99.0
+1028,Professions intermédiaires,pop_3,T50,H,2003,cat_4,602.0,32.0
+1029,Professions intermédiaires,pop_4,T15,F,2003,cat_4,209.0,16.0
+1030,Professions intermédiaires,pop_5,T25,F,2003,cat_4,2029.0,111.0
+1031,Professions intermédiaires,pop_6,T50,F,2003,cat_4,520.0,19.0
+1032,Employés,pop_1,T15,H,2003,cat_5,260.0,34.0
+1033,Employés,pop_2,T25,H,2003,cat_5,1190.0,111.0
+1034,Employés,pop_3,T50,H,2003,cat_5,275.0,19.0
+1035,Employés,pop_4,T15,F,2003,cat_5,652.0,91.0
+1036,Employés,pop_5,T25,F,2003,cat_5,3802.0,387.0
+1037,Employés,pop_6,T50,F,2003,cat_5,1207.0,81.0
+1038,Ouvriers qualifiés,pop_1,T15,H,2003,cat_6,361.0,36.0
+1039,Ouvriers qualifiés,pop_2,T25,H,2003,cat_6,2479.0,171.0
+1040,Ouvriers qualifiés,pop_3,T50,H,2003,cat_6,660.0,47.0
+1041,Ouvriers qualifiés,pop_4,T15,F,2003,cat_6,46.0,4.0
+1042,Ouvriers qualifiés,pop_5,T25,F,2003,cat_6,290.0,45.0
+1043,Ouvriers qualifiés,pop_6,T50,F,2003,cat_6,92.0,8.0
+1044,Ouvriers non qualifiés,pop_1,T15,H,2003,cat_7,395.0,68.0
+1045,Ouvriers non qualifiés,pop_2,T25,H,2003,cat_7,793.0,157.0
+1046,Ouvriers non qualifiés,pop_3,T50,H,2003,cat_7,173.0,32.0
+1047,Ouvriers non qualifiés,pop_4,T15,F,2003,cat_7,90.0,21.0
+1048,Ouvriers non qualifiés,pop_5,T25,F,2003,cat_7,483.0,110.0
+1049,Ouvriers non qualifiés,pop_6,T50,F,2003,cat_7,147.0,22.0
+1050,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,2003,cat_8,7.0,0.0
+1051,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,2003,cat_8,28.0,0.0
+1052,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,2003,cat_8,10.0,0.0
+1053,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,2003,cat_8,5.0,0.0
+1054,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,2003,cat_8,22.0,0.0
+1055,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,2003,cat_8,10.0,0.0
+1056,Agriculteurs exploitants,pop_1,T15,H,2004,cat_1,12.0,0.0
+1057,Agriculteurs exploitants,pop_2,T25,H,2004,cat_1,244.0,1.0
+1058,Agriculteurs exploitants,pop_3,T50,H,2004,cat_1,180.0,1.0
+1059,Agriculteurs exploitants,pop_4,T15,F,2004,cat_1,1.0,0.0
+1060,Agriculteurs exploitants,pop_5,T25,F,2004,cat_1,115.0,1.0
+1061,Agriculteurs exploitants,pop_6,T50,F,2004,cat_1,104.0,0.0
+1062,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,2004,cat_2,11.0,2.0
+1063,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,2004,cat_2,657.0,27.0
+1064,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,2004,cat_2,418.0,14.0
+1065,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,2004,cat_2,12.0,1.0
+1066,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,2004,cat_2,257.0,19.0
+1067,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,2004,cat_2,177.0,5.0
+1068,Cadres et professions intellectuelles supérieures,pop_1,T15,H,2004,cat_3,44.0,2.0
+1069,Cadres et professions intellectuelles supérieures,pop_2,T25,H,2004,cat_3,1640.0,68.0
+1070,Cadres et professions intellectuelles supérieures,pop_3,T50,H,2004,cat_3,732.0,28.0
+1071,Cadres et professions intellectuelles supérieures,pop_4,T15,F,2004,cat_3,36.0,2.0
+1072,Cadres et professions intellectuelles supérieures,pop_5,T25,F,2004,cat_3,967.0,55.0
+1073,Cadres et professions intellectuelles supérieures,pop_6,T50,F,2004,cat_3,363.0,10.0
+1074,Professions intermédiaires,pop_1,T15,H,2004,cat_4,208.0,19.0
+1075,Professions intermédiaires,pop_2,T25,H,2004,cat_4,2139.0,117.0
+1076,Professions intermédiaires,pop_3,T50,H,2004,cat_4,624.0,31.0
+1077,Professions intermédiaires,pop_4,T15,F,2004,cat_4,223.0,17.0
+1078,Professions intermédiaires,pop_5,T25,F,2004,cat_4,2054.0,124.0
+1079,Professions intermédiaires,pop_6,T50,F,2004,cat_4,555.0,24.0
+1080,Employés,pop_1,T15,H,2004,cat_5,266.0,34.0
+1081,Employés,pop_2,T25,H,2004,cat_5,1196.0,109.0
+1082,Employés,pop_3,T50,H,2004,cat_5,286.0,14.0
+1083,Employés,pop_4,T15,F,2004,cat_5,646.0,95.0
+1084,Employés,pop_5,T25,F,2004,cat_5,3729.0,390.0
+1085,Employés,pop_6,T50,F,2004,cat_5,1262.0,86.0
+1086,Ouvriers qualifiés,pop_1,T15,H,2004,cat_6,330.0,40.0
+1087,Ouvriers qualifiés,pop_2,T25,H,2004,cat_6,2452.0,177.0
+1088,Ouvriers qualifiés,pop_3,T50,H,2004,cat_6,680.0,49.0
+1089,Ouvriers qualifiés,pop_4,T15,F,2004,cat_6,32.0,8.0
+1090,Ouvriers qualifiés,pop_5,T25,F,2004,cat_6,319.0,39.0
+1091,Ouvriers qualifiés,pop_6,T50,F,2004,cat_6,100.0,14.0
+1092,Ouvriers non qualifiés,pop_1,T15,H,2004,cat_7,422.0,76.0
+1093,Ouvriers non qualifiés,pop_2,T25,H,2004,cat_7,813.0,156.0
+1094,Ouvriers non qualifiés,pop_3,T50,H,2004,cat_7,196.0,29.0
+1095,Ouvriers non qualifiés,pop_4,T15,F,2004,cat_7,87.0,24.0
+1096,Ouvriers non qualifiés,pop_5,T25,F,2004,cat_7,483.0,111.0
+1097,Ouvriers non qualifiés,pop_6,T50,F,2004,cat_7,150.0,21.0
+1098,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,2004,cat_8,5.0,0.0
+1099,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,2004,cat_8,27.0,0.0
+1100,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,2004,cat_8,10.0,0.0
+1101,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,2004,cat_8,5.0,0.0
+1102,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,2004,cat_8,22.0,0.0
+1103,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,2004,cat_8,11.0,0.0
+1104,Agriculteurs exploitants,pop_1,T15,H,2005,cat_1,13.0,0.0
+1105,Agriculteurs exploitants,pop_2,T25,H,2005,cat_1,257.0,1.0
+1106,Agriculteurs exploitants,pop_3,T50,H,2005,cat_1,170.0,1.0
+1107,Agriculteurs exploitants,pop_4,T15,F,2005,cat_1,1.0,0.0
+1108,Agriculteurs exploitants,pop_5,T25,F,2005,cat_1,80.0,1.0
+1109,Agriculteurs exploitants,pop_6,T50,F,2005,cat_1,103.0,0.0
+1110,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,2005,cat_2,13.0,0.0
+1111,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,2005,cat_2,681.0,26.0
+1112,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,2005,cat_2,416.0,8.0
+1113,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,2005,cat_2,8.0,1.0
+1114,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,2005,cat_2,268.0,14.0
+1115,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,2005,cat_2,180.0,7.0
+1116,Cadres et professions intellectuelles supérieures,pop_1,T15,H,2005,cat_3,50.0,3.0
+1117,Cadres et professions intellectuelles supérieures,pop_2,T25,H,2005,cat_3,1666.0,77.0
+1118,Cadres et professions intellectuelles supérieures,pop_3,T50,H,2005,cat_3,762.0,31.0
+1119,Cadres et professions intellectuelles supérieures,pop_4,T15,F,2005,cat_3,41.0,1.0
+1120,Cadres et professions intellectuelles supérieures,pop_5,T25,F,2005,cat_3,1030.0,49.0
+1121,Cadres et professions intellectuelles supérieures,pop_6,T50,F,2005,cat_3,383.0,13.0
+1122,Professions intermédiaires,pop_1,T15,H,2005,cat_4,197.0,14.0
+1123,Professions intermédiaires,pop_2,T25,H,2005,cat_4,2103.0,101.0
+1124,Professions intermédiaires,pop_3,T50,H,2005,cat_4,630.0,29.0
+1125,Professions intermédiaires,pop_4,T15,F,2005,cat_4,221.0,17.0
+1126,Professions intermédiaires,pop_5,T25,F,2005,cat_4,2070.0,125.0
+1127,Professions intermédiaires,pop_6,T50,F,2005,cat_4,603.0,21.0
+1128,Employés,pop_1,T15,H,2005,cat_5,254.0,45.0
+1129,Employés,pop_2,T25,H,2005,cat_5,1228.0,114.0
+1130,Employés,pop_3,T50,H,2005,cat_5,305.0,15.0
+1131,Employés,pop_4,T15,F,2005,cat_5,648.0,106.0
+1132,Employés,pop_5,T25,F,2005,cat_5,3747.0,404.0
+1133,Employés,pop_6,T50,F,2005,cat_5,1313.0,87.0
+1134,Ouvriers qualifiés,pop_1,T15,H,2005,cat_6,335.0,39.0
+1135,Ouvriers qualifiés,pop_2,T25,H,2005,cat_6,2383.0,188.0
+1136,Ouvriers qualifiés,pop_3,T50,H,2005,cat_6,686.0,53.0
+1137,Ouvriers qualifiés,pop_4,T15,F,2005,cat_6,30.0,7.0
+1138,Ouvriers qualifiés,pop_5,T25,F,2005,cat_6,288.0,39.0
+1139,Ouvriers qualifiés,pop_6,T50,F,2005,cat_6,104.0,9.0
+1140,Ouvriers non qualifiés,pop_1,T15,H,2005,cat_7,433.0,83.0
+1141,Ouvriers non qualifiés,pop_2,T25,H,2005,cat_7,804.0,159.0
+1142,Ouvriers non qualifiés,pop_3,T50,H,2005,cat_7,203.0,25.0
+1143,Ouvriers non qualifiés,pop_4,T15,F,2005,cat_7,75.0,18.0
+1144,Ouvriers non qualifiés,pop_5,T25,F,2005,cat_7,474.0,108.0
+1145,Ouvriers non qualifiés,pop_6,T50,F,2005,cat_7,153.0,21.0
+1146,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,2005,cat_8,7.0,0.0
+1147,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,2005,cat_8,27.0,0.0
+1148,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,2005,cat_8,10.0,0.0
+1149,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,2005,cat_8,5.0,0.0
+1150,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,2005,cat_8,22.0,0.0
+1151,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,2005,cat_8,11.0,0.0
+1152,Agriculteurs exploitants,pop_1,T15,H,2006,cat_1,11.0,0.0
+1153,Agriculteurs exploitants,pop_2,T25,H,2006,cat_1,286.0,3.0
+1154,Agriculteurs exploitants,pop_3,T50,H,2006,cat_1,170.0,0.0
+1155,Agriculteurs exploitants,pop_4,T15,F,2006,cat_1,1.0,0.0
+1156,Agriculteurs exploitants,pop_5,T25,F,2006,cat_1,85.0,1.0
+1157,Agriculteurs exploitants,pop_6,T50,F,2006,cat_1,102.0,0.0
+1158,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,2006,cat_2,13.0,0.0
+1159,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,2006,cat_2,714.0,31.0
+1160,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,2006,cat_2,425.0,14.0
+1161,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,2006,cat_2,9.0,0.0
+1162,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,2006,cat_2,288.0,14.0
+1163,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,2006,cat_2,191.0,9.0
+1164,Cadres et professions intellectuelles supérieures,pop_1,T15,H,2006,cat_3,54.0,1.0
+1165,Cadres et professions intellectuelles supérieures,pop_2,T25,H,2006,cat_3,1716.0,62.0
+1166,Cadres et professions intellectuelles supérieures,pop_3,T50,H,2006,cat_3,739.0,36.0
+1167,Cadres et professions intellectuelles supérieures,pop_4,T15,F,2006,cat_3,44.0,2.0
+1168,Cadres et professions intellectuelles supérieures,pop_5,T25,F,2006,cat_3,1065.0,41.0
+1169,Cadres et professions intellectuelles supérieures,pop_6,T50,F,2006,cat_3,384.0,13.0
+1170,Professions intermédiaires,pop_1,T15,H,2006,cat_4,188.0,14.0
+1171,Professions intermédiaires,pop_2,T25,H,2006,cat_4,2083.0,96.0
+1172,Professions intermédiaires,pop_3,T50,H,2006,cat_4,654.0,31.0
+1173,Professions intermédiaires,pop_4,T15,F,2006,cat_4,227.0,17.0
+1174,Professions intermédiaires,pop_5,T25,F,2006,cat_4,2106.0,117.0
+1175,Professions intermédiaires,pop_6,T50,F,2006,cat_4,611.0,24.0
+1176,Employés,pop_1,T15,H,2006,cat_5,236.0,43.0
+1177,Employés,pop_2,T25,H,2006,cat_5,1182.0,105.0
+1178,Employés,pop_3,T50,H,2006,cat_5,340.0,17.0
+1179,Employés,pop_4,T15,F,2006,cat_5,632.0,109.0
+1180,Employés,pop_5,T25,F,2006,cat_5,3728.0,398.0
+1181,Employés,pop_6,T50,F,2006,cat_5,1374.0,82.0
+1182,Ouvriers qualifiés,pop_1,T15,H,2006,cat_6,383.0,45.0
+1183,Ouvriers qualifiés,pop_2,T25,H,2006,cat_6,2388.0,185.0
+1184,Ouvriers qualifiés,pop_3,T50,H,2006,cat_6,680.0,49.0
+1185,Ouvriers qualifiés,pop_4,T15,F,2006,cat_6,23.0,6.0
+1186,Ouvriers qualifiés,pop_5,T25,F,2006,cat_6,302.0,38.0
+1187,Ouvriers qualifiés,pop_6,T50,F,2006,cat_6,101.0,11.0
+1188,Ouvriers non qualifiés,pop_1,T15,H,2006,cat_7,396.0,79.0
+1189,Ouvriers non qualifiés,pop_2,T25,H,2006,cat_7,789.0,167.0
+1190,Ouvriers non qualifiés,pop_3,T50,H,2006,cat_7,187.0,27.0
+1191,Ouvriers non qualifiés,pop_4,T15,F,2006,cat_7,73.0,26.0
+1192,Ouvriers non qualifiés,pop_5,T25,F,2006,cat_7,445.0,105.0
+1193,Ouvriers non qualifiés,pop_6,T50,F,2006,cat_7,167.0,23.0
+1194,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,2006,cat_8,6.0,0.0
+1195,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,2006,cat_8,28.0,0.0
+1196,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,2006,cat_8,10.0,0.0
+1197,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,2006,cat_8,5.0,0.0
+1198,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,2006,cat_8,23.0,0.0
+1199,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,2006,cat_8,11.0,0.0
+1200,Agriculteurs exploitants,pop_1,T15,H,2007,cat_1,11.0,0.0
+1201,Agriculteurs exploitants,pop_2,T25,H,2007,cat_1,229.0,1.0
+1202,Agriculteurs exploitants,pop_3,T50,H,2007,cat_1,152.0,0.0
+1203,Agriculteurs exploitants,pop_4,T15,F,2007,cat_1,1.0,0.0
+1204,Agriculteurs exploitants,pop_5,T25,F,2007,cat_1,70.0,0.0
+1205,Agriculteurs exploitants,pop_6,T50,F,2007,cat_1,92.0,1.0
+1206,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,2007,cat_2,17.0,0.0
+1207,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,2007,cat_2,736.0,20.0
+1208,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,2007,cat_2,427.0,14.0
+1209,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,2007,cat_2,9.0,0.0
+1210,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,2007,cat_2,290.0,15.0
+1211,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,2007,cat_2,182.0,6.0
+1212,Cadres et professions intellectuelles supérieures,pop_1,T15,H,2007,cat_3,55.0,1.0
+1213,Cadres et professions intellectuelles supérieures,pop_2,T25,H,2007,cat_3,1739.0,52.0
+1214,Cadres et professions intellectuelles supérieures,pop_3,T50,H,2007,cat_3,774.0,26.0
+1215,Cadres et professions intellectuelles supérieures,pop_4,T15,F,2007,cat_3,43.0,1.0
+1216,Cadres et professions intellectuelles supérieures,pop_5,T25,F,2007,cat_3,1094.0,37.0
+1217,Cadres et professions intellectuelles supérieures,pop_6,T50,F,2007,cat_3,394.0,10.0
+1218,Professions intermédiaires,pop_1,T15,H,2007,cat_4,190.0,13.0
+1219,Professions intermédiaires,pop_2,T25,H,2007,cat_4,2072.0,100.0
+1220,Professions intermédiaires,pop_3,T50,H,2007,cat_4,694.0,32.0
+1221,Professions intermédiaires,pop_4,T15,F,2007,cat_4,237.0,14.0
+1222,Professions intermédiaires,pop_5,T25,F,2007,cat_4,2150.0,103.0
+1223,Professions intermédiaires,pop_6,T50,F,2007,cat_4,627.0,23.0
+1224,Employés,pop_1,T15,H,2007,cat_5,259.0,30.0
+1225,Employés,pop_2,T25,H,2007,cat_5,1181.0,101.0
+1226,Employés,pop_3,T50,H,2007,cat_5,332.0,16.0
+1227,Employés,pop_4,T15,F,2007,cat_5,654.0,97.0
+1228,Employés,pop_5,T25,F,2007,cat_5,3814.0,360.0
+1229,Employés,pop_6,T50,F,2007,cat_5,1442.0,71.0
+1230,Ouvriers qualifiés,pop_1,T15,H,2007,cat_6,368.0,41.0
+1231,Ouvriers qualifiés,pop_2,T25,H,2007,cat_6,2444.0,187.0
+1232,Ouvriers qualifiés,pop_3,T50,H,2007,cat_6,706.0,42.0
+1233,Ouvriers qualifiés,pop_4,T15,F,2007,cat_6,32.0,6.0
+1234,Ouvriers qualifiés,pop_5,T25,F,2007,cat_6,312.0,35.0
+1235,Ouvriers qualifiés,pop_6,T50,F,2007,cat_6,100.0,12.0
+1236,Ouvriers non qualifiés,pop_1,T15,H,2007,cat_7,407.0,72.0
+1237,Ouvriers non qualifiés,pop_2,T25,H,2007,cat_7,798.0,151.0
+1238,Ouvriers non qualifiés,pop_3,T50,H,2007,cat_7,191.0,30.0
+1239,Ouvriers non qualifiés,pop_4,T15,F,2007,cat_7,88.0,20.0
+1240,Ouvriers non qualifiés,pop_5,T25,F,2007,cat_7,429.0,90.0
+1241,Ouvriers non qualifiés,pop_6,T50,F,2007,cat_7,188.0,25.0
+1242,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,2007,cat_8,7.0,0.0
+1243,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,2007,cat_8,28.0,0.0
+1244,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,2007,cat_8,10.0,0.0
+1245,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,2007,cat_8,5.0,0.0
+1246,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,2007,cat_8,23.0,0.0
+1247,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,2007,cat_8,12.0,0.0
+1248,Agriculteurs exploitants,pop_1,T15,H,2008,cat_1,12.0,0.0
+1249,Agriculteurs exploitants,pop_2,T25,H,2008,cat_1,194.0,0.0
+1250,Agriculteurs exploitants,pop_3,T50,H,2008,cat_1,137.0,0.0
+1251,Agriculteurs exploitants,pop_4,T15,F,2008,cat_1,1.0,0.0
+1252,Agriculteurs exploitants,pop_5,T25,F,2008,cat_1,62.0,1.0
+1253,Agriculteurs exploitants,pop_6,T50,F,2008,cat_1,79.0,0.0
+1254,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,2008,cat_2,22.0,0.0
+1255,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,2008,cat_2,723.0,20.0
+1256,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,2008,cat_2,421.0,15.0
+1257,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,2008,cat_2,13.0,0.0
+1258,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,2008,cat_2,293.0,15.0
+1259,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,2008,cat_2,173.0,7.0
+1260,Cadres et professions intellectuelles supérieures,pop_1,T15,H,2008,cat_3,49.0,3.0
+1261,Cadres et professions intellectuelles supérieures,pop_2,T25,H,2008,cat_3,1712.0,45.0
+1262,Cadres et professions intellectuelles supérieures,pop_3,T50,H,2008,cat_3,813.0,25.0
+1263,Cadres et professions intellectuelles supérieures,pop_4,T15,F,2008,cat_3,56.0,3.0
+1264,Cadres et professions intellectuelles supérieures,pop_5,T25,F,2008,cat_3,1153.0,41.0
+1265,Cadres et professions intellectuelles supérieures,pop_6,T50,F,2008,cat_3,432.0,7.0
+1266,Professions intermédiaires,pop_1,T15,H,2008,cat_4,223.0,16.0
+1267,Professions intermédiaires,pop_2,T25,H,2008,cat_4,2190.0,83.0
+1268,Professions intermédiaires,pop_3,T50,H,2008,cat_4,694.0,23.0
+1269,Professions intermédiaires,pop_4,T15,F,2008,cat_4,236.0,15.0
+1270,Professions intermédiaires,pop_5,T25,F,2008,cat_4,2234.0,102.0
+1271,Professions intermédiaires,pop_6,T50,F,2008,cat_4,654.0,17.0
+1272,Employés,pop_1,T15,H,2008,cat_5,270.0,32.0
+1273,Employés,pop_2,T25,H,2008,cat_5,1224.0,84.0
+1274,Employés,pop_3,T50,H,2008,cat_5,364.0,17.0
+1275,Employés,pop_4,T15,F,2008,cat_5,649.0,79.0
+1276,Employés,pop_5,T25,F,2008,cat_5,3810.0,325.0
+1277,Employés,pop_6,T50,F,2008,cat_5,1487.0,72.0
+1278,Ouvriers qualifiés,pop_1,T15,H,2008,cat_6,346.0,39.0
+1279,Ouvriers qualifiés,pop_2,T25,H,2008,cat_6,2449.0,174.0
+1280,Ouvriers qualifiés,pop_3,T50,H,2008,cat_6,724.0,50.0
+1281,Ouvriers qualifiés,pop_4,T15,F,2008,cat_6,40.0,8.0
+1282,Ouvriers qualifiés,pop_5,T25,F,2008,cat_6,300.0,31.0
+1283,Ouvriers qualifiés,pop_6,T50,F,2008,cat_6,99.0,12.0
+1284,Ouvriers non qualifiés,pop_1,T15,H,2008,cat_7,386.0,73.0
+1285,Ouvriers non qualifiés,pop_2,T25,H,2008,cat_7,793.0,139.0
+1286,Ouvriers non qualifiés,pop_3,T50,H,2008,cat_7,183.0,24.0
+1287,Ouvriers non qualifiés,pop_4,T15,F,2008,cat_7,75.0,19.0
+1288,Ouvriers non qualifiés,pop_5,T25,F,2008,cat_7,434.0,87.0
+1289,Ouvriers non qualifiés,pop_6,T50,F,2008,cat_7,172.0,20.0
+1290,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,2008,cat_8,7.0,0.0
+1291,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,2008,cat_8,28.0,0.0
+1292,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,2008,cat_8,10.0,0.0
+1293,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,2008,cat_8,5.0,0.0
+1294,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,2008,cat_8,23.0,0.0
+1295,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,2008,cat_8,12.0,0.0
+1296,Agriculteurs exploitants,pop_1,T15,H,2009,cat_1,12.0,0.0
+1297,Agriculteurs exploitants,pop_2,T25,H,2009,cat_1,216.0,2.0
+1298,Agriculteurs exploitants,pop_3,T50,H,2009,cat_1,151.0,1.0
+1299,Agriculteurs exploitants,pop_4,T15,F,2009,cat_1,1.0,0.0
+1300,Agriculteurs exploitants,pop_5,T25,F,2009,cat_1,75.0,2.0
+1301,Agriculteurs exploitants,pop_6,T50,F,2009,cat_1,78.0,0.0
+1302,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,2009,cat_2,18.0,0.0
+1303,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,2009,cat_2,763.0,28.0
+1304,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,2009,cat_2,417.0,16.0
+1305,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,2009,cat_2,11.0,0.0
+1306,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,2009,cat_2,301.0,16.0
+1307,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,2009,cat_2,147.0,8.0
+1308,Cadres et professions intellectuelles supérieures,pop_1,T15,H,2009,cat_3,48.0,3.0
+1309,Cadres et professions intellectuelles supérieures,pop_2,T25,H,2009,cat_3,1712.0,62.0
+1310,Cadres et professions intellectuelles supérieures,pop_3,T50,H,2009,cat_3,816.0,29.0
+1311,Cadres et professions intellectuelles supérieures,pop_4,T15,F,2009,cat_3,53.0,2.0
+1312,Cadres et professions intellectuelles supérieures,pop_5,T25,F,2009,cat_3,1191.0,45.0
+1313,Cadres et professions intellectuelles supérieures,pop_6,T50,F,2009,cat_3,436.0,16.0
+1314,Professions intermédiaires,pop_1,T15,H,2009,cat_4,213.0,22.0
+1315,Professions intermédiaires,pop_2,T25,H,2009,cat_4,2207.0,117.0
+1316,Professions intermédiaires,pop_3,T50,H,2009,cat_4,685.0,33.0
+1317,Professions intermédiaires,pop_4,T15,F,2009,cat_4,241.0,17.0
+1318,Professions intermédiaires,pop_5,T25,F,2009,cat_4,2243.0,133.0
+1319,Professions intermédiaires,pop_6,T50,F,2009,cat_4,683.0,23.0
+1320,Employés,pop_1,T15,H,2009,cat_5,265.0,42.0
+1321,Employés,pop_2,T25,H,2009,cat_5,1177.0,105.0
+1322,Employés,pop_3,T50,H,2009,cat_5,366.0,20.0
+1323,Employés,pop_4,T15,F,2009,cat_5,642.0,102.0
+1324,Employés,pop_5,T25,F,2009,cat_5,3699.0,365.0
+1325,Employés,pop_6,T50,F,2009,cat_5,1544.0,91.0
+1326,Ouvriers qualifiés,pop_1,T15,H,2009,cat_6,334.0,56.0
+1327,Ouvriers qualifiés,pop_2,T25,H,2009,cat_6,2274.0,214.0
+1328,Ouvriers qualifiés,pop_3,T50,H,2009,cat_6,765.0,58.0
+1329,Ouvriers qualifiés,pop_4,T15,F,2009,cat_6,41.0,7.0
+1330,Ouvriers qualifiés,pop_5,T25,F,2009,cat_6,267.0,37.0
+1331,Ouvriers qualifiés,pop_6,T50,F,2009,cat_6,108.0,14.0
+1332,Ouvriers non qualifiés,pop_1,T15,H,2009,cat_7,346.0,108.0
+1333,Ouvriers non qualifiés,pop_2,T25,H,2009,cat_7,725.0,179.0
+1334,Ouvriers non qualifiés,pop_3,T50,H,2009,cat_7,211.0,34.0
+1335,Ouvriers non qualifiés,pop_4,T15,F,2009,cat_7,71.0,22.0
+1336,Ouvriers non qualifiés,pop_5,T25,F,2009,cat_7,395.0,99.0
+1337,Ouvriers non qualifiés,pop_6,T50,F,2009,cat_7,170.0,23.0
+1338,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,2009,cat_8,6.0,0.0
+1339,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,2009,cat_8,27.0,0.0
+1340,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,2009,cat_8,11.0,0.0
+1341,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,2009,cat_8,5.0,0.0
+1342,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,2009,cat_8,23.0,0.0
+1343,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,2009,cat_8,12.0,0.0
+1344,Agriculteurs exploitants,pop_1,T15,H,2010,cat_1,14.0,0.0
+1345,Agriculteurs exploitants,pop_2,T25,H,2010,cat_1,213.0,1.0
+1346,Agriculteurs exploitants,pop_3,T50,H,2010,cat_1,157.0,1.0
+1347,Agriculteurs exploitants,pop_4,T15,F,2010,cat_1,1.0,0.0
+1348,Agriculteurs exploitants,pop_5,T25,F,2010,cat_1,69.0,1.0
+1349,Agriculteurs exploitants,pop_6,T50,F,2010,cat_1,75.0,1.0
+1350,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,2010,cat_2,24.0,2.0
+1351,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,2010,cat_2,804.0,33.0
+1352,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,2010,cat_2,447.0,16.0
+1353,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,2010,cat_2,9.0,0.0
+1354,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,2010,cat_2,312.0,14.0
+1355,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,2010,cat_2,165.0,7.0
+1356,Cadres et professions intellectuelles supérieures,pop_1,T15,H,2010,cat_3,54.0,3.0
+1357,Cadres et professions intellectuelles supérieures,pop_2,T25,H,2010,cat_3,1810.0,61.0
+1358,Cadres et professions intellectuelles supérieures,pop_3,T50,H,2010,cat_3,807.0,31.0
+1359,Cadres et professions intellectuelles supérieures,pop_4,T15,F,2010,cat_3,45.0,2.0
+1360,Cadres et professions intellectuelles supérieures,pop_5,T25,F,2010,cat_3,1199.0,56.0
+1361,Cadres et professions intellectuelles supérieures,pop_6,T50,F,2010,cat_3,431.0,15.0
+1362,Professions intermédiaires,pop_1,T15,H,2010,cat_4,227.0,20.0
+1363,Professions intermédiaires,pop_2,T25,H,2010,cat_4,2125.0,114.0
+1364,Professions intermédiaires,pop_3,T50,H,2010,cat_4,762.0,31.0
+1365,Professions intermédiaires,pop_4,T15,F,2010,cat_4,238.0,16.0
+1366,Professions intermédiaires,pop_5,T25,F,2010,cat_4,2268.0,113.0
+1367,Professions intermédiaires,pop_6,T50,F,2010,cat_4,721.0,27.0
+1368,Employés,pop_1,T15,H,2010,cat_5,255.0,42.0
+1369,Employés,pop_2,T25,H,2010,cat_5,1155.0,106.0
+1370,Employés,pop_3,T50,H,2010,cat_5,369.0,19.0
+1371,Employés,pop_4,T15,F,2010,cat_5,612.0,105.0
+1372,Employés,pop_5,T25,F,2010,cat_5,3642.0,397.0
+1373,Employés,pop_6,T50,F,2010,cat_5,1583.0,106.0
+1374,Ouvriers qualifiés,pop_1,T15,H,2010,cat_6,319.0,49.0
+1375,Ouvriers qualifiés,pop_2,T25,H,2010,cat_6,2143.0,227.0
+1376,Ouvriers qualifiés,pop_3,T50,H,2010,cat_6,760.0,68.0
+1377,Ouvriers qualifiés,pop_4,T15,F,2010,cat_6,35.0,10.0
+1378,Ouvriers qualifiés,pop_5,T25,F,2010,cat_6,272.0,31.0
+1379,Ouvriers qualifiés,pop_6,T50,F,2010,cat_6,116.0,13.0
+1380,Ouvriers non qualifiés,pop_1,T15,H,2010,cat_7,359.0,86.0
+1381,Ouvriers non qualifiés,pop_2,T25,H,2010,cat_7,749.0,186.0
+1382,Ouvriers non qualifiés,pop_3,T50,H,2010,cat_7,219.0,38.0
+1383,Ouvriers non qualifiés,pop_4,T15,F,2010,cat_7,66.0,23.0
+1384,Ouvriers non qualifiés,pop_5,T25,F,2010,cat_7,391.0,102.0
+1385,Ouvriers non qualifiés,pop_6,T50,F,2010,cat_7,174.0,22.0
+1386,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,2010,cat_8,5.0,0.0
+1387,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,2010,cat_8,27.0,0.0
+1388,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,2010,cat_8,11.0,0.0
+1389,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,2010,cat_8,5.0,0.0
+1390,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,2010,cat_8,23.0,0.0
+1391,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,2010,cat_8,13.0,0.0
+1392,Agriculteurs exploitants,pop_1,T15,H,2011,cat_1,9.0,0.0
+1393,Agriculteurs exploitants,pop_2,T25,H,2011,cat_1,206.0,1.0
+1394,Agriculteurs exploitants,pop_3,T50,H,2011,cat_1,166.0,0.0
+1395,Agriculteurs exploitants,pop_4,T15,F,2011,cat_1,1.0,0.0
+1396,Agriculteurs exploitants,pop_5,T25,F,2011,cat_1,66.0,0.0
+1397,Agriculteurs exploitants,pop_6,T50,F,2011,cat_1,80.0,0.0
+1398,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,2011,cat_2,24.0,1.0
+1399,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,2011,cat_2,774.0,35.0
+1400,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,2011,cat_2,443.0,17.0
+1401,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,2011,cat_2,12.0,0.0
+1402,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,2011,cat_2,298.0,13.0
+1403,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,2011,cat_2,174.0,9.0
+1404,Cadres et professions intellectuelles supérieures,pop_1,T15,H,2011,cat_3,57.0,2.0
+1405,Cadres et professions intellectuelles supérieures,pop_2,T25,H,2011,cat_3,1855.0,66.0
+1406,Cadres et professions intellectuelles supérieures,pop_3,T50,H,2011,cat_3,859.0,33.0
+1407,Cadres et professions intellectuelles supérieures,pop_4,T15,F,2011,cat_3,49.0,1.0
+1408,Cadres et professions intellectuelles supérieures,pop_5,T25,F,2011,cat_3,1271.0,54.0
+1409,Cadres et professions intellectuelles supérieures,pop_6,T50,F,2011,cat_3,468.0,14.0
+1410,Professions intermédiaires,pop_1,T15,H,2011,cat_4,218.0,16.0
+1411,Professions intermédiaires,pop_2,T25,H,2011,cat_4,2132.0,114.0
+1412,Professions intermédiaires,pop_3,T50,H,2011,cat_4,789.0,33.0
+1413,Professions intermédiaires,pop_4,T15,F,2011,cat_4,209.0,19.0
+1414,Professions intermédiaires,pop_5,T25,F,2011,cat_4,2271.0,127.0
+1415,Professions intermédiaires,pop_6,T50,F,2011,cat_4,746.0,25.0
+1416,Employés,pop_1,T15,H,2011,cat_5,251.0,44.0
+1417,Employés,pop_2,T25,H,2011,cat_5,1149.0,116.0
+1418,Employés,pop_3,T50,H,2011,cat_5,381.0,23.0
+1419,Employés,pop_4,T15,F,2011,cat_5,601.0,105.0
+1420,Employés,pop_5,T25,F,2011,cat_5,3516.0,400.0
+1421,Employés,pop_6,T50,F,2011,cat_5,1602.0,110.0
+1422,Ouvriers qualifiés,pop_1,T15,H,2011,cat_6,320.0,47.0
+1423,Ouvriers qualifiés,pop_2,T25,H,2011,cat_6,2108.0,216.0
+1424,Ouvriers qualifiés,pop_3,T50,H,2011,cat_6,782.0,69.0
+1425,Ouvriers qualifiés,pop_4,T15,F,2011,cat_6,39.0,9.0
+1426,Ouvriers qualifiés,pop_5,T25,F,2011,cat_6,263.0,34.0
+1427,Ouvriers qualifiés,pop_6,T50,F,2011,cat_6,123.0,15.0
+1428,Ouvriers non qualifiés,pop_1,T15,H,2011,cat_7,340.0,75.0
+1429,Ouvriers non qualifiés,pop_2,T25,H,2011,cat_7,714.0,174.0
+1430,Ouvriers non qualifiés,pop_3,T50,H,2011,cat_7,209.0,38.0
+1431,Ouvriers non qualifiés,pop_4,T15,F,2011,cat_7,74.0,21.0
+1432,Ouvriers non qualifiés,pop_5,T25,F,2011,cat_7,402.0,95.0
+1433,Ouvriers non qualifiés,pop_6,T50,F,2011,cat_7,185.0,27.0
+1434,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,2011,cat_8,5.0,0.0
+1435,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,2011,cat_8,27.0,0.0
+1436,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,2011,cat_8,11.0,0.0
+1437,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,2011,cat_8,5.0,0.0
+1438,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,2011,cat_8,23.0,0.0
+1439,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,2011,cat_8,13.0,0.0
+1440,Agriculteurs exploitants,pop_1,T15,H,2012,cat_1,12.0,0.0
+1441,Agriculteurs exploitants,pop_2,T25,H,2012,cat_1,193.0,0.0
+1442,Agriculteurs exploitants,pop_3,T50,H,2012,cat_1,170.0,1.0
+1443,Agriculteurs exploitants,pop_4,T15,F,2012,cat_1,0.0,0.0
+1444,Agriculteurs exploitants,pop_5,T25,F,2012,cat_1,65.0,1.0
+1445,Agriculteurs exploitants,pop_6,T50,F,2012,cat_1,80.0,1.0
+1446,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,2012,cat_2,20.0,2.0
+1447,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,2012,cat_2,759.0,32.0
+1448,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,2012,cat_2,459.0,14.0
+1449,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,2012,cat_2,12.0,1.0
+1450,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,2012,cat_2,286.0,16.0
+1451,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,2012,cat_2,171.0,8.0
+1452,Cadres et professions intellectuelles supérieures,pop_1,T15,H,2012,cat_3,58.0,2.0
+1453,Cadres et professions intellectuelles supérieures,pop_2,T25,H,2012,cat_3,1817.0,60.0
+1454,Cadres et professions intellectuelles supérieures,pop_3,T50,H,2012,cat_3,923.0,36.0
+1455,Cadres et professions intellectuelles supérieures,pop_4,T15,F,2012,cat_3,46.0,2.0
+1456,Cadres et professions intellectuelles supérieures,pop_5,T25,F,2012,cat_3,1311.0,55.0
+1457,Cadres et professions intellectuelles supérieures,pop_6,T50,F,2012,cat_3,512.0,16.0
+1458,Professions intermédiaires,pop_1,T15,H,2012,cat_4,223.0,17.0
+1459,Professions intermédiaires,pop_2,T25,H,2012,cat_4,2103.0,128.0
+1460,Professions intermédiaires,pop_3,T50,H,2012,cat_4,814.0,37.0
+1461,Professions intermédiaires,pop_4,T15,F,2012,cat_4,228.0,19.0
+1462,Professions intermédiaires,pop_5,T25,F,2012,cat_4,2297.0,128.0
+1463,Professions intermédiaires,pop_6,T50,F,2012,cat_4,773.0,31.0
+1464,Employés,pop_1,T15,H,2012,cat_5,238.0,39.0
+1465,Employés,pop_2,T25,H,2012,cat_5,1139.0,134.0
+1466,Employés,pop_3,T50,H,2012,cat_5,384.0,27.0
+1467,Employés,pop_4,T15,F,2012,cat_5,574.0,99.0
+1468,Employés,pop_5,T25,F,2012,cat_5,3445.0,422.0
+1469,Employés,pop_6,T50,F,2012,cat_5,1687.0,119.0
+1470,Ouvriers qualifiés,pop_1,T15,H,2012,cat_6,299.0,54.0
+1471,Ouvriers qualifiés,pop_2,T25,H,2012,cat_6,2084.0,245.0
+1472,Ouvriers qualifiés,pop_3,T50,H,2012,cat_6,798.0,87.0
+1473,Ouvriers qualifiés,pop_4,T15,F,2012,cat_6,35.0,7.0
+1474,Ouvriers qualifiés,pop_5,T25,F,2012,cat_6,260.0,34.0
+1475,Ouvriers qualifiés,pop_6,T50,F,2012,cat_6,125.0,15.0
+1476,Ouvriers non qualifiés,pop_1,T15,H,2012,cat_7,307.0,83.0
+1477,Ouvriers non qualifiés,pop_2,T25,H,2012,cat_7,721.0,196.0
+1478,Ouvriers non qualifiés,pop_3,T50,H,2012,cat_7,236.0,50.0
+1479,Ouvriers non qualifiés,pop_4,T15,F,2012,cat_7,65.0,22.0
+1480,Ouvriers non qualifiés,pop_5,T25,F,2012,cat_7,366.0,94.0
+1481,Ouvriers non qualifiés,pop_6,T50,F,2012,cat_7,196.0,26.0
+1482,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,2012,cat_8,4.0,0.0
+1483,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,2012,cat_8,26.0,0.0
+1484,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,2012,cat_8,12.0,0.0
+1485,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,2012,cat_8,5.0,0.0
+1486,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,2012,cat_8,23.0,0.0
+1487,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,2012,cat_8,14.0,0.0
+1488,Agriculteurs exploitants,pop_1,T15,H,2013,cat_1,9.0,0.0
+1489,Agriculteurs exploitants,pop_2,T25,H,2013,cat_1,197.0,2.0
+1490,Agriculteurs exploitants,pop_3,T50,H,2013,cat_1,183.0,1.0
+1491,Agriculteurs exploitants,pop_4,T15,F,2013,cat_1,1.0,0.0
+1492,Agriculteurs exploitants,pop_5,T25,F,2013,cat_1,72.0,1.0
+1493,Agriculteurs exploitants,pop_6,T50,F,2013,cat_1,75.0,1.0
+1494,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,2013,cat_2,18.0,3.0
+1495,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,2013,cat_2,722.0,47.0
+1496,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,2013,cat_2,439.0,18.0
+1497,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,2013,cat_2,11.0,1.0
+1498,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,2013,cat_2,290.0,21.0
+1499,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,2013,cat_2,166.0,8.0
+1500,Cadres et professions intellectuelles supérieures,pop_1,T15,H,2013,cat_3,58.0,1.0
+1501,Cadres et professions intellectuelles supérieures,pop_2,T25,H,2013,cat_3,1749.0,67.0
+1502,Cadres et professions intellectuelles supérieures,pop_3,T50,H,2013,cat_3,918.0,45.0
+1503,Cadres et professions intellectuelles supérieures,pop_4,T15,F,2013,cat_3,43.0,2.0
+1504,Cadres et professions intellectuelles supérieures,pop_5,T25,F,2013,cat_3,1249.0,53.0
+1505,Cadres et professions intellectuelles supérieures,pop_6,T50,F,2013,cat_3,519.0,21.0
+1506,Professions intermédiaires,pop_1,T15,H,2013,cat_4,233.0,20.0
+1507,Professions intermédiaires,pop_2,T25,H,2013,cat_4,2155.0,130.0
+1508,Professions intermédiaires,pop_3,T50,H,2013,cat_4,851.0,43.0
+1509,Professions intermédiaires,pop_4,T15,F,2013,cat_4,228.0,16.0
+1510,Professions intermédiaires,pop_5,T25,F,2013,cat_4,2328.0,136.0
+1511,Professions intermédiaires,pop_6,T50,F,2013,cat_4,842.0,33.0
+1512,Employés,pop_1,T15,H,2013,cat_5,255.0,42.0
+1513,Employés,pop_2,T25,H,2013,cat_5,1101.0,140.0
+1514,Employés,pop_3,T50,H,2013,cat_5,397.0,31.0
+1515,Employés,pop_4,T15,F,2013,cat_5,566.0,99.0
+1516,Employés,pop_5,T25,F,2013,cat_5,3482.0,417.0
+1517,Employés,pop_6,T50,F,2013,cat_5,1683.0,139.0
+1518,Ouvriers qualifiés,pop_1,T15,H,2013,cat_6,300.0,51.0
+1519,Ouvriers qualifiés,pop_2,T25,H,2013,cat_6,2049.0,261.0
+1520,Ouvriers qualifiés,pop_3,T50,H,2013,cat_6,786.0,92.0
+1521,Ouvriers qualifiés,pop_4,T15,F,2013,cat_6,31.0,8.0
+1522,Ouvriers qualifiés,pop_5,T25,F,2013,cat_6,276.0,47.0
+1523,Ouvriers qualifiés,pop_6,T50,F,2013,cat_6,127.0,14.0
+1524,Ouvriers non qualifiés,pop_1,T15,H,2013,cat_7,285.0,77.0
+1525,Ouvriers non qualifiés,pop_2,T25,H,2013,cat_7,717.0,207.0
+1526,Ouvriers non qualifiés,pop_3,T50,H,2013,cat_7,260.0,51.0
+1527,Ouvriers non qualifiés,pop_4,T15,F,2013,cat_7,60.0,27.0
+1528,Ouvriers non qualifiés,pop_5,T25,F,2013,cat_7,347.0,103.0
+1529,Ouvriers non qualifiés,pop_6,T50,F,2013,cat_7,189.0,31.0
+1530,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,2013,cat_8,4.0,0.0
+1531,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,2013,cat_8,26.0,0.0
+1532,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,2013,cat_8,12.0,0.0
+1533,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,2013,cat_8,5.0,0.0
+1534,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,2013,cat_8,23.0,0.0
+1535,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,2013,cat_8,14.0,0.0
+1536,Agriculteurs exploitants,pop_1,T15,H,2014,cat_1,5.0,1.0
+1537,Agriculteurs exploitants,pop_2,T25,H,2014,cat_1,170.0,1.0
+1538,Agriculteurs exploitants,pop_3,T50,H,2014,cat_1,183.0,1.0
+1539,Agriculteurs exploitants,pop_4,T15,F,2014,cat_1,2.0,0.0
+1540,Agriculteurs exploitants,pop_5,T25,F,2014,cat_1,61.0,0.0
+1541,Agriculteurs exploitants,pop_6,T50,F,2014,cat_1,80.0,0.0
+1542,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,2014,cat_2,17.0,2.0
+1543,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,2014,cat_2,711.0,38.0
+1544,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,2014,cat_2,470.0,21.0
+1545,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,2014,cat_2,9.0,1.0
+1546,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,2014,cat_2,284.0,20.0
+1547,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,2014,cat_2,195.0,8.0
+1548,Cadres et professions intellectuelles supérieures,pop_1,T15,H,2014,cat_3,56.0,3.0
+1549,Cadres et professions intellectuelles supérieures,pop_2,T25,H,2014,cat_3,1735.0,76.0
+1550,Cadres et professions intellectuelles supérieures,pop_3,T50,H,2014,cat_3,880.0,42.0
+1551,Cadres et professions intellectuelles supérieures,pop_4,T15,F,2014,cat_3,42.0,2.0
+1552,Cadres et professions intellectuelles supérieures,pop_5,T25,F,2014,cat_3,1236.0,57.0
+1553,Cadres et professions intellectuelles supérieures,pop_6,T50,F,2014,cat_3,523.0,25.0
+1554,Professions intermédiaires,pop_1,T15,H,2014,cat_4,220.0,24.0
+1555,Professions intermédiaires,pop_2,T25,H,2014,cat_4,2203.0,138.0
+1556,Professions intermédiaires,pop_3,T50,H,2014,cat_4,858.0,47.0
+1557,Professions intermédiaires,pop_4,T15,F,2014,cat_4,232.0,19.0
+1558,Professions intermédiaires,pop_5,T25,F,2014,cat_4,2384.0,150.0
+1559,Professions intermédiaires,pop_6,T50,F,2014,cat_4,839.0,35.0
+1560,Employés,pop_1,T15,H,2014,cat_5,259.0,51.0
+1561,Employés,pop_2,T25,H,2014,cat_5,1089.0,143.0
+1562,Employés,pop_3,T50,H,2014,cat_5,398.0,34.0
+1563,Employés,pop_4,T15,F,2014,cat_5,571.0,90.0
+1564,Employés,pop_5,T25,F,2014,cat_5,3421.0,408.0
+1565,Employés,pop_6,T50,F,2014,cat_5,1766.0,150.0
+1566,Ouvriers qualifiés,pop_1,T15,H,2014,cat_6,311.0,44.0
+1567,Ouvriers qualifiés,pop_2,T25,H,2014,cat_6,2012.0,280.0
+1568,Ouvriers qualifiés,pop_3,T50,H,2014,cat_6,830.0,96.0
+1569,Ouvriers qualifiés,pop_4,T15,F,2014,cat_6,33.0,6.0
+1570,Ouvriers qualifiés,pop_5,T25,F,2014,cat_6,258.0,38.0
+1571,Ouvriers qualifiés,pop_6,T50,F,2014,cat_6,134.0,16.0
+1572,Ouvriers non qualifiés,pop_1,T15,H,2014,cat_7,254.0,70.0
+1573,Ouvriers non qualifiés,pop_2,T25,H,2014,cat_7,693.0,185.0
+1574,Ouvriers non qualifiés,pop_3,T50,H,2014,cat_7,265.0,48.0
+1575,Ouvriers non qualifiés,pop_4,T15,F,2014,cat_7,56.0,19.0
+1576,Ouvriers non qualifiés,pop_5,T25,F,2014,cat_7,361.0,99.0
+1577,Ouvriers non qualifiés,pop_6,T50,F,2014,cat_7,194.0,31.0
+1578,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,2014,cat_8,3.0,0.0
+1579,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,2014,cat_8,25.0,0.0
+1580,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,2014,cat_8,15.0,0.0
+1581,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,2014,cat_8,4.0,0.0
+1582,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,2014,cat_8,18.0,0.0
+1583,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,2014,cat_8,13.0,0.0
+1584,Agriculteurs exploitants,pop_1,T15,H,2015,cat_1,6.0,0.0
+1585,Agriculteurs exploitants,pop_2,T25,H,2015,cat_1,161.0,1.0
+1586,Agriculteurs exploitants,pop_3,T50,H,2015,cat_1,178.0,1.0
+1587,Agriculteurs exploitants,pop_4,T15,F,2015,cat_1,1.0,0.0
+1588,Agriculteurs exploitants,pop_5,T25,F,2015,cat_1,49.0,0.0
+1589,Agriculteurs exploitants,pop_6,T50,F,2015,cat_1,78.0,1.0
+1590,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,2015,cat_2,14.0,1.0
+1591,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,2015,cat_2,693.0,39.0
+1592,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,2015,cat_2,485.0,22.0
+1593,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,2015,cat_2,8.0,0.0
+1594,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,2015,cat_2,280.0,18.0
+1595,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,2015,cat_2,207.0,7.0
+1596,Cadres et professions intellectuelles supérieures,pop_1,T15,H,2015,cat_3,67.0,5.0
+1597,Cadres et professions intellectuelles supérieures,pop_2,T25,H,2015,cat_3,1775.0,74.0
+1598,Cadres et professions intellectuelles supérieures,pop_3,T50,H,2015,cat_3,932.0,43.0
+1599,Cadres et professions intellectuelles supérieures,pop_4,T15,F,2015,cat_3,44.0,1.0
+1600,Cadres et professions intellectuelles supérieures,pop_5,T25,F,2015,cat_3,1280.0,50.0
+1601,Cadres et professions intellectuelles supérieures,pop_6,T50,F,2015,cat_3,537.0,18.0
+1602,Professions intermédiaires,pop_1,T15,H,2015,cat_4,232.0,25.0
+1603,Professions intermédiaires,pop_2,T25,H,2015,cat_4,2108.0,144.0
+1604,Professions intermédiaires,pop_3,T50,H,2015,cat_4,855.0,54.0
+1605,Professions intermédiaires,pop_4,T15,F,2015,cat_4,239.0,19.0
+1606,Professions intermédiaires,pop_5,T25,F,2015,cat_4,2441.0,143.0
+1607,Professions intermédiaires,pop_6,T50,F,2015,cat_4,846.0,40.0
+1608,Employés,pop_1,T15,H,2015,cat_5,253.0,47.0
+1609,Employés,pop_2,T25,H,2015,cat_5,1131.0,147.0
+1610,Employés,pop_3,T50,H,2015,cat_5,397.0,39.0
+1611,Employés,pop_4,T15,F,2015,cat_5,578.0,92.0
+1612,Employés,pop_5,T25,F,2015,cat_5,3289.0,414.0
+1613,Employés,pop_6,T50,F,2015,cat_5,1814.0,138.0
+1614,Ouvriers qualifiés,pop_1,T15,H,2015,cat_6,276.0,49.0
+1615,Ouvriers qualifiés,pop_2,T25,H,2015,cat_6,1994.0,263.0
+1616,Ouvriers qualifiés,pop_3,T50,H,2015,cat_6,855.0,99.0
+1617,Ouvriers qualifiés,pop_4,T15,F,2015,cat_6,35.0,6.0
+1618,Ouvriers qualifiés,pop_5,T25,F,2015,cat_6,255.0,39.0
+1619,Ouvriers qualifiés,pop_6,T50,F,2015,cat_6,147.0,17.0
+1620,Ouvriers non qualifiés,pop_1,T15,H,2015,cat_7,282.0,79.0
+1621,Ouvriers non qualifiés,pop_2,T25,H,2015,cat_7,656.0,187.0
+1622,Ouvriers non qualifiés,pop_3,T50,H,2015,cat_7,265.0,59.0
+1623,Ouvriers non qualifiés,pop_4,T15,F,2015,cat_7,62.0,17.0
+1624,Ouvriers non qualifiés,pop_5,T25,F,2015,cat_7,353.0,95.0
+1625,Ouvriers non qualifiés,pop_6,T50,F,2015,cat_7,205.0,35.0
+1626,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,2015,cat_8,7.0,0.0
+1627,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,2015,cat_8,23.0,0.0
+1628,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,2015,cat_8,10.0,0.0
+1629,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,2015,cat_8,3.0,0.0
+1630,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,2015,cat_8,22.0,0.0
+1631,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,2015,cat_8,15.0,0.0
+1632,Agriculteurs exploitants,pop_1,T15,H,2016,cat_1,8.0,0.0
+1633,Agriculteurs exploitants,pop_2,T25,H,2016,cat_1,162.0,1.0
+1634,Agriculteurs exploitants,pop_3,T50,H,2016,cat_1,181.0,1.0
+1635,Agriculteurs exploitants,pop_4,T15,F,2016,cat_1,2.0,0.0
+1636,Agriculteurs exploitants,pop_5,T25,F,2016,cat_1,46.0,0.0
+1637,Agriculteurs exploitants,pop_6,T50,F,2016,cat_1,81.0,1.0
+1638,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,2016,cat_2,18.0,2.0
+1639,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,2016,cat_2,702.0,40.0
+1640,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,2016,cat_2,507.0,21.0
+1641,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,2016,cat_2,10.0,1.0
+1642,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,2016,cat_2,295.0,16.0
+1643,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,2016,cat_2,201.0,9.0
+1644,Cadres et professions intellectuelles supérieures,pop_1,T15,H,2016,cat_3,55.0,2.0
+1645,Cadres et professions intellectuelles supérieures,pop_2,T25,H,2016,cat_3,1794.0,60.0
+1646,Cadres et professions intellectuelles supérieures,pop_3,T50,H,2016,cat_3,956.0,36.0
+1647,Cadres et professions intellectuelles supérieures,pop_4,T15,F,2016,cat_3,46.0,2.0
+1648,Cadres et professions intellectuelles supérieures,pop_5,T25,F,2016,cat_3,1307.0,54.0
+1649,Cadres et professions intellectuelles supérieures,pop_6,T50,F,2016,cat_3,564.0,19.0
+1650,Professions intermédiaires,pop_1,T15,H,2016,cat_4,223.0,21.0
+1651,Professions intermédiaires,pop_2,T25,H,2016,cat_4,2133.0,128.0
+1652,Professions intermédiaires,pop_3,T50,H,2016,cat_4,878.0,55.0
+1653,Professions intermédiaires,pop_4,T15,F,2016,cat_4,246.0,20.0
+1654,Professions intermédiaires,pop_5,T25,F,2016,cat_4,2485.0,121.0
+1655,Professions intermédiaires,pop_6,T50,F,2016,cat_4,890.0,42.0
+1656,Employés,pop_1,T15,H,2016,cat_5,244.0,46.0
+1657,Employés,pop_2,T25,H,2016,cat_5,1098.0,135.0
+1658,Employés,pop_3,T50,H,2016,cat_5,389.0,32.0
+1659,Employés,pop_4,T15,F,2016,cat_5,564.0,98.0
+1660,Employés,pop_5,T25,F,2016,cat_5,3163.0,410.0
+1661,Employés,pop_6,T50,F,2016,cat_5,1830.0,139.0
+1662,Ouvriers qualifiés,pop_1,T15,H,2016,cat_6,277.0,51.0
+1663,Ouvriers qualifiés,pop_2,T25,H,2016,cat_6,1957.0,252.0
+1664,Ouvriers qualifiés,pop_3,T50,H,2016,cat_6,852.0,104.0
+1665,Ouvriers qualifiés,pop_4,T15,F,2016,cat_6,39.0,8.0
+1666,Ouvriers qualifiés,pop_5,T25,F,2016,cat_6,260.0,38.0
+1667,Ouvriers qualifiés,pop_6,T50,F,2016,cat_6,144.0,18.0
+1668,Ouvriers non qualifiés,pop_1,T15,H,2016,cat_7,309.0,74.0
+1669,Ouvriers non qualifiés,pop_2,T25,H,2016,cat_7,670.0,178.0
+1670,Ouvriers non qualifiés,pop_3,T50,H,2016,cat_7,266.0,64.0
+1671,Ouvriers non qualifiés,pop_4,T15,F,2016,cat_7,58.0,22.0
+1672,Ouvriers non qualifiés,pop_5,T25,F,2016,cat_7,346.0,100.0
+1673,Ouvriers non qualifiés,pop_6,T50,F,2016,cat_7,219.0,34.0
+1674,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,2016,cat_8,5.0,0.0
+1675,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,2016,cat_8,35.0,0.0
+1676,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,2016,cat_8,12.0,0.0
+1677,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,2016,cat_8,6.0,0.0
+1678,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,2016,cat_8,29.0,0.0
+1679,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,2016,cat_8,18.0,0.0
+1680,Agriculteurs exploitants,pop_1,T15,H,2017,cat_1,7.0,0.0
+1681,Agriculteurs exploitants,pop_2,T25,H,2017,cat_1,143.0,2.0
+1682,Agriculteurs exploitants,pop_3,T50,H,2017,cat_1,169.0,1.0
+1683,Agriculteurs exploitants,pop_4,T15,F,2017,cat_1,2.0,0.0
+1684,Agriculteurs exploitants,pop_5,T25,F,2017,cat_1,42.0,0.0
+1685,Agriculteurs exploitants,pop_6,T50,F,2017,cat_1,72.0,0.0
+1686,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,2017,cat_2,15.0,1.0
+1687,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,2017,cat_2,693.0,36.0
+1688,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,2017,cat_2,502.0,23.0
+1689,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,2017,cat_2,9.0,0.0
+1690,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,2017,cat_2,305.0,17.0
+1691,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,2017,cat_2,207.0,9.0
+1692,Cadres et professions intellectuelles supérieures,pop_1,T15,H,2017,cat_3,66.0,3.0
+1693,Cadres et professions intellectuelles supérieures,pop_2,T25,H,2017,cat_3,1816.0,50.0
+1694,Cadres et professions intellectuelles supérieures,pop_3,T50,H,2017,cat_3,972.0,42.0
+1695,Cadres et professions intellectuelles supérieures,pop_4,T15,F,2017,cat_3,51.0,1.0
+1696,Cadres et professions intellectuelles supérieures,pop_5,T25,F,2017,cat_3,1321.0,48.0
+1697,Cadres et professions intellectuelles supérieures,pop_6,T50,F,2017,cat_3,594.0,19.0
+1698,Professions intermédiaires,pop_1,T15,H,2017,cat_4,233.0,18.0
+1699,Professions intermédiaires,pop_2,T25,H,2017,cat_4,2154.0,99.0
+1700,Professions intermédiaires,pop_3,T50,H,2017,cat_4,872.0,45.0
+1701,Professions intermédiaires,pop_4,T15,F,2017,cat_4,256.0,15.0
+1702,Professions intermédiaires,pop_5,T25,F,2017,cat_4,2453.0,126.0
+1703,Professions intermédiaires,pop_6,T50,F,2017,cat_4,918.0,39.0
+1704,Employés,pop_1,T15,H,2017,cat_5,270.0,46.0
+1705,Employés,pop_2,T25,H,2017,cat_5,1074.0,131.0
+1706,Employés,pop_3,T50,H,2017,cat_5,410.0,45.0
+1707,Employés,pop_4,T15,F,2017,cat_5,549.0,80.0
+1708,Employés,pop_5,T25,F,2017,cat_5,3149.0,390.0
+1709,Employés,pop_6,T50,F,2017,cat_5,1846.0,142.0
+1710,Ouvriers qualifiés,pop_1,T15,H,2017,cat_6,281.0,47.0
+1711,Ouvriers qualifiés,pop_2,T25,H,2017,cat_6,1980.0,224.0
+1712,Ouvriers qualifiés,pop_3,T50,H,2017,cat_6,881.0,89.0
+1713,Ouvriers qualifiés,pop_4,T15,F,2017,cat_6,45.0,6.0
+1714,Ouvriers qualifiés,pop_5,T25,F,2017,cat_6,268.0,41.0
+1715,Ouvriers qualifiés,pop_6,T50,F,2017,cat_6,143.0,17.0
+1716,Ouvriers non qualifiés,pop_1,T15,H,2017,cat_7,306.0,64.0
+1717,Ouvriers non qualifiés,pop_2,T25,H,2017,cat_7,709.0,184.0
+1718,Ouvriers non qualifiés,pop_3,T50,H,2017,cat_7,293.0,53.0
+1719,Ouvriers non qualifiés,pop_4,T15,F,2017,cat_7,72.0,19.0
+1720,Ouvriers non qualifiés,pop_5,T25,F,2017,cat_7,342.0,88.0
+1721,Ouvriers non qualifiés,pop_6,T50,F,2017,cat_7,235.0,35.0
+1722,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,2017,cat_8,5.0,0.0
+1723,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,2017,cat_8,20.0,0.0
+1724,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,2017,cat_8,12.0,0.0
+1725,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,2017,cat_8,6.0,0.0
+1726,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,2017,cat_8,21.0,0.0
+1727,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,2017,cat_8,14.0,0.0
+1728,Agriculteurs exploitants,pop_1,T15,H,2018,cat_1,7.0,0.0
+1729,Agriculteurs exploitants,pop_2,T25,H,2018,cat_1,131.0,2.0
+1730,Agriculteurs exploitants,pop_3,T50,H,2018,cat_1,167.0,1.0
+1731,Agriculteurs exploitants,pop_4,T15,F,2018,cat_1,1.0,0.0
+1732,Agriculteurs exploitants,pop_5,T25,F,2018,cat_1,39.0,0.0
+1733,Agriculteurs exploitants,pop_6,T50,F,2018,cat_1,64.0,1.0
+1734,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,2018,cat_2,21.0,1.0
+1735,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,2018,cat_2,694.0,26.0
+1736,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,2018,cat_2,530.0,20.0
+1737,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,2018,cat_2,8.0,0.0
+1738,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,2018,cat_2,290.0,17.0
+1739,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,2018,cat_2,199.0,8.0
+1740,Cadres et professions intellectuelles supérieures,pop_1,T15,H,2018,cat_3,80.0,3.0
+1741,Cadres et professions intellectuelles supérieures,pop_2,T25,H,2018,cat_3,1819.0,60.0
+1742,Cadres et professions intellectuelles supérieures,pop_3,T50,H,2018,cat_3,1006.0,44.0
+1743,Cadres et professions intellectuelles supérieures,pop_4,T15,F,2018,cat_3,51.0,2.0
+1744,Cadres et professions intellectuelles supérieures,pop_5,T25,F,2018,cat_3,1382.0,49.0
+1745,Cadres et professions intellectuelles supérieures,pop_6,T50,F,2018,cat_3,619.0,19.0
+1746,Professions intermédiaires,pop_1,T15,H,2018,cat_4,249.0,24.0
+1747,Professions intermédiaires,pop_2,T25,H,2018,cat_4,2155.0,115.0
+1748,Professions intermédiaires,pop_3,T50,H,2018,cat_4,863.0,48.0
+1749,Professions intermédiaires,pop_4,T15,F,2018,cat_4,287.0,17.0
+1750,Professions intermédiaires,pop_5,T25,F,2018,cat_4,2470.0,132.0
+1751,Professions intermédiaires,pop_6,T50,F,2018,cat_4,947.0,40.0
+1752,Employés,pop_1,T15,H,2018,cat_5,279.0,42.0
+1753,Employés,pop_2,T25,H,2018,cat_5,1058.0,125.0
+1754,Employés,pop_3,T50,H,2018,cat_5,435.0,39.0
+1755,Employés,pop_4,T15,F,2018,cat_5,558.0,86.0
+1756,Employés,pop_5,T25,F,2018,cat_5,3166.0,369.0
+1757,Employés,pop_6,T50,F,2018,cat_5,1853.0,140.0
+1758,Ouvriers qualifiés,pop_1,T15,H,2018,cat_6,303.0,44.0
+1759,Ouvriers qualifiés,pop_2,T25,H,2018,cat_6,1944.0,193.0
+1760,Ouvriers qualifiés,pop_3,T50,H,2018,cat_6,905.0,86.0
+1761,Ouvriers qualifiés,pop_4,T15,F,2018,cat_6,38.0,6.0
+1762,Ouvriers qualifiés,pop_5,T25,F,2018,cat_6,268.0,38.0
+1763,Ouvriers qualifiés,pop_6,T50,F,2018,cat_6,141.0,14.0
+1764,Ouvriers non qualifiés,pop_1,T15,H,2018,cat_7,294.0,61.0
+1765,Ouvriers non qualifiés,pop_2,T25,H,2018,cat_7,685.0,165.0
+1766,Ouvriers non qualifiés,pop_3,T50,H,2018,cat_7,284.0,45.0
+1767,Ouvriers non qualifiés,pop_4,T15,F,2018,cat_7,73.0,18.0
+1768,Ouvriers non qualifiés,pop_5,T25,F,2018,cat_7,329.0,82.0
+1769,Ouvriers non qualifiés,pop_6,T50,F,2018,cat_7,220.0,35.0
+1770,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,2018,cat_8,5.0,0.0
+1771,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,2018,cat_8,35.0,0.0
+1772,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,2018,cat_8,20.0,0.0
+1773,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,2018,cat_8,6.0,0.0
+1774,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,2018,cat_8,25.0,0.0
+1775,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,2018,cat_8,19.0,0.0
+1776,Agriculteurs exploitants,pop_1,T15,H,2019,cat_1,4.0,0.0
+1777,Agriculteurs exploitants,pop_2,T25,H,2019,cat_1,135.0,0.0
+1778,Agriculteurs exploitants,pop_3,T50,H,2019,cat_1,156.0,2.0
+1779,Agriculteurs exploitants,pop_4,T15,F,2019,cat_1,0.0,0.0
+1780,Agriculteurs exploitants,pop_5,T25,F,2019,cat_1,42.0,2.0
+1781,Agriculteurs exploitants,pop_6,T50,F,2019,cat_1,61.0,1.0
+1782,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,2019,cat_2,22.0,2.0
+1783,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,2019,cat_2,699.0,29.0
+1784,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,2019,cat_2,579.0,17.0
+1785,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,2019,cat_2,9.0,1.0
+1786,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,2019,cat_2,291.0,14.0
+1787,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,2019,cat_2,220.0,12.0
+1788,Cadres et professions intellectuelles supérieures,pop_1,T15,H,2019,cat_3,78.0,1.0
+1789,Cadres et professions intellectuelles supérieures,pop_2,T25,H,2019,cat_3,1905.0,72.0
+1790,Cadres et professions intellectuelles supérieures,pop_3,T50,H,2019,cat_3,1040.0,42.0
+1791,Cadres et professions intellectuelles supérieures,pop_4,T15,F,2019,cat_3,65.0,1.0
+1792,Cadres et professions intellectuelles supérieures,pop_5,T25,F,2019,cat_3,1475.0,54.0
+1793,Cadres et professions intellectuelles supérieures,pop_6,T50,F,2019,cat_3,672.0,20.0
+1794,Professions intermédiaires,pop_1,T15,H,2019,cat_4,252.0,21.0
+1795,Professions intermédiaires,pop_2,T25,H,2019,cat_4,2116.0,108.0
+1796,Professions intermédiaires,pop_3,T50,H,2019,cat_4,873.0,45.0
+1797,Professions intermédiaires,pop_4,T15,F,2019,cat_4,288.0,21.0
+1798,Professions intermédiaires,pop_5,T25,F,2019,cat_4,2481.0,118.0
+1799,Professions intermédiaires,pop_6,T50,F,2019,cat_4,962.0,34.0
+1800,Employés,pop_1,T15,H,2019,cat_5,274.0,47.0
+1801,Employés,pop_2,T25,H,2019,cat_5,1084.0,112.0
+1802,Employés,pop_3,T50,H,2019,cat_5,435.0,37.0
+1803,Employés,pop_4,T15,F,2019,cat_5,577.0,68.0
+1804,Employés,pop_5,T25,F,2019,cat_5,3070.0,322.0
+1805,Employés,pop_6,T50,F,2019,cat_5,1831.0,147.0
+1806,Ouvriers qualifiés,pop_1,T15,H,2019,cat_6,304.0,40.0
+1807,Ouvriers qualifiés,pop_2,T25,H,2019,cat_6,1839.0,169.0
+1808,Ouvriers qualifiés,pop_3,T50,H,2019,cat_6,882.0,93.0
+1809,Ouvriers qualifiés,pop_4,T15,F,2019,cat_6,36.0,8.0
+1810,Ouvriers qualifiés,pop_5,T25,F,2019,cat_6,275.0,34.0
+1811,Ouvriers qualifiés,pop_6,T50,F,2019,cat_6,144.0,16.0
+1812,Ouvriers non qualifiés,pop_1,T15,H,2019,cat_7,275.0,63.0
+1813,Ouvriers non qualifiés,pop_2,T25,H,2019,cat_7,663.0,146.0
+1814,Ouvriers non qualifiés,pop_3,T50,H,2019,cat_7,292.0,48.0
+1815,Ouvriers non qualifiés,pop_4,T15,F,2019,cat_7,74.0,17.0
+1816,Ouvriers non qualifiés,pop_5,T25,F,2019,cat_7,324.0,82.0
+1817,Ouvriers non qualifiés,pop_6,T50,F,2019,cat_7,209.0,32.0
+1818,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,2019,cat_8,5.0,0.0
+1819,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,2019,cat_8,38.0,0.0
+1820,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,2019,cat_8,20.0,0.0
+1821,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,2019,cat_8,5.0,0.0
+1822,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,2019,cat_8,34.0,0.0
+1823,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,2019,cat_8,19.0,0.0
+1824,Agriculteurs exploitants,pop_1,T15,H,2020,cat_1,8.0,0.0
+1825,Agriculteurs exploitants,pop_2,T25,H,2020,cat_1,126.0,0.0
+1826,Agriculteurs exploitants,pop_3,T50,H,2020,cat_1,137.0,1.0
+1827,Agriculteurs exploitants,pop_4,T15,F,2020,cat_1,0.0,0.0
+1828,Agriculteurs exploitants,pop_5,T25,F,2020,cat_1,40.0,0.0
+1829,Agriculteurs exploitants,pop_6,T50,F,2020,cat_1,56.0,1.0
+1830,"Artisans, commerçants et chefs d'entreprises",pop_1,T15,H,2020,cat_2,21.0,2.0
+1831,"Artisans, commerçants et chefs d'entreprises",pop_2,T25,H,2020,cat_2,706.0,27.0
+1832,"Artisans, commerçants et chefs d'entreprises",pop_3,T50,H,2020,cat_2,552.0,19.0
+1833,"Artisans, commerçants et chefs d'entreprises",pop_4,T15,F,2020,cat_2,11.0,0.0
+1834,"Artisans, commerçants et chefs d'entreprises",pop_5,T25,F,2020,cat_2,290.0,9.0
+1835,"Artisans, commerçants et chefs d'entreprises",pop_6,T50,F,2020,cat_2,255.0,12.0
+1836,Cadres et professions intellectuelles supérieures,pop_1,T15,H,2020,cat_3,85.0,5.0
+1837,Cadres et professions intellectuelles supérieures,pop_2,T25,H,2020,cat_3,1946.0,77.0
+1838,Cadres et professions intellectuelles supérieures,pop_3,T50,H,2020,cat_3,1126.0,37.0
+1839,Cadres et professions intellectuelles supérieures,pop_4,T15,F,2020,cat_3,73.0,3.0
+1840,Cadres et professions intellectuelles supérieures,pop_5,T25,F,2020,cat_3,1562.0,66.0
+1841,Cadres et professions intellectuelles supérieures,pop_6,T50,F,2020,cat_3,706.0,26.0
+1842,Professions intermédiaires,pop_1,T15,H,2020,cat_4,249.0,23.0
+1843,Professions intermédiaires,pop_2,T25,H,2020,cat_4,2079.0,109.0
+1844,Professions intermédiaires,pop_3,T50,H,2020,cat_4,901.0,45.0
+1845,Professions intermédiaires,pop_4,T15,F,2020,cat_4,290.0,25.0
+1846,Professions intermédiaires,pop_5,T25,F,2020,cat_4,2504.0,117.0
+1847,Professions intermédiaires,pop_6,T50,F,2020,cat_4,1002.0,37.0
+1848,Employés,pop_1,T15,H,2020,cat_5,271.0,44.0
+1849,Employés,pop_2,T25,H,2020,cat_5,1039.0,106.0
+1850,Employés,pop_3,T50,H,2020,cat_5,426.0,32.0
+1851,Employés,pop_4,T15,F,2020,cat_5,529.0,87.0
+1852,Employés,pop_5,T25,F,2020,cat_5,2904.0,277.0
+1853,Employés,pop_6,T50,F,2020,cat_5,1797.0,117.0
+1854,Ouvriers qualifiés,pop_1,T15,H,2020,cat_6,271.0,36.0
+1855,Ouvriers qualifiés,pop_2,T25,H,2020,cat_6,1839.0,171.0
+1856,Ouvriers qualifiés,pop_3,T50,H,2020,cat_6,866.0,70.0
+1857,Ouvriers qualifiés,pop_4,T15,F,2020,cat_6,42.0,6.0
+1858,Ouvriers qualifiés,pop_5,T25,F,2020,cat_6,256.0,41.0
+1859,Ouvriers qualifiés,pop_6,T50,F,2020,cat_6,152.0,10.0
+1860,Ouvriers non qualifiés,pop_1,T15,H,2020,cat_7,276.0,57.0
+1861,Ouvriers non qualifiés,pop_2,T25,H,2020,cat_7,608.0,123.0
+1862,Ouvriers non qualifiés,pop_3,T50,H,2020,cat_7,295.0,41.0
+1863,Ouvriers non qualifiés,pop_4,T15,F,2020,cat_7,65.0,17.0
+1864,Ouvriers non qualifiés,pop_5,T25,F,2020,cat_7,311.0,70.0
+1865,Ouvriers non qualifiés,pop_6,T50,F,2020,cat_7,205.0,25.0
+1866,"Autres (militaires du contingent, non renseigné)",pop_1,T15,H,2020,cat_8,5.0,0.0
+1867,"Autres (militaires du contingent, non renseigné)",pop_2,T25,H,2020,cat_8,34.0,0.0
+1868,"Autres (militaires du contingent, non renseigné)",pop_3,T50,H,2020,cat_8,18.0,0.0
+1869,"Autres (militaires du contingent, non renseigné)",pop_4,T15,F,2020,cat_8,3.0,0.0
+1870,"Autres (militaires du contingent, non renseigné)",pop_5,T25,F,2020,cat_8,35.0,0.0
+1871,"Autres (militaires du contingent, non renseigné)",pop_6,T50,F,2020,cat_8,20.0,0.0

@@ -25,7 +25,7 @@ def interface_géographique(age, sexe, df):
     )
 
     geo = st.sidebar.radio(
-        "Choissiez le niveau géographie", 
+        "Choissiez le secteur géographique", 
         ['Départemental', 'Régionale']
     )
 
@@ -109,9 +109,6 @@ def interface_géographique(age, sexe, df):
         folium.features.GeoJsonTooltip(fields = [nom, 'population'])
     )
 
-    fig_pop = px.bar(display_df.nlargest(10,'population'), 
-                y = nom, x = 'population',orientation = 'h')
-
     #La carte de chomeur
     m_cho = folium.Map(location=[46.71109 ,1.7191036], zoom_start=5)
 
@@ -150,12 +147,21 @@ def interface_géographique(age, sexe, df):
     
     fig_pop = px.funnel(display_df.nlargest(10,'population'), 
                 y = nom, x = 'population')
+    fig_pop.update_layout(title_x=0.5,
+                        xaxis_title='Population (en millier)',
+                        yaxis_title=leg)
 
     fig_cho = px.funnel(display_df.nlargest(10,'nombre_chomeur'), 
                 y = nom, x = 'nombre_chomeur')
+    fig_cho.update_layout(title_x=0.5,
+            xaxis_title='Nombre de chômeurs (en millier)',
+            yaxis_title=leg)
 
     fig_sal = px.funnel(temp_sal.nlargest(10,'salaire_moyen'), 
                 y = nom, x = 'salaire_moyen')
+    fig_sal.update_layout(title_x=0.5,
+                        xaxis_title='Salaire moyenne par heure',
+                        yaxis_title=leg)
 
     st.header("La population")
 
@@ -173,7 +179,7 @@ def interface_géographique(age, sexe, df):
     if b:
         me.backup(df,'data/indicateur_departement')
 
-    st.header("Les chomeurs par géographie")
+    st.header("Les chomeurs par le secteur géographique")
 
     #Layout des figures
     c3, c4 = st.columns((1,1))
@@ -187,8 +193,13 @@ def interface_géographique(age, sexe, df):
     st.header("La salaire moyen")
 
     c5, c6 = st.columns((1,1))
-    with c5:
-        folium_static(m_sal)
 
-    c6.subheader("Bien payé")
-    c6.plotly_chart(fig_sal)
+    if (a < 2020) &  (a> 2013):
+        with c5:
+            folium_static(m_sal)
+
+        c6.subheader("Bien payé")
+        c6.plotly_chart(fig_sal)
+    
+    else:
+        c5.subheader("Données indisponible pour l'année {}".format(a))
